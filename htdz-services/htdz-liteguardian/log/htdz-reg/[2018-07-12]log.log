@@ -1,0 +1,760 @@
+2018-07-12 09:23:36.025 [DubboServerHandler-172.18.11.168:7105-thread-24] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 09:23:37.706 [DubboServerHandler-172.18.11.168:7105-thread-25] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 09:23:38.183 [DubboServerHandler-172.18.11.168:7105-thread-26] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 09:23:42.549 [DubboServerHandler-172.18.11.168:7105-thread-27] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 09:23:42.552 [DubboServerHandler-172.18.11.168:7105-thread-28] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 09:23:42.752 [DubboServerHandler-172.18.11.168:7105-thread-29] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:23:45.003 [DubboServerHandler-172.18.11.168:7105-thread-30] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:23:49.611 [DubboServerHandler-172.18.11.168:7105-thread-31] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:23:52.734 [DubboServerHandler-172.18.11.168:7105-thread-32] INFO  log_log - hanleRegService method getUserInfo
+2018-07-12 09:24:05.392 [DubboServerHandler-172.18.11.168:7105-thread-33] INFO  log_log - hanleRegService method setUserPortrait
+2018-07-12 09:24:12.562 [DubboServerHandler-172.18.11.168:7105-thread-34] INFO  log_log - hanleRegService method getUserInfo
+2018-07-12 09:24:17.343 [DubboServerHandler-172.18.11.168:7105-thread-35] INFO  log_log - hanleRegService method getUserInfo
+2018-07-12 09:24:19.887 [DubboServerHandler-172.18.11.168:7105-thread-36] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:24:21.947 [DubboServerHandler-172.18.11.168:7105-thread-37] INFO  log_log - hanleRegService method getUserInfo
+2018-07-12 09:24:35.444 [DubboServerHandler-172.18.11.168:7105-thread-38] INFO  log_log - hanleRegService method setUserPortrait
+2018-07-12 09:27:44.329 [DubboServerHandler-172.18.11.168:7105-thread-39] INFO  log_log - hanleRegService method getUserInfo
+2018-07-12 09:28:01.785 [DubboServerHandler-172.18.11.168:7105-thread-40] INFO  log_log - hanleRegService method setUserPortrait
+2018-07-12 09:33:54.997 [DubboServerHandler-172.18.11.168:7105-thread-41] INFO  log_log - hanleRegService method setUserPortrait
+2018-07-12 09:37:18.417 [DubboServerHandler-172.18.11.168:7105-thread-42] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 09:37:19.557 [DubboServerHandler-172.18.11.168:7105-thread-43] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 09:37:19.843 [DubboServerHandler-172.18.11.168:7105-thread-44] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 09:37:23.309 [DubboServerHandler-172.18.11.168:7105-thread-45] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 09:37:23.325 [DubboServerHandler-172.18.11.168:7105-thread-46] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 09:37:23.526 [DubboServerHandler-172.18.11.168:7105-thread-47] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:37:24.135 [DubboServerHandler-172.18.11.168:7105-thread-48] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:37:28.140 [DubboServerHandler-172.18.11.168:7105-thread-49] INFO  log_log - hanleRegService method getUserInfo
+2018-07-12 09:37:57.428 [DubboServerHandler-172.18.11.168:7105-thread-50] INFO  log_log - hanleRegService method setUserPortrait
+2018-07-12 09:39:43.050 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:39:44.969 [DubboServerHandler-172.18.11.168:7105-thread-52] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 09:40:14.799 [DubboServerHandler-172.18.11.168:7105-thread-53] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 09:40:14.826 [DubboServerHandler-172.18.11.168:7105-thread-53] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:27ms____row:1136
+2018-07-12 09:40:25.793 [DubboServerHandler-172.18.11.168:7105-thread-54] INFO  log_log - hanleRegService method setDeviceSearch
+2018-07-12 09:41:01.447 [DubboServerHandler-172.18.11.168:7105-thread-55] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:41:44.362 [DubboServerHandler-172.18.11.168:7105-thread-56] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 09:41:45.784 [DubboServerHandler-172.18.11.168:7105-thread-57] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 09:41:46.012 [DubboServerHandler-172.18.11.168:7105-thread-58] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 09:41:56.931 [DubboServerHandler-172.18.11.168:7105-thread-59] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 09:41:56.940 [DubboServerHandler-172.18.11.168:7105-thread-60] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 09:41:57.159 [DubboServerHandler-172.18.11.168:7105-thread-61] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:41:57.705 [DubboServerHandler-172.18.11.168:7105-thread-62] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 09:56:28.830 [DubboServerHandler-172.18.11.168:7105-thread-63] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 09:56:29.963 [DubboServerHandler-172.18.11.168:7105-thread-64] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 09:56:30.227 [DubboServerHandler-172.18.11.168:7105-thread-65] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:00:26.912 [DubboServerHandler-172.18.11.168:7105-thread-66] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:00:28.085 [DubboServerHandler-172.18.11.168:7105-thread-67] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:00:28.347 [DubboServerHandler-172.18.11.168:7105-thread-68] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:00:31.373 [DubboServerHandler-172.18.11.168:7105-thread-69] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:00:31.415 [DubboServerHandler-172.18.11.168:7105-thread-70] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:00:31.769 [DubboServerHandler-172.18.11.168:7105-thread-71] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:00:32.419 [DubboServerHandler-172.18.11.168:7105-thread-72] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:01:28.253 [DubboServerHandler-172.18.11.168:7105-thread-73] INFO  log_log - hanleRegService method getGeoFenceCN
+2018-07-12 10:01:30.726 [DubboServerHandler-172.18.11.168:7105-thread-74] INFO  log_log - hanleRegService method getDeviceCustomized
+2018-07-12 10:01:30.996 [DubboServerHandler-172.18.11.168:7105-thread-75] INFO  log_log - hanleRegService method getGroupUser
+2018-07-12 10:02:32.273 [DubboServerHandler-172.18.11.168:7105-thread-76] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:02:32.311 [DubboServerHandler-172.18.11.168:7105-thread-76] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:37ms____row:1136
+2018-07-12 10:03:20.116 [DubboServerHandler-172.18.11.168:7105-thread-77] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:03:21.391 [DubboServerHandler-172.18.11.168:7105-thread-78] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:03:21.765 [DubboServerHandler-172.18.11.168:7105-thread-79] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:03:28.894 [DubboServerHandler-172.18.11.168:7105-thread-80] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:03:28.930 [DubboServerHandler-172.18.11.168:7105-thread-81] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:03:29.100 [DubboServerHandler-172.18.11.168:7105-thread-82] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:03:29.705 [DubboServerHandler-172.18.11.168:7105-thread-83] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:03:54.740 [DubboServerHandler-172.18.11.168:7105-thread-84] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:03:54.768 [DubboServerHandler-172.18.11.168:7105-thread-84] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:28ms____row:1136
+2018-07-12 10:04:01.002 [DubboServerHandler-172.18.11.168:7105-thread-85] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:04:02.084 [DubboServerHandler-172.18.11.168:7105-thread-86] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:04:02.225 [DubboServerHandler-172.18.11.168:7105-thread-87] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:04:09.635 [DubboServerHandler-172.18.11.168:7105-thread-88] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:04:10.519 [DubboServerHandler-172.18.11.168:7105-thread-89] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:04:10.654 [DubboServerHandler-172.18.11.168:7105-thread-90] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:04:18.863 [DubboServerHandler-172.18.11.168:7105-thread-91] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:04:20.093 [DubboServerHandler-172.18.11.168:7105-thread-92] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:04:20.231 [DubboServerHandler-172.18.11.168:7105-thread-93] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:04:26.445 [DubboServerHandler-172.18.11.168:7105-thread-94] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:04:27.411 [DubboServerHandler-172.18.11.168:7105-thread-95] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:04:27.540 [DubboServerHandler-172.18.11.168:7105-thread-96] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:05:18.336 [DubboServerHandler-172.18.11.168:7105-thread-97] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:05:18.376 [DubboServerHandler-172.18.11.168:7105-thread-97] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:40ms____row:1136
+2018-07-12 10:10:41.943 [DubboServerHandler-172.18.11.168:7105-thread-98] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:10:43.311 [DubboServerHandler-172.18.11.168:7105-thread-99] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:10:43.761 [DubboServerHandler-172.18.11.168:7105-thread-100] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:10:49.978 [DubboServerHandler-172.18.11.168:7105-thread-101] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:10:50.910 [DubboServerHandler-172.18.11.168:7105-thread-102] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:10:51.096 [DubboServerHandler-172.18.11.168:7105-thread-103] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:10:53.678 [DubboServerHandler-172.18.11.168:7105-thread-104] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:10:53.691 [DubboServerHandler-172.18.11.168:7105-thread-105] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:10:53.909 [DubboServerHandler-172.18.11.168:7105-thread-106] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:10:54.447 [DubboServerHandler-172.18.11.168:7105-thread-107] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:11:02.292 [DubboServerHandler-172.18.11.168:7105-thread-108] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:11:03.364 [DubboServerHandler-172.18.11.168:7105-thread-109] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:11:03.641 [DubboServerHandler-172.18.11.168:7105-thread-110] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:11:05.897 [DubboServerHandler-172.18.11.168:7105-thread-111] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:11:05.902 [DubboServerHandler-172.18.11.168:7105-thread-112] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:11:06.083 [DubboServerHandler-172.18.11.168:7105-thread-113] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:11:06.669 [DubboServerHandler-172.18.11.168:7105-thread-114] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:11:22.450 [DubboServerHandler-172.18.11.168:7105-thread-115] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:11:23.383 [DubboServerHandler-172.18.11.168:7105-thread-116] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:11:23.516 [DubboServerHandler-172.18.11.168:7105-thread-117] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:13:19.205 [DubboServerHandler-172.18.11.168:7105-thread-118] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:13:20.363 [DubboServerHandler-172.18.11.168:7105-thread-119] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:13:20.718 [DubboServerHandler-172.18.11.168:7105-thread-120] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:13:23.746 [DubboServerHandler-172.18.11.168:7105-thread-121] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:13:23.756 [DubboServerHandler-172.18.11.168:7105-thread-122] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:13:23.940 [DubboServerHandler-172.18.11.168:7105-thread-123] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:13:24.513 [DubboServerHandler-172.18.11.168:7105-thread-124] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:18:07.907 [DubboServerHandler-172.18.11.168:7105-thread-125] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:18:09.209 [DubboServerHandler-172.18.11.168:7105-thread-126] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:18:09.498 [DubboServerHandler-172.18.11.168:7105-thread-127] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:18:18.501 [DubboServerHandler-172.18.11.168:7105-thread-128] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:18:18.506 [DubboServerHandler-172.18.11.168:7105-thread-129] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:18:18.744 [DubboServerHandler-172.18.11.168:7105-thread-130] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:18:19.293 [DubboServerHandler-172.18.11.168:7105-thread-131] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:18:44.305 [DubboServerHandler-172.18.11.168:7105-thread-132] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:18:44.336 [DubboServerHandler-172.18.11.168:7105-thread-132] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:31ms____row:1136
+2018-07-12 10:19:09.312 [DubboServerHandler-172.18.11.168:7105-thread-133] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:19:09.351 [DubboServerHandler-172.18.11.168:7105-thread-133] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:38ms____row:1136
+2018-07-12 10:19:42.966 [DubboServerHandler-172.18.11.168:7105-thread-134] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:19:43.001 [DubboServerHandler-172.18.11.168:7105-thread-134] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:34ms____row:1136
+2018-07-12 10:20:07.957 [DubboServerHandler-172.18.11.168:7105-thread-135] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:20:07.985 [DubboServerHandler-172.18.11.168:7105-thread-135] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:28ms____row:1136
+2018-07-12 10:23:11.094 [DubboServerHandler-172.18.11.168:7105-thread-136] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:23:11.132 [DubboServerHandler-172.18.11.168:7105-thread-136] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400013_____functionTime:37ms____row:1136
+2018-07-12 10:27:36.859 [DubboServerHandler-172.18.11.168:7105-thread-137] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 10:27:43.899 [DubboServerHandler-172.18.11.168:7105-thread-138] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 10:27:57.983 [DubboServerHandler-172.18.11.168:7105-thread-139] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 10:28:17.579 [DubboServerHandler-172.18.11.168:7105-thread-140] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 10:29:05.831 [DubboServerHandler-172.18.11.168:7105-thread-141] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 10:29:21.561 [DubboServerHandler-172.18.11.168:7105-thread-142] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 10:29:38.847 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:29:38.877 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - 建立连接成功：设备号=863559032010085  消息流水=4
+2018-07-12 10:29:38.877 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - 发送消息成功：设备号=863559032010085  消息流水=4
+2018-07-12 10:29:38.887 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - 接收消息长度36
+2018-07-12 10:29:38.888 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:29:38.888 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:29:38.888 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - 返回响应消息:
+2018-07-12 10:29:41.078 [DubboServerHandler-172.18.11.168:7105-thread-144] INFO  log_log - hanleRegService method getalarminfo
+2018-07-12 10:37:36.549 [DubboServerHandler-172.18.11.168:7105-thread-145] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:37:37.480 [DubboServerHandler-172.18.11.168:7105-thread-146] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:37:37.646 [DubboServerHandler-172.18.11.168:7105-thread-147] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:38:04.498 [DubboServerHandler-172.18.11.168:7105-thread-148] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:38:04.529 [DubboServerHandler-172.18.11.168:7105-thread-148] INFO  log_log - functionName： getLasterGPS_____deviceSn:863559032010085_____functionTime:31ms____row:1136
+2018-07-12 10:38:41.297 [DubboServerHandler-172.18.11.168:7105-thread-149] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:38:41.328 [DubboServerHandler-172.18.11.168:7105-thread-149] INFO  log_log - functionName： getLasterGPS_____deviceSn:863559032010085_____functionTime:31ms____row:1136
+2018-07-12 10:43:27.282 [DubboServerHandler-172.18.11.168:7105-thread-150] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:43:34.028 [DubboServerHandler-172.18.11.168:7105-thread-151] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:43:34.517 [DubboServerHandler-172.18.11.168:7105-thread-152] INFO  log_log - hanleRegService method saveusertoken
+2018-07-12 10:43:34.560 [DubboServerHandler-172.18.11.168:7105-thread-153] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:43:34.590 [DubboServerHandler-172.18.11.168:7105-thread-154] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:43:36.471 [DubboServerHandler-172.18.11.168:7105-thread-155] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:43:36.473 [DubboServerHandler-172.18.11.168:7105-thread-156] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:43:36.595 [DubboServerHandler-172.18.11.168:7105-thread-157] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:43:43.903 [DubboServerHandler-172.18.11.168:7105-thread-158] INFO  log_log - hanleRegService method cancelAuthorization
+2018-07-12 10:43:50.018 [DubboServerHandler-172.18.11.168:7105-thread-159] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:43:51.476 [DubboServerHandler-172.18.11.168:7105-thread-160] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:43:51.576 [DubboServerHandler-172.18.11.168:7105-thread-161] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:43:51.905 [DubboServerHandler-172.18.11.168:7105-thread-162] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:43:53.056 [DubboServerHandler-172.18.11.168:7105-thread-163] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:43:55.527 [DubboServerHandler-172.18.11.168:7105-thread-164] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:43:55.613 [DubboServerHandler-172.18.11.168:7105-thread-165] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:01.128 [DubboServerHandler-172.18.11.168:7105-thread-166] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:44:02.375 [DubboServerHandler-172.18.11.168:7105-thread-167] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:44:02.731 [DubboServerHandler-172.18.11.168:7105-thread-168] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:44:24.513 [DubboServerHandler-172.18.11.168:7105-thread-169] INFO  log_log - hanleRegService method binding
+2018-07-12 10:44:28.189 [DubboServerHandler-172.18.11.168:7105-thread-170] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:28.374 [DubboServerHandler-172.18.11.168:7105-thread-171] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:31.031 [DubboServerHandler-172.18.11.168:7105-thread-172] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:31.065 [DubboServerHandler-172.18.11.168:7105-thread-172] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=5
+2018-07-12 10:44:31.066 [DubboServerHandler-172.18.11.168:7105-thread-172] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=5
+2018-07-12 10:44:31.069 [DubboServerHandler-172.18.11.168:7105-thread-172] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:31.070 [DubboServerHandler-172.18.11.168:7105-thread-172] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:31.070 [DubboServerHandler-172.18.11.168:7105-thread-172] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:38.407 [DubboServerHandler-172.18.11.168:7105-thread-173] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:38.443 [DubboServerHandler-172.18.11.168:7105-thread-173] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=6
+2018-07-12 10:44:38.443 [DubboServerHandler-172.18.11.168:7105-thread-173] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=6
+2018-07-12 10:44:38.446 [DubboServerHandler-172.18.11.168:7105-thread-173] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:38.447 [DubboServerHandler-172.18.11.168:7105-thread-173] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:38.447 [DubboServerHandler-172.18.11.168:7105-thread-173] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:38.537 [DubboServerHandler-172.18.11.168:7105-thread-174] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:38.571 [DubboServerHandler-172.18.11.168:7105-thread-174] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=7
+2018-07-12 10:44:38.571 [DubboServerHandler-172.18.11.168:7105-thread-174] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=7
+2018-07-12 10:44:38.574 [DubboServerHandler-172.18.11.168:7105-thread-174] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:38.575 [DubboServerHandler-172.18.11.168:7105-thread-174] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:38.575 [DubboServerHandler-172.18.11.168:7105-thread-174] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:47.987 [DubboServerHandler-172.18.11.168:7105-thread-175] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:48.016 [DubboServerHandler-172.18.11.168:7105-thread-175] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=8
+2018-07-12 10:44:48.016 [DubboServerHandler-172.18.11.168:7105-thread-175] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=8
+2018-07-12 10:44:48.018 [DubboServerHandler-172.18.11.168:7105-thread-175] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:48.019 [DubboServerHandler-172.18.11.168:7105-thread-175] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:48.019 [DubboServerHandler-172.18.11.168:7105-thread-175] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:49.320 [DubboServerHandler-172.18.11.168:7105-thread-176] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:49.356 [DubboServerHandler-172.18.11.168:7105-thread-176] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=9
+2018-07-12 10:44:49.356 [DubboServerHandler-172.18.11.168:7105-thread-176] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=9
+2018-07-12 10:44:49.359 [DubboServerHandler-172.18.11.168:7105-thread-176] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:49.359 [DubboServerHandler-172.18.11.168:7105-thread-176] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:49.360 [DubboServerHandler-172.18.11.168:7105-thread-176] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:50.021 [DubboServerHandler-172.18.11.168:7105-thread-177] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:50.051 [DubboServerHandler-172.18.11.168:7105-thread-177] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=10
+2018-07-12 10:44:50.051 [DubboServerHandler-172.18.11.168:7105-thread-177] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=10
+2018-07-12 10:44:50.054 [DubboServerHandler-172.18.11.168:7105-thread-177] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:50.054 [DubboServerHandler-172.18.11.168:7105-thread-177] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:50.054 [DubboServerHandler-172.18.11.168:7105-thread-177] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:50.653 [DubboServerHandler-172.18.11.168:7105-thread-178] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:50.685 [DubboServerHandler-172.18.11.168:7105-thread-178] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=11
+2018-07-12 10:44:50.686 [DubboServerHandler-172.18.11.168:7105-thread-178] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=11
+2018-07-12 10:44:50.689 [DubboServerHandler-172.18.11.168:7105-thread-178] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:50.689 [DubboServerHandler-172.18.11.168:7105-thread-178] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:50.689 [DubboServerHandler-172.18.11.168:7105-thread-178] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:50.998 [DubboServerHandler-172.18.11.168:7105-thread-179] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:51.000 [DubboServerHandler-172.18.11.168:7105-thread-180] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:51.031 [DubboServerHandler-172.18.11.168:7105-thread-179] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=12
+2018-07-12 10:44:51.032 [DubboServerHandler-172.18.11.168:7105-thread-179] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=12
+2018-07-12 10:44:51.034 [DubboServerHandler-172.18.11.168:7105-thread-179] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:51.035 [DubboServerHandler-172.18.11.168:7105-thread-179] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:51.035 [DubboServerHandler-172.18.11.168:7105-thread-179] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:51.231 [DubboServerHandler-172.18.11.168:7105-thread-180] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=13
+2018-07-12 10:44:51.232 [DubboServerHandler-172.18.11.168:7105-thread-180] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=13
+2018-07-12 10:44:51.234 [DubboServerHandler-172.18.11.168:7105-thread-180] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:51.235 [DubboServerHandler-172.18.11.168:7105-thread-180] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:51.235 [DubboServerHandler-172.18.11.168:7105-thread-180] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:51.352 [DubboServerHandler-172.18.11.168:7105-thread-181] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:51.386 [DubboServerHandler-172.18.11.168:7105-thread-181] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=14
+2018-07-12 10:44:51.386 [DubboServerHandler-172.18.11.168:7105-thread-181] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=14
+2018-07-12 10:44:51.389 [DubboServerHandler-172.18.11.168:7105-thread-181] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:51.390 [DubboServerHandler-172.18.11.168:7105-thread-181] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:51.390 [DubboServerHandler-172.18.11.168:7105-thread-181] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:51.491 [DubboServerHandler-172.18.11.168:7105-thread-182] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:51.526 [DubboServerHandler-172.18.11.168:7105-thread-182] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=15
+2018-07-12 10:44:51.527 [DubboServerHandler-172.18.11.168:7105-thread-182] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=15
+2018-07-12 10:44:51.530 [DubboServerHandler-172.18.11.168:7105-thread-182] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:51.530 [DubboServerHandler-172.18.11.168:7105-thread-182] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:51.530 [DubboServerHandler-172.18.11.168:7105-thread-182] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:52.525 [DubboServerHandler-172.18.11.168:7105-thread-183] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:52.560 [DubboServerHandler-172.18.11.168:7105-thread-183] INFO  log_log - 建立连接成功：设备号=866049037756319  消息流水=16
+2018-07-12 10:44:52.560 [DubboServerHandler-172.18.11.168:7105-thread-183] INFO  log_log - 发送消息成功：设备号=866049037756319  消息流水=16
+2018-07-12 10:44:52.562 [DubboServerHandler-172.18.11.168:7105-thread-183] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:52.563 [DubboServerHandler-172.18.11.168:7105-thread-183] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:52.563 [DubboServerHandler-172.18.11.168:7105-thread-183] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:44:52.563 [DubboServerHandler-172.18.11.168:7105-thread-183] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:54.702 [DubboServerHandler-172.18.11.168:7105-thread-184] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:54.734 [DubboServerHandler-172.18.11.168:7105-thread-184] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=17
+2018-07-12 10:44:54.734 [DubboServerHandler-172.18.11.168:7105-thread-184] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=17
+2018-07-12 10:44:54.738 [DubboServerHandler-172.18.11.168:7105-thread-184] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:54.738 [DubboServerHandler-172.18.11.168:7105-thread-184] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:54.738 [DubboServerHandler-172.18.11.168:7105-thread-184] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:55.827 [DubboServerHandler-172.18.11.168:7105-thread-185] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:56.046 [DubboServerHandler-172.18.11.168:7105-thread-185] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=18
+2018-07-12 10:44:56.047 [DubboServerHandler-172.18.11.168:7105-thread-185] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=18
+2018-07-12 10:44:56.050 [DubboServerHandler-172.18.11.168:7105-thread-185] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:56.050 [DubboServerHandler-172.18.11.168:7105-thread-185] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:56.051 [DubboServerHandler-172.18.11.168:7105-thread-185] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:57.167 [DubboServerHandler-172.18.11.168:7105-thread-186] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:44:57.178 [DubboServerHandler-172.18.11.168:7105-thread-187] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:44:57.372 [DubboServerHandler-172.18.11.168:7105-thread-188] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:57.408 [DubboServerHandler-172.18.11.168:7105-thread-188] INFO  log_log - 建立连接成功：设备号=863559032010085  消息流水=19
+2018-07-12 10:44:57.408 [DubboServerHandler-172.18.11.168:7105-thread-188] INFO  log_log - 发送消息成功：设备号=863559032010085  消息流水=19
+2018-07-12 10:44:57.410 [DubboServerHandler-172.18.11.168:7105-thread-188] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:57.411 [DubboServerHandler-172.18.11.168:7105-thread-188] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:57.411 [DubboServerHandler-172.18.11.168:7105-thread-188] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:44:57.411 [DubboServerHandler-172.18.11.168:7105-thread-188] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:57.518 [DubboServerHandler-172.18.11.168:7105-thread-189] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:57.550 [DubboServerHandler-172.18.11.168:7105-thread-189] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=20
+2018-07-12 10:44:57.550 [DubboServerHandler-172.18.11.168:7105-thread-189] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=20
+2018-07-12 10:44:57.553 [DubboServerHandler-172.18.11.168:7105-thread-189] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:57.553 [DubboServerHandler-172.18.11.168:7105-thread-189] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:57.553 [DubboServerHandler-172.18.11.168:7105-thread-189] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:57.999 [DubboServerHandler-172.18.11.168:7105-thread-190] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:58.035 [DubboServerHandler-172.18.11.168:7105-thread-190] INFO  log_log - 建立连接成功：设备号=863559032010085  消息流水=21
+2018-07-12 10:44:58.035 [DubboServerHandler-172.18.11.168:7105-thread-190] INFO  log_log - 发送消息成功：设备号=863559032010085  消息流水=21
+2018-07-12 10:44:58.037 [DubboServerHandler-172.18.11.168:7105-thread-190] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:58.038 [DubboServerHandler-172.18.11.168:7105-thread-190] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:58.038 [DubboServerHandler-172.18.11.168:7105-thread-190] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:44:58.038 [DubboServerHandler-172.18.11.168:7105-thread-190] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:58.365 [DubboServerHandler-172.18.11.168:7105-thread-191] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:58.398 [DubboServerHandler-172.18.11.168:7105-thread-191] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=22
+2018-07-12 10:44:58.398 [DubboServerHandler-172.18.11.168:7105-thread-191] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=22
+2018-07-12 10:44:58.401 [DubboServerHandler-172.18.11.168:7105-thread-191] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:58.402 [DubboServerHandler-172.18.11.168:7105-thread-191] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:58.402 [DubboServerHandler-172.18.11.168:7105-thread-191] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:58.723 [DubboServerHandler-172.18.11.168:7105-thread-192] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:58.725 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:44:58.752 [DubboServerHandler-172.18.11.168:7105-thread-192] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=23
+2018-07-12 10:44:58.752 [DubboServerHandler-172.18.11.168:7105-thread-192] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=23
+2018-07-12 10:44:58.754 [DubboServerHandler-172.18.11.168:7105-thread-192] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:58.755 [DubboServerHandler-172.18.11.168:7105-thread-192] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:58.755 [DubboServerHandler-172.18.11.168:7105-thread-192] INFO  log_log - 返回响应消息:
+2018-07-12 10:44:58.978 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=24
+2018-07-12 10:44:58.978 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=24
+2018-07-12 10:44:58.980 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 接收消息长度36
+2018-07-12 10:44:58.981 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:44:58.981 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 返回响应消息:
+2018-07-12 10:45:08.277 [DubboServerHandler-172.18.11.168:7105-thread-194] INFO  log_log - hanleRegService method getUserInfo
+2018-07-12 10:45:10.904 [DubboServerHandler-172.18.11.168:7105-thread-195] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:45:10.945 [DubboServerHandler-172.18.11.168:7105-thread-195] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=25
+2018-07-12 10:45:10.945 [DubboServerHandler-172.18.11.168:7105-thread-195] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=25
+2018-07-12 10:45:10.949 [DubboServerHandler-172.18.11.168:7105-thread-195] INFO  log_log - 接收消息长度36
+2018-07-12 10:45:10.949 [DubboServerHandler-172.18.11.168:7105-thread-195] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:45:10.949 [DubboServerHandler-172.18.11.168:7105-thread-195] INFO  log_log - 返回响应消息:
+2018-07-12 10:45:11.030 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:45:11.469 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=26
+2018-07-12 10:45:11.469 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=26
+2018-07-12 10:45:11.471 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - 接收消息长度36
+2018-07-12 10:45:11.472 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:45:11.472 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - 返回响应消息:
+2018-07-12 10:45:11.699 [DubboServerHandler-172.18.11.168:7105-thread-197] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:45:11.732 [DubboServerHandler-172.18.11.168:7105-thread-197] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=27
+2018-07-12 10:45:11.732 [DubboServerHandler-172.18.11.168:7105-thread-197] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=27
+2018-07-12 10:45:11.734 [DubboServerHandler-172.18.11.168:7105-thread-197] INFO  log_log - 接收消息长度36
+2018-07-12 10:45:11.734 [DubboServerHandler-172.18.11.168:7105-thread-197] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:45:11.734 [DubboServerHandler-172.18.11.168:7105-thread-197] INFO  log_log - 返回响应消息:
+2018-07-12 10:45:12.694 [DubboServerHandler-172.18.11.168:7105-thread-198] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:45:12.736 [DubboServerHandler-172.18.11.168:7105-thread-198] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=28
+2018-07-12 10:45:12.737 [DubboServerHandler-172.18.11.168:7105-thread-198] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=28
+2018-07-12 10:45:12.739 [DubboServerHandler-172.18.11.168:7105-thread-198] INFO  log_log - 接收消息长度36
+2018-07-12 10:45:12.740 [DubboServerHandler-172.18.11.168:7105-thread-198] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:45:12.740 [DubboServerHandler-172.18.11.168:7105-thread-198] INFO  log_log - 返回响应消息:
+2018-07-12 10:45:30.308 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:45:31.553 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:45:31.848 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:45:38.179 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:45:38.209 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:30ms____row:1136
+2018-07-12 10:45:47.851 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:45:47.866 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:45:48.943 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:45:48.945 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:45:49.216 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 建立连接成功：设备号=863559032010085  消息流水=29
+2018-07-12 10:45:49.217 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 发送消息成功：设备号=863559032010085  消息流水=29
+2018-07-12 10:45:49.219 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 接收消息长度36
+2018-07-12 10:45:49.220 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:45:49.220 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:45:49.220 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 返回响应消息:
+2018-07-12 10:45:49.332 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 建立连接成功：设备号=863559032010085  消息流水=30
+2018-07-12 10:45:49.333 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 发送消息成功：设备号=863559032010085  消息流水=30
+2018-07-12 10:45:49.335 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 接收消息长度36
+2018-07-12 10:45:49.336 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:45:49.336 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:45:49.336 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 返回响应消息:
+2018-07-12 10:46:03.020 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:46:03.050 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:29ms____row:1136
+2018-07-12 10:46:13.658 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:46:13.690 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:863559032010085_____functionTime:31ms____row:1136
+2018-07-12 10:46:28.003 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:46:28.042 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:38ms____row:1136
+2018-07-12 10:46:48.641 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:46:48.672 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:863559032010085_____functionTime:30ms____row:1136
+2018-07-12 10:46:53.319 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:46:53.351 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:31ms____row:1136
+2018-07-12 10:47:18.117 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:47:18.151 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:34ms____row:1136
+2018-07-12 10:47:43.009 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:47:43.040 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:31ms____row:1136
+2018-07-12 10:48:08.256 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:48:08.321 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:64ms____row:1136
+2018-07-12 10:48:33.023 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:48:33.054 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:31ms____row:1136
+2018-07-12 10:48:41.838 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:48:41.851 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:48:42.049 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:48:43.906 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:48:51.916 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:48:52.970 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:48:53.058 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:48:55.317 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:48:55.347 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:48:55.449 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:48:57.046 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:48:57.956 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:48:57.989 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:33ms____row:1136
+2018-07-12 10:49:22.985 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:49:23.015 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:30ms____row:1136
+2018-07-12 10:49:47.979 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:49:48.012 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:32ms____row:1136
+2018-07-12 10:49:49.097 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method binding
+2018-07-12 10:49:59.871 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:49:59.916 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=31
+2018-07-12 10:49:59.916 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=31
+2018-07-12 10:49:59.919 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 接收消息长度36
+2018-07-12 10:49:59.919 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:49:59.919 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 返回响应消息:
+2018-07-12 10:50:20.383 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method logout
+2018-07-12 10:50:25.067 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:50:25.106 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:39ms____row:1136
+2018-07-12 10:50:50.114 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:50:50.147 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:33ms____row:1136
+2018-07-12 10:51:00.833 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method binding
+2018-07-12 10:51:05.413 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method binding
+2018-07-12 10:51:15.068 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:51:15.112 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:43ms____row:1136
+2018-07-12 10:51:40.057 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:51:40.086 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:29ms____row:1136
+2018-07-12 10:52:05.060 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:52:05.099 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:39ms____row:1136
+2018-07-12 10:52:30.071 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:52:30.112 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:41ms____row:1136
+2018-07-12 10:52:31.896 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 10:52:33.076 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 10:52:33.392 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 10:52:42.616 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 10:52:42.653 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 10:52:42.770 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCarData
+2018-07-12 10:52:42.772 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:52:43.009 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 建立连接成功：设备号=213GD0000003  消息流水=32
+2018-07-12 10:52:43.009 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 发送消息成功：设备号=213GD0000003  消息流水=32
+2018-07-12 10:52:43.011 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 接收消息长度36
+2018-07-12 10:52:43.012 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:52:43.012 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:52:43.012 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 返回响应消息:
+2018-07-12 10:52:46.523 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getCarData
+2018-07-12 10:52:46.524 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:52:46.756 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 建立连接成功：设备号=213GD0000003  消息流水=33
+2018-07-12 10:52:46.756 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 发送消息成功：设备号=213GD0000003  消息流水=33
+2018-07-12 10:52:46.758 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 接收消息长度36
+2018-07-12 10:52:46.758 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:52:46.758 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:52:46.758 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 返回响应消息:
+2018-07-12 10:52:55.132 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:52:55.171 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:39ms____row:1136
+2018-07-12 10:53:08.497 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method binding
+2018-07-12 10:53:09.315 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:53:09.315 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:53:09.354 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 建立连接成功：设备号=358074080201414  消息流水=34
+2018-07-12 10:53:09.354 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 发送消息成功：设备号=358074080201414  消息流水=34
+2018-07-12 10:53:09.359 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 接收消息长度36
+2018-07-12 10:53:09.359 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:53:09.359 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:53:09.359 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - 返回响应消息:
+2018-07-12 10:53:09.626 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 建立连接成功：设备号=358074080201414  消息流水=35
+2018-07-12 10:53:09.626 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 发送消息成功：设备号=358074080201414  消息流水=35
+2018-07-12 10:53:09.630 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 接收消息长度36
+2018-07-12 10:53:09.630 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:53:09.630 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:53:09.630 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 返回响应消息:
+2018-07-12 10:53:11.730 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:53:11.773 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 建立连接成功：设备号=358074080201414  消息流水=36
+2018-07-12 10:53:11.773 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 发送消息成功：设备号=358074080201414  消息流水=36
+2018-07-12 10:53:11.775 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 接收消息长度36
+2018-07-12 10:53:11.776 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:53:11.776 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 进行响应消息筛选:
+2018-07-12 10:53:11.776 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 返回响应消息:
+2018-07-12 10:53:20.051 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:53:20.088 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:37ms____row:1136
+2018-07-12 10:53:34.265 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:53:45.140 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:53:45.176 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:36ms____row:1136
+2018-07-12 10:53:59.272 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:54:10.125 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:54:10.155 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:30ms____row:1136
+2018-07-12 10:54:35.110 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:54:35.213 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:103ms____row:1136
+2018-07-12 10:54:40.721 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 10:54:40.757 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 建立连接成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=37
+2018-07-12 10:54:40.757 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 发送消息成功：设备号=C0FABD974D5049EFADF69F7C13283868  消息流水=37
+2018-07-12 10:54:40.759 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 接收消息长度36
+2018-07-12 10:54:40.779 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 10:54:40.793 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - 返回响应消息:
+2018-07-12 10:54:45.394 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:55:08.160 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:55:08.194 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:34ms____row:1136
+2018-07-12 10:55:18.484 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method binding
+2018-07-12 10:55:21.174 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:55:33.148 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:55:33.318 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:170ms____row:1136
+2018-07-12 10:55:50.352 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method binding
+2018-07-12 10:55:55.380 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method binding
+2018-07-12 10:55:58.167 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:55:58.204 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:36ms____row:1136
+2018-07-12 10:56:23.166 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:56:23.208 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:42ms____row:1136
+2018-07-12 10:56:31.713 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:56:48.174 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:56:48.215 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:40ms____row:1136
+2018-07-12 10:57:04.666 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:57:13.315 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:57:13.360 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:45ms____row:1136
+2018-07-12 10:57:29.682 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:57:34.478 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method binding
+2018-07-12 10:57:38.154 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:57:38.195 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:41ms____row:1136
+2018-07-12 10:58:06.535 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method binding
+2018-07-12 10:58:23.937 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:58:23.977 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:39ms____row:1136
+2018-07-12 10:58:36.600 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 10:59:11.352 [DubboServerHandler-172.18.11.168:7105-thread-199] INFO  log_log - hanleRegService method binding
+2018-07-12 10:59:31.356 [DubboServerHandler-172.18.11.168:7105-thread-200] INFO  log_log - hanleRegService method binding
+2018-07-12 10:59:51.359 [DubboServerHandler-172.18.11.168:7105-thread-198] INFO  log_log - hanleRegService method binding
+2018-07-12 11:00:31.453 [DubboServerHandler-172.18.11.168:7105-thread-197] INFO  log_log - hanleRegService method binding
+2018-07-12 11:00:51.008 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - hanleRegService method getDeviceCustomized
+2018-07-12 11:00:51.457 [DubboServerHandler-172.18.11.168:7105-thread-196] INFO  log_log - hanleRegService method binding
+2018-07-12 11:01:03.534 [DubboServerHandler-172.18.11.168:7105-thread-195] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 11:01:11.469 [DubboServerHandler-172.18.11.168:7105-thread-194] INFO  log_log - hanleRegService method binding
+2018-07-12 11:01:23.517 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 11:02:08.513 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 11:02:52.786 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 11:04:58.285 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 11:04:58.344 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:59ms____row:1136
+2018-07-12 11:05:47.577 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method checkForUpdate
+2018-07-12 11:05:47.594 [DubboServerHandler-172.18.11.168:7105-thread-194] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 11:05:47.817 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 11:05:47.987 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 建立连接成功：设备号=358074080201414  消息流水=38
+2018-07-12 11:05:47.988 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 发送消息成功：设备号=358074080201414  消息流水=38
+2018-07-12 11:05:47.990 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 接收消息长度36
+2018-07-12 11:05:47.990 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 11:05:47.990 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 进行响应消息筛选:
+2018-07-12 11:05:47.990 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 返回响应消息:
+2018-07-12 11:05:48.305 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 11:05:48.366 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 建立连接成功：设备号=358074080201414  消息流水=39
+2018-07-12 11:05:48.367 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 发送消息成功：设备号=358074080201414  消息流水=39
+2018-07-12 11:05:48.369 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 接收消息长度36
+2018-07-12 11:05:48.369 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 11:05:48.369 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 进行响应消息筛选:
+2018-07-12 11:05:48.369 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - 返回响应消息:
+2018-07-12 11:06:13.360 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 11:06:13.433 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:73ms____row:1136
+2018-07-12 11:09:24.708 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 11:09:24.780 [DubboServerHandler-172.18.11.168:7105-thread-193] INFO  log_log - functionName： getLasterGPS_____deviceSn:C0FABD974D5049EFADF69F7C13283868_____functionTime:71ms____row:1136
+2018-07-12 12:06:01.427 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-12 12:06:10.414 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-12 12:06:41.438 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-12 12:09:06.736 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-12 12:09:16.017 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-12 12:10:24.811 [DubboServerHandler-172.18.11.168:7105-thread-2] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 12:10:25.918 [DubboServerHandler-172.18.11.168:7105-thread-3] INFO  log_log - hanleRegService method saveusertoken
+2018-07-12 12:10:25.921 [DubboServerHandler-172.18.11.168:7105-thread-4] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 12:10:26.914 [DubboServerHandler-172.18.11.168:7105-thread-5] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 12:10:27.986 [DubboServerHandler-172.18.11.168:7105-thread-6] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 12:10:27.997 [DubboServerHandler-172.18.11.168:7105-thread-7] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 12:10:28.161 [DubboServerHandler-172.18.11.168:7105-thread-8] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 12:10:32.153 [DubboServerHandler-172.18.11.168:7105-thread-9] INFO  log_log - hanleRegService method getInfo
+2018-07-12 12:10:36.538 [DubboServerHandler-172.18.11.168:7105-thread-10] INFO  log_log - hanleRegService method setInfo
+2018-07-12 12:10:36.812 [DubboServerHandler-172.18.11.168:7105-thread-10] ERROR log_log - error:
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'HT' in 'field list'
+### The error may involve com.htdz.db.mapper.DaoMapper.modify-Inline
+### The error occurred while setting parameters
+### SQL: INSERT INTO TDeviceInfo(did, human_name, human_sex, human_age, human_height,human_weight, human_step, human_feature, human_addr, human_lost_addr) VALUES(27816, HT-790, 1, null, null, null, null, null,null,null)
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'HT' in 'field list'
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'HT' in 'field list'
+2018-07-12 12:12:30.870 [DubboServerHandler-172.18.11.168:7105-thread-11] INFO  log_log - hanleRegService method setInfo
+2018-07-12 12:12:50.873 [DubboServerHandler-172.18.11.168:7105-thread-12] INFO  log_log - hanleRegService method setInfo
+2018-07-12 12:13:10.876 [DubboServerHandler-172.18.11.168:7105-thread-13] INFO  log_log - hanleRegService method setInfo
+2018-07-12 13:59:51.198 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-12 14:00:03.182 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-12 14:00:30.443 [DubboServerHandler-172.18.11.168:7105-thread-2] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:00:30.443 [DubboServerHandler-172.18.11.168:7105-thread-3] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:00:30.562 [DubboServerHandler-172.18.11.168:7105-thread-4] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 14:00:30.563 [DubboServerHandler-172.18.11.168:7105-thread-5] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 14:00:36.897 [DubboServerHandler-172.18.11.168:7105-thread-6] INFO  log_log - hanleRegService method saveusertoken
+2018-07-12 14:00:38.740 [DubboServerHandler-172.18.11.168:7105-thread-7] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:00:39.581 [DubboServerHandler-172.18.11.168:7105-thread-8] INFO  log_log - hanleRegService method saveusertoken
+2018-07-12 14:00:47.952 [DubboServerHandler-172.18.11.168:7105-thread-9] INFO  log_log - hanleRegService method getInfo
+2018-07-12 14:00:51.822 [DubboServerHandler-172.18.11.168:7105-thread-10] INFO  log_log - hanleRegService method setInfo
+2018-07-12 14:01:04.764 [DubboServerHandler-172.18.11.168:7105-thread-11] INFO  log_log - hanleRegService method setInfo
+2018-07-12 14:01:09.140 [DubboServerHandler-172.18.11.168:7105-thread-12] INFO  log_log - hanleRegService method setInfo
+2018-07-12 14:01:18.420 [DubboServerHandler-172.18.11.168:7105-thread-13] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:01:18.537 [DubboServerHandler-172.18.11.168:7105-thread-14] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:01:43.834 [DubboServerHandler-172.18.11.168:7105-thread-15] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:01:43.876 [DubboServerHandler-172.18.11.168:7105-thread-15] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:42ms____row:1136
+2018-07-12 14:02:08.834 [DubboServerHandler-172.18.11.168:7105-thread-16] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:02:08.874 [DubboServerHandler-172.18.11.168:7105-thread-16] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:38ms____row:1136
+2018-07-12 14:02:33.813 [DubboServerHandler-172.18.11.168:7105-thread-17] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:02:33.849 [DubboServerHandler-172.18.11.168:7105-thread-17] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:36ms____row:1136
+2018-07-12 14:02:58.824 [DubboServerHandler-172.18.11.168:7105-thread-18] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:02:58.865 [DubboServerHandler-172.18.11.168:7105-thread-18] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:40ms____row:1136
+2018-07-12 14:03:23.822 [DubboServerHandler-172.18.11.168:7105-thread-19] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:03:23.862 [DubboServerHandler-172.18.11.168:7105-thread-19] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:40ms____row:1136
+2018-07-12 14:03:48.811 [DubboServerHandler-172.18.11.168:7105-thread-20] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:03:48.837 [DubboServerHandler-172.18.11.168:7105-thread-20] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:26ms____row:1136
+2018-07-12 14:04:13.822 [DubboServerHandler-172.18.11.168:7105-thread-21] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:04:13.865 [DubboServerHandler-172.18.11.168:7105-thread-21] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:43ms____row:1136
+2018-07-12 14:04:38.820 [DubboServerHandler-172.18.11.168:7105-thread-22] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:04:38.850 [DubboServerHandler-172.18.11.168:7105-thread-22] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:30ms____row:1136
+2018-07-12 14:05:03.827 [DubboServerHandler-172.18.11.168:7105-thread-23] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:05:03.863 [DubboServerHandler-172.18.11.168:7105-thread-23] INFO  log_log - functionName： getLasterGPS_____deviceSn:866237030050679_____functionTime:35ms____row:1136
+2018-07-12 14:36:11.556 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-12 14:36:19.963 [DubboServerHandler-172.18.11.168:7105-thread-3] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 14:36:19.974 [DubboServerHandler-172.18.11.168:7105-thread-2] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 14:36:21.037 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-12 14:36:24.382 [DubboServerHandler-172.18.11.168:7105-thread-4] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:36:24.429 [DubboServerHandler-172.18.11.168:7105-thread-4] INFO  log_log - functionName： getLasterGPS_____deviceSn:867400020316612_____functionTime:44ms____row:1136
+2018-07-12 14:36:25.938 [DubboServerHandler-172.18.11.168:7105-thread-5] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:36:36.047 [DubboServerHandler-172.18.11.168:7105-thread-6] INFO  log_log - hanleRegService method setDeviceSearch
+2018-07-12 14:37:06.254 [DubboServerHandler-172.18.11.168:7105-thread-7] INFO  log_log - hanleRegService method setDeviceSearch
+2018-07-12 14:38:12.731 [DubboServerHandler-172.18.11.168:7105-thread-8] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:38:14.416 [DubboServerHandler-172.18.11.168:7105-thread-9] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:38:15.676 [DubboServerHandler-172.18.11.168:7105-thread-10] INFO  log_log - hanleRegService method getInfo
+2018-07-12 14:38:18.257 [DubboServerHandler-172.18.11.168:7105-thread-11] INFO  log_log - hanleRegService method setInfo
+2018-07-12 14:38:29.377 [DubboServerHandler-172.18.11.168:7105-thread-12] INFO  log_log - hanleRegService method setHeadPortrait
+2018-07-12 14:38:33.300 [DubboServerHandler-172.18.11.168:7105-thread-13] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:38:35.861 [DubboServerHandler-172.18.11.168:7105-thread-14] INFO  log_log - hanleRegService method getInfo
+2018-07-12 14:38:47.029 [DubboServerHandler-172.18.11.168:7105-thread-15] INFO  log_log - hanleRegService method getContact
+2018-07-12 14:39:18.954 [DubboServerHandler-172.18.11.168:7105-thread-16] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:39:30.690 [DubboServerHandler-172.18.11.168:7105-thread-17] INFO  log_log - hanleRegService method getInfo
+2018-07-12 14:39:34.771 [DubboServerHandler-172.18.11.168:7105-thread-18] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:39:47.317 [DubboServerHandler-172.18.11.168:7105-thread-19] INFO  log_log - hanleRegService method getContact
+2018-07-12 14:40:08.267 [DubboServerHandler-172.18.11.168:7105-thread-20] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:41:29.865 [DubboServerHandler-172.18.11.168:7105-thread-21] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:41:29.938 [DubboServerHandler-172.18.11.168:7105-thread-22] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 14:41:54.871 [DubboServerHandler-172.18.11.168:7105-thread-23] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:41:54.912 [DubboServerHandler-172.18.11.168:7105-thread-23] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:41ms____row:1136
+2018-07-12 14:43:02.486 [DubboServerHandler-172.18.11.168:7105-thread-24] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:43:09.037 [DubboServerHandler-172.18.11.168:7105-thread-25] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:43:09.086 [DubboServerHandler-172.18.11.168:7105-thread-25] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:48ms____row:1136
+2018-07-12 14:43:33.993 [DubboServerHandler-172.18.11.168:7105-thread-26] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:43:34.026 [DubboServerHandler-172.18.11.168:7105-thread-26] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:33ms____row:1136
+2018-07-12 14:43:59.002 [DubboServerHandler-172.18.11.168:7105-thread-27] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:43:59.345 [DubboServerHandler-172.18.11.168:7105-thread-27] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:343ms____row:1136
+2018-07-12 14:44:57.460 [DubboServerHandler-172.18.11.168:7105-thread-28] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:44:57.497 [DubboServerHandler-172.18.11.168:7105-thread-28] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:36ms____row:1136
+2018-07-12 14:45:33.277 [DubboServerHandler-172.18.11.168:7105-thread-29] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:49:44.657 [DubboServerHandler-172.18.11.168:7105-thread-30] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:51:26.796 [DubboServerHandler-172.18.11.168:7105-thread-31] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:52:07.640 [DubboServerHandler-172.18.11.168:7105-thread-32] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:55:16.307 [DubboServerHandler-172.18.11.168:7105-thread-33] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:55:36.663 [DubboServerHandler-172.18.11.168:7105-thread-34] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:58:07.128 [DubboServerHandler-172.18.11.168:7105-thread-35] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:58:27.944 [DubboServerHandler-172.18.11.168:7105-thread-36] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 14:59:08.666 [DubboServerHandler-172.18.11.168:7105-thread-37] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 14:59:33.704 [DubboServerHandler-172.18.11.168:7105-thread-38] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 14:59:33.739 [DubboServerHandler-172.18.11.168:7105-thread-38] INFO  log_log - functionName： getLasterGPS_____deviceSn:867400020316612_____functionTime:35ms____row:1136
+2018-07-12 14:59:39.601 [DubboServerHandler-172.18.11.168:7105-thread-39] INFO  log_log - hanleRegService method getContact
+2018-07-12 15:02:04.920 [DubboServerHandler-172.18.11.168:7105-thread-40] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 15:05:04.260 [DubboServerHandler-172.18.11.168:7105-thread-41] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 15:05:34.196 [DubboServerHandler-172.18.11.168:7105-thread-42] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 15:09:25.166 [DubboServerHandler-172.18.11.168:7105-thread-43] INFO  log_log - hanleRegService method getDeviceCustomized
+2018-07-12 15:09:25.185 [DubboServerHandler-172.18.11.168:7105-thread-44] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:09:25.187 [DubboServerHandler-172.18.11.168:7105-thread-45] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:09:25.191 [DubboServerHandler-172.18.11.168:7105-thread-46] INFO  log_log - hanleRegService method getDeviceCustomized
+2018-07-12 15:09:25.256 [DubboServerHandler-172.18.11.168:7105-thread-47] INFO  log_log - hanleRegService method getDeviceCustomized
+2018-07-12 15:09:25.567 [DubboServerHandler-172.18.11.168:7105-thread-45] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:380ms____row:1136
+2018-07-12 15:09:25.568 [DubboServerHandler-172.18.11.168:7105-thread-44] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:382ms____row:1136
+2018-07-12 15:09:26.011 [DubboServerHandler-172.18.11.168:7105-thread-48] INFO  log_log - hanleRegService method getGroupUser
+2018-07-12 15:09:33.025 [DubboServerHandler-172.18.11.168:7105-thread-49] INFO  log_log - hanleRegService method getGroupUser
+2018-07-12 15:09:39.024 [DubboServerHandler-172.18.11.168:7105-thread-50] INFO  log_log - hanleRegService method getGroupUser
+2018-07-12 15:09:51.786 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:09:51.833 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - 建立连接成功：设备号=358074080201414  消息流水=2
+2018-07-12 15:09:51.835 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - 发送消息成功：设备号=358074080201414  消息流水=2
+2018-07-12 15:09:51.837 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - 接收消息长度36
+2018-07-12 15:09:51.855 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - 解析消息完成：消息内容是否为空false
+2018-07-12 15:09:51.855 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - 进行响应消息筛选:
+2018-07-12 15:09:51.856 [DubboServerHandler-172.18.11.168:7105-thread-51] INFO  log_log - 返回响应消息:
+2018-07-12 15:09:52.782 [DubboServerHandler-172.18.11.168:7105-thread-52] INFO  log_log - hanleRegService method getGroupUser
+2018-07-12 15:10:53.699 [DubboServerHandler-172.18.11.168:7105-thread-53] INFO  log_log - hanleRegService method getGroupUser
+2018-07-12 15:11:20.558 [DubboServerHandler-172.18.11.168:7105-thread-54] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:11:20.623 [DubboServerHandler-172.18.11.168:7105-thread-54] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:65ms____row:1136
+2018-07-12 15:13:18.078 [DubboServerHandler-172.18.11.168:7105-thread-55] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:13:18.129 [DubboServerHandler-172.18.11.168:7105-thread-55] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:50ms____row:1136
+2018-07-12 15:21:50.288 [DubboServerHandler-172.18.11.168:7105-thread-56] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:21:53.502 [DubboServerHandler-172.18.11.168:7105-thread-57] INFO  log_log - hanleRegService method getContact
+2018-07-12 15:25:33.058 [DubboServerHandler-172.18.11.168:7105-thread-58] INFO  log_log - hanleRegService method userLoginCN
+2018-07-12 15:25:34.837 [DubboServerHandler-172.18.11.168:7105-thread-59] INFO  log_log - hanleRegService method saveusertoken
+2018-07-12 15:25:36.176 [DubboServerHandler-172.18.11.168:7105-thread-60] INFO  log_log - hanleRegService method getAdvertising
+2018-07-12 15:25:40.832 [DubboServerHandler-172.18.11.168:7105-thread-61] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-12 15:26:46.697 [DubboServerHandler-172.18.11.168:7105-thread-62] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-12 15:26:47.578 [DubboServerHandler-172.18.11.168:7105-thread-63] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:26:48.720 [DubboServerHandler-172.18.11.168:7105-thread-64] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:28:07.567 [DubboServerHandler-172.18.11.168:7105-thread-65] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 15:38:16.709 [DubboServerHandler-172.18.11.168:7105-thread-66] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:38:16.751 [DubboServerHandler-172.18.11.168:7105-thread-66] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:41ms____row:1136
+2018-07-12 15:38:47.498 [DubboServerHandler-172.18.11.168:7105-thread-67] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:38:47.533 [DubboServerHandler-172.18.11.168:7105-thread-67] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:33ms____row:1136
+2018-07-12 15:39:17.940 [DubboServerHandler-172.18.11.168:7105-thread-68] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:39:17.980 [DubboServerHandler-172.18.11.168:7105-thread-68] INFO  log_log - functionName： getLasterGPS_____deviceSn:358074080201414_____functionTime:40ms____row:1136
+2018-07-12 15:54:22.794 [DubboServerHandler-172.18.11.168:7105-thread-69] INFO  log_log - hanleRegService method getContact
+2018-07-12 15:54:30.751 [DubboServerHandler-172.18.11.168:7105-thread-70] INFO  log_log - hanleRegService method addOrModifyContact
+2018-07-12 15:55:06.414 [DubboServerHandler-172.18.11.168:7105-thread-71] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:31.411 [DubboServerHandler-172.18.11.168:7105-thread-72] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:55:31.505 [DubboServerHandler-172.18.11.168:7105-thread-72] INFO  log_log - functionName： getLasterGPS_____deviceSn:867400020316612_____functionTime:94ms____row:1136
+2018-07-12 15:55:36.280 [DubboServerHandler-172.18.11.168:7105-thread-73] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:38.002 [DubboServerHandler-172.18.11.168:7105-thread-74] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:39.094 [DubboServerHandler-172.18.11.168:7105-thread-75] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:39.936 [DubboServerHandler-172.18.11.168:7105-thread-76] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:49.286 [DubboServerHandler-172.18.11.168:7105-thread-77] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:50.560 [DubboServerHandler-172.18.11.168:7105-thread-78] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:52.295 [DubboServerHandler-172.18.11.168:7105-thread-79] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:55:56.367 [DubboServerHandler-172.18.11.168:7105-thread-80] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:55:56.404 [DubboServerHandler-172.18.11.168:7105-thread-80] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:37ms____row:1136
+2018-07-12 15:56:21.375 [DubboServerHandler-172.18.11.168:7105-thread-81] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:56:21.432 [DubboServerHandler-172.18.11.168:7105-thread-81] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:56ms____row:1136
+2018-07-12 15:56:46.685 [DubboServerHandler-172.18.11.168:7105-thread-82] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:56:46.949 [DubboServerHandler-172.18.11.168:7105-thread-82] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:263ms____row:1136
+2018-07-12 15:57:11.443 [DubboServerHandler-172.18.11.168:7105-thread-83] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:57:11.502 [DubboServerHandler-172.18.11.168:7105-thread-83] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:58ms____row:1136
+2018-07-12 15:57:36.511 [DubboServerHandler-172.18.11.168:7105-thread-84] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:57:38.142 [DubboServerHandler-172.18.11.168:7105-thread-84] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:1630ms____row:1136
+2018-07-12 15:58:01.356 [DubboServerHandler-172.18.11.168:7105-thread-85] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:58:01.394 [DubboServerHandler-172.18.11.168:7105-thread-85] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:37ms____row:1136
+2018-07-12 15:58:10.366 [DubboServerHandler-172.18.11.168:7105-thread-86] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:12.664 [DubboServerHandler-172.18.11.168:7105-thread-87] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:23.438 [DubboServerHandler-172.18.11.168:7105-thread-88] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:26.347 [DubboServerHandler-172.18.11.168:7105-thread-89] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:58:26.382 [DubboServerHandler-172.18.11.168:7105-thread-89] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:35ms____row:1136
+2018-07-12 15:58:45.494 [DubboServerHandler-172.18.11.168:7105-thread-90] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:47.558 [DubboServerHandler-172.18.11.168:7105-thread-91] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:48.196 [DubboServerHandler-172.18.11.168:7105-thread-92] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:48.668 [DubboServerHandler-172.18.11.168:7105-thread-93] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:49.010 [DubboServerHandler-172.18.11.168:7105-thread-94] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:49.368 [DubboServerHandler-172.18.11.168:7105-thread-95] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:49.943 [DubboServerHandler-172.18.11.168:7105-thread-96] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:50.129 [DubboServerHandler-172.18.11.168:7105-thread-97] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:50.583 [DubboServerHandler-172.18.11.168:7105-thread-98] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:58:51.335 [DubboServerHandler-172.18.11.168:7105-thread-99] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:58:51.372 [DubboServerHandler-172.18.11.168:7105-thread-99] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:36ms____row:1136
+2018-07-12 15:59:16.430 [DubboServerHandler-172.18.11.168:7105-thread-100] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:59:16.467 [DubboServerHandler-172.18.11.168:7105-thread-100] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:37ms____row:1136
+2018-07-12 15:59:41.393 [DubboServerHandler-172.18.11.168:7105-thread-101] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 15:59:41.435 [DubboServerHandler-172.18.11.168:7105-thread-101] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:42ms____row:1136
+2018-07-12 15:59:52.268 [DubboServerHandler-172.18.11.168:7105-thread-102] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:59:55.350 [DubboServerHandler-172.18.11.168:7105-thread-103] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:59:56.321 [DubboServerHandler-172.18.11.168:7105-thread-104] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:59:57.074 [DubboServerHandler-172.18.11.168:7105-thread-105] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:59:58.058 [DubboServerHandler-172.18.11.168:7105-thread-106] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 15:59:59.761 [DubboServerHandler-172.18.11.168:7105-thread-107] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:00:01.169 [DubboServerHandler-172.18.11.168:7105-thread-108] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:00:06.367 [DubboServerHandler-172.18.11.168:7105-thread-109] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:00:06.409 [DubboServerHandler-172.18.11.168:7105-thread-109] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:42ms____row:1136
+2018-07-12 16:00:24.694 [DubboServerHandler-172.18.11.168:7105-thread-110] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:00:31.582 [DubboServerHandler-172.18.11.168:7105-thread-111] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:00:31.618 [DubboServerHandler-172.18.11.168:7105-thread-111] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:36ms____row:1136
+2018-07-12 16:00:47.467 [DubboServerHandler-172.18.11.168:7105-thread-112] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:00:50.859 [DubboServerHandler-172.18.11.168:7105-thread-113] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:00:55.320 [DubboServerHandler-172.18.11.168:7105-thread-114] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:00:56.336 [DubboServerHandler-172.18.11.168:7105-thread-115] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:00:56.370 [DubboServerHandler-172.18.11.168:7105-thread-116] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:00:56.414 [DubboServerHandler-172.18.11.168:7105-thread-116] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:44ms____row:1136
+2018-07-12 16:01:09.873 [DubboServerHandler-172.18.11.168:7105-thread-117] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:01:11.637 [DubboServerHandler-172.18.11.168:7105-thread-118] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:01:13.346 [DubboServerHandler-172.18.11.168:7105-thread-119] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:01:21.358 [DubboServerHandler-172.18.11.168:7105-thread-120] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:01:21.395 [DubboServerHandler-172.18.11.168:7105-thread-120] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:37ms____row:1136
+2018-07-12 16:01:38.192 [DubboServerHandler-172.18.11.168:7105-thread-121] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:01:42.190 [DubboServerHandler-172.18.11.168:7105-thread-122] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:01:46.497 [DubboServerHandler-172.18.11.168:7105-thread-123] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:01:46.533 [DubboServerHandler-172.18.11.168:7105-thread-123] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:36ms____row:1136
+2018-07-12 16:01:58.365 [DubboServerHandler-172.18.11.168:7105-thread-124] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:02.217 [DubboServerHandler-172.18.11.168:7105-thread-125] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:06.938 [DubboServerHandler-172.18.11.168:7105-thread-126] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:09.601 [DubboServerHandler-172.18.11.168:7105-thread-127] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:10.752 [DubboServerHandler-172.18.11.168:7105-thread-128] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:11.368 [DubboServerHandler-172.18.11.168:7105-thread-129] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:02:11.403 [DubboServerHandler-172.18.11.168:7105-thread-129] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:35ms____row:1136
+2018-07-12 16:02:27.984 [DubboServerHandler-172.18.11.168:7105-thread-130] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:29.283 [DubboServerHandler-172.18.11.168:7105-thread-131] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:30.854 [DubboServerHandler-172.18.11.168:7105-thread-132] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:02:36.360 [DubboServerHandler-172.18.11.168:7105-thread-133] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:02:36.395 [DubboServerHandler-172.18.11.168:7105-thread-133] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:35ms____row:1136
+2018-07-12 16:03:01.869 [DubboServerHandler-172.18.11.168:7105-thread-134] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:03:01.904 [DubboServerHandler-172.18.11.168:7105-thread-134] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:34ms____row:1136
+2018-07-12 16:03:07.604 [DubboServerHandler-172.18.11.168:7105-thread-135] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:03:26.342 [DubboServerHandler-172.18.11.168:7105-thread-136] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:03:26.380 [DubboServerHandler-172.18.11.168:7105-thread-136] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:38ms____row:1136
+2018-07-12 16:03:30.742 [DubboServerHandler-172.18.11.168:7105-thread-137] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:03:51.372 [DubboServerHandler-172.18.11.168:7105-thread-138] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:03:51.409 [DubboServerHandler-172.18.11.168:7105-thread-138] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:37ms____row:1136
+2018-07-12 16:04:04.246 [DubboServerHandler-172.18.11.168:7105-thread-139] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:04:11.171 [DubboServerHandler-172.18.11.168:7105-thread-140] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-12 16:04:16.380 [DubboServerHandler-172.18.11.168:7105-thread-141] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:04:16.419 [DubboServerHandler-172.18.11.168:7105-thread-141] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:39ms____row:1136
+2018-07-12 16:04:41.386 [DubboServerHandler-172.18.11.168:7105-thread-142] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:04:41.424 [DubboServerHandler-172.18.11.168:7105-thread-142] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:36ms____row:1136
+2018-07-12 16:05:06.387 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - hanleRegService method getLasterGPS
+2018-07-12 16:05:06.422 [DubboServerHandler-172.18.11.168:7105-thread-143] INFO  log_log - functionName： getLasterGPS_____deviceSn:201700444400018_____functionTime:34ms____row:1136
+2018-07-12 16:05:18.589 [DubboServerHandler-172.18.11.168:7105-thread-144] INFO  log_log - hanleRegService method setDeviceSearch

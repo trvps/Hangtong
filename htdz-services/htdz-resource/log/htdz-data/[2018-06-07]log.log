@@ -1,0 +1,26 @@
+2018-06-07 09:50:10.226 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-07 09:50:50.775 [main] INFO  log_log - ----------PushTest----------
+2018-06-07 09:50:50.785 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-07 09:50:53.817 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-07 09:50:53.818 [main] INFO  log_log - Content-Length: 532
+2018-06-07 09:50:53.821 [main] INFO  log_log - Date: Thu, 07 Jun 2018 01:50:53 GMT
+2018-06-07 09:50:53.821 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\DevicePhoto\\201806070150523549.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070150523549.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/2018060701505370.png"},{"newfilepath":"F:\\data\\DevicePhoto\\201806070150531556.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070150531556.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806070150531511.png"}],"msg":null}
+2018-06-07 09:51:39.853 [main] INFO  log_log - ----------PushTest----------
+2018-06-07 09:51:39.865 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-07 09:51:40.890 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-07 09:51:40.892 [main] INFO  log_log - Content-Length: 534
+2018-06-07 09:51:40.894 [main] INFO  log_log - Date: Thu, 07 Jun 2018 01:51:40 GMT
+2018-06-07 09:51:40.894 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\DevicePhoto\\201806070151405433.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070151405433.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806070151403801.png"},{"newfilepath":"F:\\data\\DevicePhoto\\201806070151409884.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070151409884.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806070151408269.png"}],"msg":null}
+2018-06-07 09:54:38.572 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-07 09:55:01.664 [main] INFO  log_log - ----------PushTest----------
+2018-06-07 09:55:01.675 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-07 09:55:03.474 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-07 09:55:03.475 [main] INFO  log_log - Content-Length: 533
+2018-06-07 09:55:03.477 [main] INFO  log_log - Date: Thu, 07 Jun 2018 01:55:03 GMT
+2018-06-07 09:55:03.477 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\DevicePhoto\\201806070155023237.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070155023237.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806070155035634.png"},{"newfilepath":"F:\\data\\DevicePhoto\\201806070155036099.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070155036099.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/20180607015503888.png"}],"msg":null}
+2018-06-07 09:55:13.816 [main] INFO  log_log - ----------PushTest----------
+2018-06-07 09:55:13.826 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-07 09:55:14.767 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-07 09:55:14.768 [main] INFO  log_log - Content-Length: 534
+2018-06-07 09:55:14.770 [main] INFO  log_log - Date: Thu, 07 Jun 2018 01:55:14 GMT
+2018-06-07 09:55:14.770 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\DevicePhoto\\201806070155149551.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070155149551.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806070155146082.png"},{"newfilepath":"F:\\data\\DevicePhoto\\201806070155141649.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806070155141649.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806070155148890.png"}],"msg":null}

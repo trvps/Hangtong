@@ -1,0 +1,46 @@
+2018-05-31 09:21:20.055 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-31 10:01:26.156 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-31 10:01:35.456 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-31 10:03:00.145 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:03:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:03:14.079 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:03:17      certificatePath:java.io.BufferedInputStream@fc816ec       certificatePassword:123
+2018-05-31 10:03:18.081 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:03:20.068 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:03:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:03:40.071 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:03:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:03:47.543 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:03:17      certificatePath:java.io.BufferedInputStream@2962ce39       certificatePassword:123
+2018-05-31 10:04:36.366 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:03:17      certificatePath:java.io.BufferedInputStream@3a4bf24       certificatePassword:123
+2018-05-31 10:04:37.431 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:06:00.061 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:06:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:06:00.092 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:06:17      certificatePath:java.io.BufferedInputStream@6f87d15       certificatePassword:123
+2018-05-31 10:06:01.221 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:06:06.321 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 02:06:17__msgType:4__userName:66666666
+2018-05-31 10:06:06.356 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 02:06:17      certificatePath:null       certificatePassword:123
+2018-05-31 10:08:00.043 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:08:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:08:11.428 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:08:17      certificatePath:java.io.BufferedInputStream@f6c75b6       certificatePassword:123
+2018-05-31 10:08:13.286 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:08:20.046 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:08:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:08:40.049 [DubboServerHandler-172.18.11.168:7401-thread-9] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:08:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:08:44.259 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:08:17      certificatePath:java.io.BufferedInputStream@432a900c       certificatePassword:123
+2018-05-31 10:08:45.227 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:09:01.051 [DubboServerHandler-172.18.11.168:7401-thread-9] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:08:17      certificatePath:java.io.BufferedInputStream@7fe0472       certificatePassword:123
+2018-05-31 10:09:02.101 [DubboServerHandler-172.18.11.168:7401-thread-9] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:10:00.052 [DubboServerHandler-172.18.11.168:7401-thread-10] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:10:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:10:03.675 [DubboServerHandler-172.18.11.168:7401-thread-10] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:10:17      certificatePath:java.io.BufferedInputStream@2311f4e8       certificatePassword:123
+2018-05-31 10:10:04.607 [DubboServerHandler-172.18.11.168:7401-thread-10] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:10:09.762 [DubboServerHandler-172.18.11.168:7401-thread-11] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 02:10:17__msgType:4__userName:66666666
+2018-05-31 10:10:29.777 [DubboServerHandler-172.18.11.168:7401-thread-12] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 02:10:17__msgType:4__userName:66666666
+2018-05-31 10:10:31.874 [DubboServerHandler-172.18.11.168:7401-thread-11] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 02:10:17      certificatePath:null       certificatePassword:123
+2018-05-31 10:10:33.684 [DubboServerHandler-172.18.11.168:7401-thread-12] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 02:10:17      certificatePath:null       certificatePassword:123
+2018-05-31 10:12:00.043 [DubboServerHandler-172.18.11.168:7401-thread-13] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:12:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:12:05.205 [DubboServerHandler-172.18.11.168:7401-thread-13] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:12:17      certificatePath:java.io.BufferedInputStream@e2d44e2       certificatePassword:123
+2018-05-31 10:12:06.354 [DubboServerHandler-172.18.11.168:7401-thread-13] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:12:11.454 [DubboServerHandler-172.18.11.168:7401-thread-14] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 02:12:17__msgType:4__userName:66666666
+2018-05-31 10:12:31.458 [DubboServerHandler-172.18.11.168:7401-thread-15] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 02:12:17__msgType:4__userName:66666666
+2018-05-31 10:12:51.487 [DubboServerHandler-172.18.11.168:7401-thread-16] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 02:12:17__msgType:4__userName:66666666
+2018-05-31 10:17:27.232 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-31 10:17:35.545 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-31 10:18:00.168 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 10:18:17__msgType:4__userName:liyinjie@126.com
+2018-05-31 10:18:00.513 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 10:18:17      certificatePath:java.io.BufferedInputStream@52e9b3ef       certificatePassword:123
+2018-05-31 10:18:01.857 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-31 10:18:07.000 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - 推送消息：66666666|4|ddfc|2018-05-31 02:18:17__msgType:4__userName:66666666
+2018-05-31 10:18:07.036 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:66666666|4|ddfc|2018-05-31 02:18:17      certificatePath:java.io.BufferedInputStream@45a91ba4       certificatePassword:123
+2018-05-31 10:18:07.947 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - ===============end push ios msg successCount============:1

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.htdz</groupId>
+		<artifactId>HTDZProject</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
+	<artifactId>htdz-services</artifactId>
+	<name>htdz-services</name>
+	<packaging>pom</packaging>
+	
+	<modules>
+		<module>htdz-gateway</module>
+		<module>htdz-reg</module>
+		<module>htdz-data</module>
+		<module>htdz-device</module>
+		<module>htdz-litefamily</module>
+		<module>htdz-task</module>
+		<module>htdz-resource</module>
+		<module>htdz-liteguardian</module>
+  </modules>
+	
+	<dependencies>
+		<dependency>
+			<groupId>com.htdz</groupId>
+			<artifactId>htdz-def</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>com.htdz</groupId>
+			<artifactId>htdz-common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
+		<!-- Spring Boot Dubbo 依赖 -->
+		<dependency>
+	        <groupId>com.alibaba.spring.boot</groupId>
+	        <artifactId>dubbo-spring-boot-starter</artifactId>
+	        <version>1.0.1</version>
+	    </dependency>
+	    <!--zookeeper依赖-->
+        <dependency>
+            <groupId>org.apache.zookeeper</groupId>
+            <artifactId>zookeeper</artifactId>
+            <version>3.4.11</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.slf4j</groupId>
+                    <artifactId>slf4j-log4j12</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+		<dependency>
+			<groupId>com.101tec</groupId>
+			<artifactId>zkclient</artifactId>
+			<version>0.10</version>
+			<exclusions>
+                <exclusion>
+                    <groupId>org.slf4j</groupId>
+                    <artifactId>slf4j-log4j12</artifactId>
+                </exclusion>
+            </exclusions>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+
+
+</project>

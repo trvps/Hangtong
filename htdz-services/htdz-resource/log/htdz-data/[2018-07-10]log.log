@@ -1,0 +1,28 @@
+2018-07-10 14:25:20.807 [main] INFO  log_log - ----------PushTest----------
+2018-07-10 14:25:20.818 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-10 14:25:21.939 [main] INFO  log_log - Server: Apache-Coyote/1.1
+2018-07-10 14:25:21.943 [main] INFO  log_log - Content-Type: text/html;charset=utf-8
+2018-07-10 14:25:21.943 [main] INFO  log_log - Content-Language: en
+2018-07-10 14:25:21.943 [main] INFO  log_log - Content-Length: 965
+2018-07-10 14:25:21.943 [main] INFO  log_log - Date: Tue, 10 Jul 2018 06:22:17 GMT
+2018-07-10 14:25:21.943 [main] INFO  log_log - transferURL result: <html><head><title>Apache Tomcat/7.0.75 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - /upload/</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>/upload/</u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.75</h3></body></html>
+2018-07-10 14:25:48.043 [main] INFO  log_log - ----------PushTest----------
+2018-07-10 14:25:48.052 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-10 14:28:01.617 [main] INFO  log_log - ----------PushTest----------
+2018-07-10 14:28:01.627 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-10 14:28:05.833 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-10 14:28:05.836 [main] INFO  log_log - Content-Length: 214
+2018-07-10 14:28:05.836 [main] INFO  log_log - Date: Tue, 10 Jul 2018 06:25:01 GMT
+2018-07-10 14:28:05.836 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/UserPortrait/201807100624582537.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/UserPortrait/201807100624582537.png","urlThumbnail":null}],"msg":null}
+2018-07-10 14:55:51.261 [main] INFO  log_log - ----------PushTest----------
+2018-07-10 14:55:51.270 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-10 14:55:54.022 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-10 14:55:54.024 [main] INFO  log_log - Content-Length: 214
+2018-07-10 14:55:54.024 [main] INFO  log_log - Date: Tue, 10 Jul 2018 06:52:49 GMT
+2018-07-10 14:55:54.024 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/UserPortrait/201807100652489366.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/UserPortrait/201807100652489366.png","urlThumbnail":null}],"msg":null}
+2018-07-10 14:56:04.433 [main] INFO  log_log - ----------PushTest----------
+2018-07-10 14:56:04.443 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-10 14:56:05.316 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-10 14:56:05.318 [main] INFO  log_log - Content-Length: 214
+2018-07-10 14:56:05.318 [main] INFO  log_log - Date: Tue, 10 Jul 2018 06:53:00 GMT
+2018-07-10 14:56:05.318 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/UserPortrait/201807100653001536.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/UserPortrait/201807100653001536.png","urlThumbnail":null}],"msg":null}

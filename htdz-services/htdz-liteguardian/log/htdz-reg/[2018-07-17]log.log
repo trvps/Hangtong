@@ -1,0 +1,4 @@
+2018-07-17 10:35:02.240 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-17 10:35:39.126 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-17 15:07:31.033 [DubboServerHandler-172.18.11.168:7105-thread-2] INFO  log_log - hanleRegService method userLoginCN
+2018-07-17 15:07:49.559 [DubboServerHandler-172.18.11.168:7105-thread-3] INFO  log_log - hanleRegService method userLoginCN

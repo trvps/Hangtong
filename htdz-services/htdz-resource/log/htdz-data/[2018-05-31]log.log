@@ -1,0 +1,38 @@
+2018-05-31 16:54:02.075 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-05-31 16:54:36.179 [main] INFO  log_log - ----------PushTest----------
+2018-05-31 16:54:36.225 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-05-31 17:06:10.251 [main] INFO  log_log - Content-Type: application/json;charset=UTF-8
+2018-05-31 17:06:10.252 [main] INFO  log_log - Transfer-Encoding: chunked
+2018-05-31 17:06:10.252 [main] INFO  log_log - Date: Thu, 31 May 2018 09:06:10 GMT
+2018-05-31 17:06:10.252 [main] INFO  log_log - transferURL result: {"code":0,"msg":null,"data":"{\"url\":[\"http://218.17.161.66:10230/image/201805310854374238.png\"]}"}
+2018-05-31 17:09:15.749 [main] INFO  log_log - ----------PushTest----------
+2018-05-31 17:09:15.758 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-05-31 17:16:22.098 [main] INFO  log_log - Content-Type: application/json;charset=UTF-8
+2018-05-31 17:16:22.100 [main] INFO  log_log - Transfer-Encoding: chunked
+2018-05-31 17:16:22.100 [main] INFO  log_log - Date: Thu, 31 May 2018 09:16:22 GMT
+2018-05-31 17:16:22.100 [main] INFO  log_log - transferURL result: {"code":0,"msg":null,"data":"{\"url\":[\"http://218.17.161.66:10230/image/201805310909168716.png\"]}"}
+2018-05-31 17:17:48.246 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-05-31 17:18:04.722 [main] INFO  log_log - ----------PushTest----------
+2018-05-31 17:18:04.732 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-05-31 17:24:20.650 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-05-31 17:24:20.652 [main] INFO  log_log - Content-Length: 91
+2018-05-31 17:24:20.652 [main] INFO  log_log - Date: Thu, 31 May 2018 09:24:20 GMT
+2018-05-31 17:24:20.652 [main] INFO  log_log - transferURL result: {"code":0,"data":"{\"url\":[\"http://218.17.161.66:10230/image/201805310918053057.png\"]}"}
+2018-05-31 17:26:28.951 [main] INFO  log_log - ----------PushTest----------
+2018-05-31 17:26:28.964 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-05-31 17:26:47.074 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-05-31 17:26:47.076 [main] INFO  log_log - Content-Length: 96
+2018-05-31 17:26:47.076 [main] INFO  log_log - Date: Thu, 31 May 2018 09:26:47 GMT
+2018-05-31 17:26:47.076 [main] INFO  log_log - transferURL result: {"code":0,"data":{"url":["http://218.17.161.66:10230/image/201805310926295829.png"]},"msg":null}
+2018-05-31 17:27:30.167 [main] INFO  log_log - ----------PushTest----------
+2018-05-31 17:27:30.179 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-05-31 17:27:52.478 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-05-31 17:27:52.480 [main] INFO  log_log - Content-Length: 96
+2018-05-31 17:27:52.480 [main] INFO  log_log - Date: Thu, 31 May 2018 09:27:52 GMT
+2018-05-31 17:27:52.480 [main] INFO  log_log - transferURL result: {"code":0,"data":{"url":["http://218.17.161.66:10230/image/201805310927306937.png"]},"msg":null}
+2018-05-31 17:36:09.785 [main] INFO  log_log - ----------PushTest----------
+2018-05-31 17:36:09.795 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-05-31 17:36:12.727 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-05-31 17:36:12.729 [main] INFO  log_log - Content-Length: 96
+2018-05-31 17:36:12.730 [main] INFO  log_log - Date: Thu, 31 May 2018 09:36:02 GMT
+2018-05-31 17:36:12.730 [main] INFO  log_log - transferURL result: {"code":0,"data":{"url":["http://218.17.161.66:10230/image/201805310936005511.png"]},"msg":null}

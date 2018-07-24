@@ -1,0 +1,6 @@
+2018-06-25 15:08:27.889 [main] INFO  log_log - ----------TaskApplication Main----------
+2018-06-25 15:08:46.043 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-06-25 15:10:18.932 [http-nio-10002-exec-1] INFO  log_log - pushTest start
+2018-06-25 15:10:19.607 [http-nio-10002-exec-1] INFO  log_log - 推送消息：866237030050679|4|pushTest|2018-06-25 03:40:18__msgType:4__userName:274077005@qq.com
+2018-06-25 15:10:19.645 [http-nio-10002-exec-1] INFO  log_log - pushDataToIosServer:866237030050679|4|pushTest|2018-06-25 03:40:18      certificatePath:java.io.BufferedInputStream@7055bc3d       certificatePassword:123
+2018-06-25 15:10:21.665 [http-nio-10002-exec-1] INFO  log_log - ===============end push ios msg successCount============:1

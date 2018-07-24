@@ -1,0 +1,55 @@
+2018-05-30 09:50:41.699 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-30 09:51:00.623 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-30 16:30:46.517 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-30 16:30:55.852 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-30 16:31:31.105 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 16:31:30__msgType:1__userName:liyinjie@126.com
+2018-05-30 16:31:31.458 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - classpath:certificate {0}
+2018-05-30 16:31:31.458 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 16:31:30      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-30 16:31:38.736 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 16:32:12.899 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 16:31:41__msgType:1__userName:liyinjie@126.com
+2018-05-30 16:32:16.093 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 16:31:41__msgType:1__userName:liyinjie@126.com
+2018-05-30 16:32:23.154 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - classpath:certificate {0}
+2018-05-30 16:37:24.820 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 16:31:41      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-30 16:37:25.027 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - classpath:certificate {0}
+2018-05-30 16:37:25.027 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 16:31:41      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-30 16:37:25.948 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 16:37:26.105 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 16:37:26.566 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 16:31:41__msgType:1__userName:liyinjie@126.com
+2018-05-30 16:37:26.616 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - classpath:certificate {0}
+2018-05-30 16:37:26.616 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 16:31:41      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-30 16:37:27.687 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 16:38:11.887 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-30 16:38:20.464 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-30 16:39:17.603 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 16:39:13__msgType:1__userName:liyinjie@126.com
+2018-05-30 16:39:21.449 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - classpath:certificate D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12 
+2018-05-30 16:39:22.165 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - classpath 
+2018-05-30 16:42:09.436 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 16:39:13      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-30 16:42:09.626 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 16:39:13__msgType:1__userName:liyinjie@126.com
+2018-05-30 16:42:11.297 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 16:42:12.028 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - classpath:certificate D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12 
+2018-05-30 16:42:12.029 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - classpath 
+2018-05-30 16:42:12.029 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 16:39:13      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-30 16:42:12.716 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 16:39:13__msgType:1__userName:liyinjie@126.com
+2018-05-30 16:42:12.751 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - classpath:certificate D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12 
+2018-05-30 16:42:12.751 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - classpath 
+2018-05-30 16:42:12.752 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 16:39:13      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-30 16:42:13.268 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 16:42:13.968 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 17:14:55.486 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-30 17:15:03.915 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-30 17:58:26.399 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-30 17:58:34.675 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-30 17:58:40.363 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 17:58:40__msgType:1__userName:liyinjie@126.com
+2018-05-30 18:02:00.525 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-30 18:02:08.634 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-30 18:02:15.233 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 18:02:15__msgType:1__userName:liyinjie@126.com
+2018-05-30 18:02:23.915 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 18:02:15      certificatePath:java.io.BufferedInputStream@32dac9f6       certificatePassword:123
+2018-05-30 18:02:28.048 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 18:02:35.124 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 18:02:15__msgType:1__userName:liyinjie@126.com
+2018-05-30 18:02:35.167 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 18:02:15      certificatePath:java.io.BufferedInputStream@8a3119e       certificatePassword:123
+2018-05-30 18:02:36.056 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-30 18:15:12.684 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-30 18:15:21.024 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-30 18:15:40.666 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - 推送消息：66666666|1|6|null|null|5|28800|2018-05-30 18:15:40__msgType:1__userName:liyinjie@126.com
+2018-05-30 18:15:41.098 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:66666666|1|6|null|null|5|28800|2018-05-30 18:15:40      certificatePath:java.io.BufferedInputStream@4454dde5       certificatePassword:123
+2018-05-30 18:15:42.349 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1

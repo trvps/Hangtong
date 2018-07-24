@@ -1,0 +1,259 @@
+2018-06-06 11:35:46.121 [main] INFO  log_log - ----------GatewayApplication Main----------
+2018-06-06 11:35:54.251 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-06 11:35:55.238 [main] INFO  log_log - ----------容器初始化完成----------
+2018-06-06 11:35:55.239 [main] INFO  log_log - startDeviceServer......
+2018-06-06 11:35:55.240 [main] INFO  log_log - HT770设备监听服务启动 172.18.11.150:39101
+2018-06-06 11:35:55.243 [main] INFO  log_log - HT772设备监听服务启动 172.18.11.150:8101
+2018-06-06 11:35:55.633 [pool-1-thread-1] INFO  log_log - HT770服务优雅退出，释放线程池资源 172.18.11.150:39101
+2018-06-06 11:35:55.775 [pool-2-thread-1] INFO  log_log - HT772服务优雅退出，释放线程池资源 172.18.11.150:8101
+2018-06-06 11:36:03.840 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 3768
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A279C05048BBF5F27075A1626238E9BC
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: bbc9f19b-e386-6b68-8b54-6811c137ae3c
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	function=getDevicePhoto&deviceSn=1111111
+2018-06-06 11:36:08.695 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+	{"code":"0","ret":{"imgMap":[]},"what":null}
+2018-06-06 11:43:41.802 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=1111111&mode=1
+remote ip: 172.18.11.168
+remote port: 4666
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=C6D0D66781DF4DB07D17EE8307B41ACE
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: d5574dcd-3023-9e52-f2a2-f9e720eb77c6
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=1111111
+2018-06-06 11:43:42.460 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+	{"code":"100","ret":"","what":"对不起，被授权用户无法执行此操作"}
+2018-06-06 11:44:20.837 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=1111111&mode=1
+remote ip: 172.18.11.168
+remote port: 4737
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=6C537B8442B11C522D586754890D74B9
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: a17a39b8-f151-33f4-e1d2-5d7cd8db9b4a
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=1111111
+2018-06-06 11:44:40.240 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+	{"code":"100","ret":"","what":"对不起，被授权用户无法执行此操作"}
+2018-06-06 11:45:26.572 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=1111111&mode=1
+remote ip: 172.18.11.168
+remote port: 4868
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=6C537B8442B11C522D586754890D74B9
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 42b97900-7931-32b7-6f77-61d073f621a7
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=1111111
+2018-06-06 11:45:27.197 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+	{"code":"200","ret":null,"what":"用户不存在"}
+2018-06-06 11:45:50.603 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=1111111&mode=1
+remote ip: 172.18.11.168
+remote port: 4924
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=E11380E9C2A1B949C618A282D0B369DC
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 480572f5-ee8f-d0c4-5c00-d9953d7c4c41
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=1111111
+2018-06-06 11:45:59.823 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+	{"code":"400","ret":"","what":"失败"}
+2018-06-06 11:46:24.428 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=1111111&mode=1
+remote ip: 172.18.11.168
+remote port: 4987
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=31C83F140A5E7D6D89D2A1987FEEF2EF
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 763c62a7-b2dd-4ba6-013d-8cba8ed78c23
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=1111111
+2018-06-06 11:46:24.442 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+	{"code":"400","ret":"","what":"失败"}
+2018-06-06 11:46:29.569 [http-nio-8050-exec-6] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=1111111&mode=1
+remote ip: 172.18.11.168
+remote port: 4987
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=31C83F140A5E7D6D89D2A1987FEEF2EF
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: d6ee2abe-0c05-2ea3-b6ba-faa59cc9b611
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=1111111
+2018-06-06 11:46:29.578 [http-nio-8050-exec-6] INFO  log_log - 发送中转响应--------------------------
+	{"code":"400","ret":"","what":"失败"}
+2018-06-06 11:46:46.879 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=1111111&mode=1
+remote ip: 172.18.11.168
+remote port: 5028
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=31C83F140A5E7D6D89D2A1987FEEF2EF
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: b4dfbc42-7b3e-c264-246b-dd5f3bc537f4
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=1111111
+2018-06-06 11:47:03.790 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+	{"code":"400","ret":"","what":"失败"}
+2018-06-06 11:59:04.535 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=3703002703&mode=1
+remote ip: 172.18.11.168
+remote port: 6296
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 50
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=31C83F140A5E7D6D89D2A1987FEEF2EF
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 9b2ef98c-c9fa-69ea-6938-6807b141aab1
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=3703002703
+2018-06-06 11:59:04.547 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+	{"code":"400","ret":"","what":"失败"}
+2018-06-06 12:01:19.406 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+	http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setDevicePhoto&deviceSn=3703002703&mode=1
+remote ip: 172.18.11.168
+remote port: 6557
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 50
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=31C83F140A5E7D6D89D2A1987FEEF2EF
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 6dac73cf-c04e-04d2-ac36-eac960440387
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+	mode=1&function=setDevicePhoto&deviceSn=3703002703
+2018-06-06 12:01:20.707 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+	{"code":"400","ret":"","what":"失败"}
+2018-06-06 16:33:49.729 [main] INFO  log_log - ----------GatewayApplication Main----------

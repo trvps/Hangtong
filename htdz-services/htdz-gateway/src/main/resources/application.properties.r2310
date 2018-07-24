@@ -1,0 +1,16 @@
+#spring.profiles.active=dev_internal
+spring.profiles.active=dev_internal
+
+server.port=10230
+spring.application.name=htdz-gateway
+
+
+# **********************************************************************************
+# https
+# keytool -genkey -alias htdzhttps -keyalg RSA -keystore htdzhttps.keystore
+# **********************************************************************************
+#server.ssl.key-store=htdzhttps.keystore
+#server.ssl.key-store-password=123456
+#server.ssl.keyStoreType=JKS
+#server.ssl.keyAlias=htdzhttps
+

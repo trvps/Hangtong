@@ -1,0 +1,732 @@
+2018-06-14 09:46:47.798 [main] INFO  log_log - ----------GatewayApplication Main----------
+2018-06-14 09:47:00.050 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-14 09:47:01.393 [main] INFO  log_log - ----------容器初始化完成----------
+2018-06-14 09:47:01.393 [main] INFO  log_log - startDeviceServer......
+2018-06-14 09:47:01.395 [main] INFO  log_log - HT770设备监听服务启动 172.18.11.150:10291
+2018-06-14 09:47:01.398 [main] INFO  log_log - HT771设备监听服务启动 172.18.11.150:12223
+2018-06-14 09:47:01.399 [main] INFO  log_log - HT772设备监听服务启动 172.18.11.150:12224
+2018-06-14 09:47:01.435 [pool-2-thread-1] INFO  log_log - HT771服务优雅退出，释放线程池资源 172.18.11.150:12223
+2018-06-14 09:47:01.436 [pool-1-thread-1] INFO  log_log - HT770服务优雅退出，释放线程池资源 172.18.11.150:10291
+2018-06-14 09:47:01.499 [pool-3-thread-1] INFO  log_log - HT772服务优雅退出，释放线程池资源 172.18.11.150:12224
+2018-06-14 10:41:15.810 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=274077005@qq.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 6584
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 66
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 2075b08f-4c87-b645-9c1c-e4e59233dff9
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 10:41:44.660 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getContact&deviceSn=866237030050679
+remote ip: 172.18.11.168
+remote port: 6614
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 44
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 4b3e752a-9e09-8dd7-28db-cc6792dad2c1
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getContact&deviceSn=866237030050679
+2018-06-14 11:00:47.879 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=274077005@qq.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 7359
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 66
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 94696deb-6466-9ad9-66c4-27e9f999ade5
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 11:00:50.553 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"}],"alert_mode":1,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"zb4GJTmjWRwDSWW4BHXw+CM1Srmd/6CQpOcaiceUxofQaV+cNjTfLBJi6XQQYFpJbNg+/MIH6T27YCiok9H9mgeEGOSnbCI5adG/Z1Ay2FI=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"213L000000002","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-11-30 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"IDD-213LL","one_month_expired":"false","product_type":16,"protocol_type":2,"ranges":6,"super_user":"whoo@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3918186678","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-03-02 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"3918186678","is_gps":0,"nickname":"HT-770","one_month_expired":"false","product_type":14,"protocol_type":5,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"606140003653","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-12-30 15:59:59","gps_interval":null,"head_portrait":"/image/HeadPortrait/201707110907418731.png","isExistGroup":null,"is_gps":0,"nickname":"PT-718G","one_month_expired":"false","product_type":6,"protocol_type":0,"ranges":1,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"866237030050679","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2020-08-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"866237030050679","is_gps":0,"nickname":"HT-790","one_month_expired":"false","product_type":24,"protocol_type":6,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""}],"is_email_verify":1,"nickname":"Tone","portrait":null,"timezone_check":0,"timezone_id":22},"what":""}
+2018-06-14 11:01:18.301 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setGeoFence&deviceSn=866237030050679&lat=22.549845&lng=113.936848&radius=100&defencename=ssssssss&defencestatus=1&isOut=1
+remote ip: 172.18.11.168
+remote port: 7359
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 130
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=9B57FC7B97E5142CAA02BCA7469BE5A6
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 4716ece4-21d0-396d-8cfc-1347921b595e
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  defencename=ssssssss&lng=113.936848&function=setGeoFence&isOut=1&radius=100&deviceSn=866237030050679&lat=22.549845&defencestatus=1
+2018-06-14 11:01:34.807 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"200","ret":null,"what":"可设置围栏数已满"}
+2018-06-14 11:01:57.438 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setGeoFence&deviceSn=866237030050679&lat=22.549845&lng=113.936848&radius=100&defencename=ssssssss&defencestatus=1&isOut=1&areaid=5710
+remote ip: 172.18.11.168
+remote port: 7359
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 142
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=9B57FC7B97E5142CAA02BCA7469BE5A6
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 6b498bb6-a183-1b9d-9601-8b1d1d249e79
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  defencename=ssssssss&areaid=5710&lng=113.936848&function=setGeoFence&isOut=1&radius=100&deviceSn=866237030050679&lat=22.549845&defencestatus=1
+2018-06-14 11:03:31.513 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"600","ret":null,"what":"指令下发失败"}
+2018-06-14 11:04:45.744 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=274077005@qq.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 7501
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 66
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=9B57FC7B97E5142CAA02BCA7469BE5A6
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 632add5e-be4c-0166-4d6e-84278ce1a4c3
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 11:04:47.221 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"}],"alert_mode":1,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"zb4GJTmjWRwDSWW4BHXw+CM1Srmd/6CQpOcaiceUxofQaV+cNjTfLBJi6XQQYFpJbNg+/MIH6T27YCiok9H9mgeEGOSnbCI5adG/Z1Ay2FI=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"213L000000002","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-11-30 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"IDD-213LL","one_month_expired":"false","product_type":16,"protocol_type":2,"ranges":6,"super_user":"whoo@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3918186678","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-03-02 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"3918186678","is_gps":0,"nickname":"HT-770","one_month_expired":"false","product_type":14,"protocol_type":5,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"606140003653","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-12-30 15:59:59","gps_interval":null,"head_portrait":"/image/HeadPortrait/201707110907418731.png","isExistGroup":null,"is_gps":0,"nickname":"PT-718G","one_month_expired":"false","product_type":6,"protocol_type":0,"ranges":1,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"866237030050679","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2020-08-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"866237030050679","is_gps":0,"nickname":"HT-790","one_month_expired":"false","product_type":24,"protocol_type":6,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""}],"is_email_verify":1,"nickname":"Tone","portrait":null,"timezone_check":0,"timezone_id":22},"what":""}
+2018-06-14 11:04:51.336 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getGeoFenceCN&deviceSn=866237030050679
+remote ip: 172.18.11.168
+remote port: 7501
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=284866138CBDD80330EEB16BA3FBFC75
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 4a8a32b5-a6ab-7356-647e-739bd172dbd3
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getGeoFenceCN&deviceSn=866237030050679
+2018-06-14 11:04:51.376 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"defenceList":[{"lat":0,"lng":0,"radius":0,"areaid":5741,"defencename":"家"},{"lat":0,"lng":0,"radius":0,"areaid":5742,"defencename":"学校"}]},"what":null}
+2018-06-14 11:05:58.957 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getGeoFenceCN&deviceSn=8308628499
+remote ip: 172.18.11.168
+remote port: 7546
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 42
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=284866138CBDD80330EEB16BA3FBFC75
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 246cbbd9-3de5-7603-3f66-0cbd7f0ae7cd
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getGeoFenceCN&deviceSn=8308628499
+2018-06-14 11:05:59.606 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setGeoFence&deviceSn=866237030050679&lat=22.549845&lng=113.936848&radius=100&defencename=ssssssss&defencestatus=1&isOut=1&areaid=5710
+remote ip: 172.18.11.168
+remote port: 7419
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 142
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=9B57FC7B97E5142CAA02BCA7469BE5A6
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 6b498bb6-a183-1b9d-9601-8b1d1d249e79
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  defencename=ssssssss&areaid=5710&lng=113.936848&function=setGeoFence&isOut=1&radius=100&deviceSn=866237030050679&lat=22.549845&defencestatus=1
+2018-06-14 11:05:59.632 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-14 11:06:06.765 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=274077005@qq.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 7553
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 66
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=284866138CBDD80330EEB16BA3FBFC75
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: f085fe1f-efdc-47aa-0d51-91a1d394ab0d
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 11:06:07.165 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"}],"alert_mode":1,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"zb4GJTmjWRwDSWW4BHXw+CM1Srmd/6CQpOcaiceUxofQaV+cNjTfLBJi6XQQYFpJbNg+/MIH6T27YCiok9H9mgeEGOSnbCI5adG/Z1Ay2FI=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"213L000000002","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-11-30 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"IDD-213LL","one_month_expired":"false","product_type":16,"protocol_type":2,"ranges":6,"super_user":"whoo@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3918186678","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-03-02 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"3918186678","is_gps":0,"nickname":"HT-770","one_month_expired":"false","product_type":14,"protocol_type":5,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"606140003653","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-12-30 15:59:59","gps_interval":null,"head_portrait":"/image/HeadPortrait/201707110907418731.png","isExistGroup":null,"is_gps":0,"nickname":"PT-718G","one_month_expired":"false","product_type":6,"protocol_type":0,"ranges":1,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"866237030050679","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2020-08-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"866237030050679","is_gps":0,"nickname":"HT-790","one_month_expired":"false","product_type":24,"protocol_type":6,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""}],"is_email_verify":1,"nickname":"Tone","portrait":null,"timezone_check":0,"timezone_id":22},"what":""}
+2018-06-14 11:06:25.811 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getGeoFenceCN&deviceSn=8308628499
+remote ip: 172.18.11.168
+remote port: 7553
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 42
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=284866138CBDD80330EEB16BA3FBFC75
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 160017e9-5a37-5ffb-ed72-eef587a4eef3
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getGeoFenceCN&deviceSn=8308628499
+2018-06-14 11:06:28.418 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"defenceList":[]},"what":null}
+2018-06-14 11:06:29.542 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"defenceList":[]},"what":null}
+2018-06-14 11:06:45.738 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getGeoFenceCN&deviceSn=866237030050679
+remote ip: 172.18.11.168
+remote port: 7553
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 47
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=284866138CBDD80330EEB16BA3FBFC75
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 14b61ed9-0dd6-075e-3d84-4e724729064e
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getGeoFenceCN&deviceSn=866237030050679
+2018-06-14 11:06:45.772 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"defenceList":[{"lat":0,"lng":0,"radius":0,"areaid":5741,"defencename":"家"},{"lat":0,"lng":0,"radius":0,"areaid":5742,"defencename":"学校"}]},"what":null}
+2018-06-14 11:06:56.000 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setGeoFence&deviceSn=866237030050679&lat=22.549845&lng=113.936848&radius=100&defencename=ssssssss&defencestatus=1&isOut=1&areaid=5741
+remote ip: 172.18.11.168
+remote port: 7553
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 142
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=284866138CBDD80330EEB16BA3FBFC75
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 99106396-0865-d73a-7571-1d34d05adb71
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  defencename=ssssssss&areaid=5741&lng=113.936848&function=setGeoFence&isOut=1&radius=100&deviceSn=866237030050679&lat=22.549845&defencestatus=1
+2018-06-14 11:06:56.031 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"600","ret":null,"what":"指令下发失败"}
+2018-06-14 11:09:47.558 [http-nio-8050-exec-6] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=274077005@qq.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 7664
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 66
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=284866138CBDD80330EEB16BA3FBFC75
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 65ac0e1c-7d2f-2481-e860-94dca4353a97
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 11:09:49.028 [http-nio-8050-exec-6] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"}],"alert_mode":1,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"zb4GJTmjWRwDSWW4BHXw+CM1Srmd/6CQpOcaiceUxofQaV+cNjTfLBJi6XQQYFpJbNg+/MIH6T27YCiok9H9mgeEGOSnbCI5adG/Z1Ay2FI=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"213L000000002","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-11-30 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"IDD-213LL","one_month_expired":"false","product_type":16,"protocol_type":2,"ranges":6,"super_user":"whoo@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3918186678","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-03-02 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"3918186678","is_gps":0,"nickname":"HT-770","one_month_expired":"false","product_type":14,"protocol_type":5,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"606140003653","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-12-30 15:59:59","gps_interval":null,"head_portrait":"/image/HeadPortrait/201707110907418731.png","isExistGroup":null,"is_gps":0,"nickname":"PT-718G","one_month_expired":"false","product_type":6,"protocol_type":0,"ranges":1,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"866237030050679","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2020-08-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"866237030050679","is_gps":0,"nickname":"HT-790","one_month_expired":"false","product_type":24,"protocol_type":6,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""}],"is_email_verify":1,"nickname":"Tone","portrait":null,"timezone_check":0,"timezone_id":22},"what":""}
+2018-06-14 11:09:55.428 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setGeoFence&deviceSn=866237030050679&lat=22.549845&lng=113.936848&radius=100&defencename=ssssssss&defencestatus=1&isOut=1&areaid=5741
+remote ip: 172.18.11.168
+remote port: 7664
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 142
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=EFDB9C183A86B6023D21E2CDFD6EE735
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 10d3d89c-42ea-bccc-63b7-f74e219c5254
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  defencename=ssssssss&areaid=5741&lng=113.936848&function=setGeoFence&isOut=1&radius=100&deviceSn=866237030050679&lat=22.549845&defencestatus=1
+2018-06-14 11:10:21.576 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"600","ret":null,"what":"指令下发失败"}
+2018-06-14 11:10:54.136 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=274077005@qq.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 7664
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 66
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=EFDB9C183A86B6023D21E2CDFD6EE735
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: db55841f-b8e4-f2e1-b641-a7cb902efaf4
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 11:10:55.941 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"}],"alert_mode":1,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"zb4GJTmjWRwDSWW4BHXw+CM1Srmd/6CQpOcaiceUxofQaV+cNjTfLBJi6XQQYFpJbNg+/MIH6T27YCiok9H9mgeEGOSnbCI5adG/Z1Ay2FI=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"213L000000002","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-11-30 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"IDD-213LL","one_month_expired":"false","product_type":16,"protocol_type":2,"ranges":6,"super_user":"whoo@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3918186678","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-03-02 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"3918186678","is_gps":0,"nickname":"HT-770","one_month_expired":"false","product_type":14,"protocol_type":5,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"606140003653","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-12-30 15:59:59","gps_interval":null,"head_portrait":"/image/HeadPortrait/201707110907418731.png","isExistGroup":null,"is_gps":0,"nickname":"PT-718G","one_month_expired":"false","product_type":6,"protocol_type":0,"ranges":1,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"866237030050679","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2020-08-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"866237030050679","is_gps":0,"nickname":"HT-790","one_month_expired":"false","product_type":24,"protocol_type":6,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""}],"is_email_verify":1,"nickname":"Tone","portrait":null,"timezone_check":0,"timezone_id":22},"what":""}
+2018-06-14 11:10:59.854 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=setGeoFence&deviceSn=866237030050679&lat=22.549845&lng=113.936848&radius=100&defencename=ssssssss&defencestatus=1&isOut=1&areaid=5741
+remote ip: 172.18.11.168
+remote port: 7664
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 142
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=5C8DBB2A1B829EC9F19CCDD6EE679369
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 3b88a0a6-99c9-2792-51b2-dcf176ae4ca2
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  defencename=ssssssss&areaid=5741&lng=113.936848&function=setGeoFence&isOut=1&radius=100&deviceSn=866237030050679&lat=22.549845&defencestatus=1
+2018-06-14 11:11:35.013 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"600","ret":null,"what":"指令下发失败"}
+2018-06-14 11:35:17.719 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: function=getServerConnInfoByUser&username=www@qq.com
+remote ip: 172.18.11.168
+remote port: 8524
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 54
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 04cce732-4f0e-31e5-a947-5214fbc97dad
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getServerConnInfoByUser&username=www%40qq.com
+2018-06-14 11:35:17.791 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"name":"www@qq.com","conn_country":"CN","connid":5,"conn_name":"218.17.161.66","conn_dns":"218.17.161.66","conn_port":10230,"conn_country_des":"中国内地"},"what":""}
+2018-06-14 14:00:24.932 [main] INFO  log_log - ----------GatewayApplication Main----------
+2018-06-14 14:00:40.202 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-14 14:00:41.437 [main] INFO  log_log - ----------容器初始化完成----------
+2018-06-14 14:00:41.438 [main] INFO  log_log - startDeviceServer......
+2018-06-14 14:00:41.439 [main] INFO  log_log - HT770设备监听服务启动 172.18.11.150:10291
+2018-06-14 14:00:41.442 [main] INFO  log_log - HT771设备监听服务启动 172.18.11.150:12223
+2018-06-14 14:00:41.442 [main] INFO  log_log - HT772设备监听服务启动 172.18.11.150:12224
+2018-06-14 14:00:41.554 [pool-3-thread-1] INFO  log_log - HT772服务优雅退出，释放线程池资源 172.18.11.150:12224
+2018-06-14 14:00:41.584 [pool-1-thread-1] INFO  log_log - HT770服务优雅退出，释放线程池资源 172.18.11.150:10291
+2018-06-14 14:00:41.604 [pool-2-thread-1] INFO  log_log - HT771服务优雅退出，释放线程池资源 172.18.11.150:12223
+2018-06-14 14:54:41.110 [main] INFO  log_log - ----------GatewayApplication Main----------
+2018-06-14 14:54:47.773 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-14 14:54:48.951 [main] INFO  log_log - ----------容器初始化完成----------
+2018-06-14 14:54:48.952 [main] INFO  log_log - startDeviceServer......
+2018-06-14 14:54:48.954 [main] INFO  log_log - HT770设备监听服务启动 172.18.11.150:10291
+2018-06-14 14:54:48.957 [main] INFO  log_log - HT771设备监听服务启动 172.18.11.150:12223
+2018-06-14 14:54:48.957 [main] INFO  log_log - HT772设备监听服务启动 172.18.11.150:12224
+2018-06-14 14:54:49.142 [pool-2-thread-1] INFO  log_log - HT771服务优雅退出，释放线程池资源 172.18.11.150:12223
+2018-06-14 14:54:49.223 [pool-3-thread-1] INFO  log_log - HT772服务优雅退出，释放线程池资源 172.18.11.150:12224
+2018-06-14 14:54:49.262 [pool-1-thread-1] INFO  log_log - HT770服务优雅退出，释放线程池资源 172.18.11.150:10291
+2018-06-14 15:27:27.973 [main] INFO  log_log - ----------GatewayApplication Main----------
+2018-06-14 15:27:36.398 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-14 15:27:37.228 [main] INFO  log_log - ----------容器初始化完成----------
+2018-06-14 15:27:37.228 [main] INFO  log_log - startDeviceServer......
+2018-06-14 15:27:37.230 [main] INFO  log_log - HT770设备监听服务启动 172.18.11.150:10291
+2018-06-14 15:27:37.232 [main] INFO  log_log - HT771设备监听服务启动 172.18.11.150:12223
+2018-06-14 15:27:37.233 [main] INFO  log_log - HT772设备监听服务启动 172.18.11.150:12224
+2018-06-14 15:27:37.429 [pool-3-thread-1] INFO  log_log - HT772服务优雅退出，释放线程池资源 172.18.11.150:12224
+2018-06-14 15:27:37.430 [pool-1-thread-1] INFO  log_log - HT770服务优雅退出，释放线程池资源 172.18.11.150:10291
+2018-06-14 15:27:37.435 [pool-2-thread-1] INFO  log_log - HT771服务优雅退出，释放线程池资源 172.18.11.150:12223
+2018-06-14 15:33:39.460 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&isCustomizedApp=4&password=12345678&username=274077005@qq.com
+remote ip: 172.18.11.253
+remote port: 26914
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 84
+accept-encoding: gzip, deflate
+ 
+ 
+  isCustomizedApp=4&password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 15:33:43.362 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":10,"page_code_index":3,"image_url":"http://218.17.161.66:10230/image/upload/img/20180413/7ABFA508EA85222E384B12AF1DA4ACBA_1523585965554.png","ad_url":"https://www.hao123.com"}],"alert_mode":1,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"zb4GJTmjWRwDSWW4BHXw+CM1Srmd/6CQpOcaiceUxofQaV+cNjTfLBJi6XQQYFpJbNg+/MIH6T27YCiok9H9mgeEGOSnbCI5adG/Z1Ay2FI=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"213L000000002","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-11-30 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"IDD-213LL","one_month_expired":"false","product_type":16,"protocol_type":2,"ranges":6,"super_user":"whoo@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3918186678","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-03-02 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"3918186678","is_gps":0,"nickname":"HT-770","one_month_expired":"false","product_type":14,"protocol_type":5,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"606140003653","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-12-30 15:59:59","gps_interval":null,"head_portrait":"/image/HeadPortrait/201707110907418731.png","isExistGroup":null,"is_gps":0,"nickname":"PT-718G","one_month_expired":"false","product_type":6,"protocol_type":0,"ranges":1,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"866237030050679","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2020-08-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"866237030050679","is_gps":0,"nickname":"HT-790","one_month_expired":"false","product_type":24,"protocol_type":6,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""}],"is_email_verify":1,"nickname":"Tone","portrait":null,"timezone_check":0,"timezone_id":22},"what":""}
+2018-06-14 15:33:43.618 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=saveusertoken&token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1
+remote ip: 172.18.11.253
+remote port: 26927
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=FA386BD794934FEB71847D2555E314A6
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 93
+accept-encoding: gzip, deflate
+ 
+ 
+  function=saveusertoken&token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1
+2018-06-14 15:33:43.748 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getAdvertising&page_code=10
+remote ip: 172.18.11.253
+remote port: 26928
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=FA386BD794934FEB71847D2555E314A6
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 36
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getAdvertising&page_code=10
+2018-06-14 15:33:43.748 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":"","what":"保存token成功"}
+2018-06-14 15:33:43.782 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"map":[{"page_code_index":3,"image_url":"http://218.17.161.66:10230/image/upload/img/20180413/7ABFA508EA85222E384B12AF1DA4ACBA_1523585965554.png","ad_url":"https://www.hao123.com","end_time":"2019-04-30 11:00:20"}]},"what":""}
+2018-06-14 15:33:46.116 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDeviceAtHomePage&username=274077005@qq.com
+remote ip: 172.18.11.253
+remote port: 26931
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=FA386BD794934FEB71847D2555E314A6
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 56
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getDeviceAtHomePage&username=274077005%40qq.com
+2018-06-14 15:33:46.144 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"map":[{"device_sn":"213L000000002","ranges":6,"product_type":16,"lat":24.7745664,"lng":116.1709256,"online":0,"head_portrait":""},{"device_sn":"866237030050679","ranges":5,"product_type":24,"lat":22.5445824,"lng":113.940834,"online":0,"head_portrait":""}]},"what":null}
+2018-06-14 15:33:47.849 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getSystemNotice
+remote ip: 172.18.11.253
+remote port: 26932
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=FA386BD794934FEB71847D2555E314A6
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 24
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getSystemNotice
+2018-06-14 15:33:47.888 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"content":"<p>俄43 把4343433434343而二恶</p>\r\n","code":"1266993604"},"what":""}
+2018-06-14 15:33:47.920 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: deviceSn=866237030050679&endTime=2018-06-14 15:33:13&function=getCurrentGPS
+remote ip: 172.18.11.253
+remote port: 26933
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=FA386BD794934FEB71847D2555E314A6
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 81
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getCurrentGPS&endTime=2018-06-14+15%3A33%3A13&deviceSn=866237030050679
+2018-06-14 15:33:48.026 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"collect_datetime":"2018-05-21 05:17:44","lat":22.5445824,"lng":113.940834,"speed":0,"gps_flag":"3","direction":0,"battery":"0","steps":0,"LBS_WIFI_Range":550,"calorie":0,"onlinestatus":0,"car_status":0,"totalMileage":0,"mileage":0,"step":0},"what":null}
+2018-06-14 15:33:48.080 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: deviceSn=866237030050679&endTime=2018-06-14 15:33:13&function=getCurrentGPS
+remote ip: 172.18.11.253
+remote port: 26934
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=FA386BD794934FEB71847D2555E314A6
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 81
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getCurrentGPS&endTime=2018-06-14+15%3A33%3A13&deviceSn=866237030050679
+2018-06-14 15:33:48.171 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"collect_datetime":"2018-05-21 05:17:44","lat":22.5445824,"lng":113.940834,"speed":0,"gps_flag":"3","direction":0,"battery":"0","steps":0,"LBS_WIFI_Range":550,"calorie":0,"onlinestatus":0,"car_status":0,"totalMileage":0,"mileage":0,"step":0},"what":null}
+2018-06-14 15:34:05.484 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=logout
+remote ip: 172.18.11.253
+remote port: 26936
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=FA386BD794934FEB71847D2555E314A6
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 15
+accept-encoding: gzip, deflate
+ 
+ 
+  function=logout
+2018-06-14 15:34:05.504 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":"","what":""}
+2018-06-14 15:34:21.432 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&isCustomizedApp=4&password=12345678&username=274077005@qq.com
+remote ip: 172.18.11.253
+remote port: 26945
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 84
+accept-encoding: gzip, deflate
+ 
+ 
+  isCustomizedApp=4&password=12345678&function=userLoginCN&username=274077005%40qq.com
+2018-06-14 15:34:21.872 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":10,"page_code_index":3,"image_url":"http://218.17.161.66:10230/image/upload/img/20180413/7ABFA508EA85222E384B12AF1DA4ACBA_1523585965554.png","ad_url":"https://www.hao123.com"}],"alert_mode":1,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"zb4GJTmjWRwDSWW4BHXw+CM1Srmd/6CQpOcaiceUxofQaV+cNjTfLBJi6XQQYFpJbNg+/MIH6T27YCiok9H9mgeEGOSnbCI5adG/Z1Ay2FI=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"213L000000002","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-11-30 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"IDD-213LL","one_month_expired":"false","product_type":16,"protocol_type":2,"ranges":6,"super_user":"whoo@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3918186678","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-03-02 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"3918186678","is_gps":0,"nickname":"HT-770","one_month_expired":"false","product_type":14,"protocol_type":5,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"606140003653","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-22 15:59:59","expired_time_de":"2019-12-30 15:59:59","gps_interval":null,"head_portrait":"/image/HeadPortrait/201707110907418731.png","isExistGroup":null,"is_gps":0,"nickname":"PT-718G","one_month_expired":"false","product_type":6,"protocol_type":0,"ranges":1,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"866237030050679","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2020-08-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"866237030050679","is_gps":0,"nickname":"HT-790","one_month_expired":"false","product_type":24,"protocol_type":6,"ranges":5,"super_user":"274077005@qq.com","timezone":-12600,"tracker_sim":""}],"is_email_verify":1,"nickname":"Tone","portrait":null,"timezone_check":0,"timezone_id":22},"what":""}
+2018-06-14 15:34:21.894 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=saveusertoken&token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1
+remote ip: 172.18.11.253
+remote port: 26946
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=14B452AA0759B50339DD7E2A5BFC6047
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 93
+accept-encoding: gzip, deflate
+ 
+ 
+  function=saveusertoken&token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1
+2018-06-14 15:34:21.916 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getAdvertising&page_code=10
+remote ip: 172.18.11.253
+remote port: 54518
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=14B452AA0759B50339DD7E2A5BFC6047
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 36
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getAdvertising&page_code=10
+2018-06-14 15:34:21.961 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"map":[{"page_code_index":3,"image_url":"http://218.17.161.66:10230/image/upload/img/20180413/7ABFA508EA85222E384B12AF1DA4ACBA_1523585965554.png","ad_url":"https://www.hao123.com","end_time":"2019-04-30 11:00:20"}]},"what":""}
+2018-06-14 15:34:22.009 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":"","what":"保存token成功"}
+2018-06-14 15:34:28.004 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDeviceAtHomePage&username=274077005@qq.com
+remote ip: 172.18.11.253
+remote port: 54521
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=14B452AA0759B50339DD7E2A5BFC6047
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.4; Scale/2.00)
+accept-language: zh-cn
+content-length: 56
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getDeviceAtHomePage&username=274077005%40qq.com
+2018-06-14 15:34:28.033 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"map":[{"device_sn":"213L000000002","ranges":6,"product_type":16,"lat":24.7745664,"lng":116.1709256,"online":0,"head_portrait":""},{"device_sn":"866237030050679","ranges":5,"product_type":24,"lat":22.5445824,"lng":113.940834,"online":0,"head_portrait":""}]},"what":null}

@@ -1,0 +1,88 @@
+2018-05-28 10:25:41.892 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 10:30:55.859 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 10:34:52.701 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 10:35:01.431 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 11:18:31.114 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 11:18:40.427 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 14:31:40.138 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 14:31:50.011 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 15:21:42.937 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 15:21:51.921 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 15:45:09.285 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 15:45:18.603 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 15:46:52.102 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 15:47:01.626 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 15:57:39.903 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 15:57:48.981 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:05:02.276 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:05:14.971 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:10:19.449 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:14:31.245 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:14:40.689 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:28:08.738 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:28:18.374 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:31:35.165 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:31:45.258 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:35:48.039 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:36:00.034 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:40:04.356 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:40:13.902 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:44:24.938 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:44:33.880 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:46:23.883 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:46:32.802 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 16:49:07.733 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 16:49:16.631 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 17:24:48.393 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 17:24:57.891 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 17:28:15.640 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:28:08__msgType:1__userName:www@qq.com
+2018-05-28 17:28:15.641 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:28:08      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:28:16.837 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:28:32.728 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:28:32__msgType:1__userName:www@qq.com
+2018-05-28 17:28:32.729 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:28:32      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:28:33.429 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:32:13.231 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:32:13__msgType:1__userName:www@qq.com
+2018-05-28 17:32:13.231 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:32:13      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:32:13.949 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:36:06.446 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:36:06__msgType:1__userName:www@qq.com
+2018-05-28 17:36:06.446 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:36:06      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:36:07.355 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:37:39.148 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:37:39__msgType:1__userName:www@qq.com
+2018-05-28 17:37:59.155 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:37:39__msgType:1__userName:www@qq.com
+2018-05-28 17:38:19.152 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:37:39__msgType:1__userName:www@qq.com
+2018-05-28 17:38:50.334 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:37:39      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:38:51.063 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:38:53.608 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:37:39      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:38:53.800 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:37:39      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:38:54.309 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:38:54.511 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:39:49.454 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 17:39:58.357 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 17:40:08.090 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:40:07__msgType:1__userName:www@qq.com
+2018-05-28 17:40:27.682 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:40:07__msgType:1__userName:www@qq.com
+2018-05-28 17:40:47.673 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:40:07__msgType:1__userName:www@qq.com
+2018-05-28 17:40:49.926 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:40:07      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:40:51.045 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:40:51.158 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:40:07      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:40:51.344 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:40:07      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:40:51.894 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:40:52.086 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:41:27.570 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:41:27__msgType:1__userName:www@qq.com
+2018-05-28 17:41:27.571 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:41:27      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:41:28.314 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:41:53.910 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:863559032010085|1|null|null|null|5|28800|2018-05-28 17:41:53__msgType:1__userName:www@qq.com
+2018-05-28 17:41:53.912 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - pushDataToIosServer:863559032010085|1|null|null|null|5|28800|2018-05-28 17:41:53      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_4.p12       certificatePassword:123
+2018-05-28 17:41:54.636 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - ===============end push ios msg successCount============:1
+2018-05-28 17:42:37.237 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - 融云 消息推送成功,code:200---userName:www@qq.com---msg:{"operation":"863559032010085","extra":"{\"equipId\":\"863559032010085\",\"localDateTime\":\"2018-05-28 17:42:36\",\"alarmtype\":null,\"msgType\":1,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":\"\",\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-05-28 09:42:36\",\"onlinestatus\":null,\"lat\":null,\"direction\":null}"}
+2018-05-28 17:45:04.326 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - 融云 消息推送成功,code:200---userName:www@qq.com---msg:{"operation":"863559032010085","extra":"{\"equipId\":\"863559032010085\",\"localDateTime\":\"2018-05-28 17:43:38\",\"alarmtype\":null,\"msgType\":1,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":\"\",\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-05-28 09:43:38\",\"onlinestatus\":null,\"lat\":null,\"direction\":null}"}
+2018-05-28 17:45:15.508 [DubboServerHandler-172.18.11.168:7401-thread-9] INFO  log_log - 融云 消息推送成功,code:200---userName:www@qq.com---msg:{"operation":"863559032010085","extra":"{\"equipId\":\"863559032010085\",\"localDateTime\":\"2018-05-28 17:43:38\",\"alarmtype\":null,\"msgType\":1,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":\"\",\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-05-28 09:43:38\",\"onlinestatus\":null,\"lat\":null,\"direction\":null}"}
+2018-05-28 17:45:15.675 [DubboServerHandler-172.18.11.168:7401-thread-10] INFO  log_log - 融云 消息推送成功,code:200---userName:www@qq.com---msg:{"operation":"863559032010085","extra":"{\"equipId\":\"863559032010085\",\"localDateTime\":\"2018-05-28 17:43:38\",\"alarmtype\":null,\"msgType\":1,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":\"\",\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-05-28 09:43:38\",\"onlinestatus\":null,\"lat\":null,\"direction\":null}"}
+2018-05-28 17:53:42.583 [DubboServerHandler-172.18.11.168:7401-thread-12] INFO  log_log - 融云 消息推送成功,code:200---userName:www@qq.com---msg:{"operation":"863559032010085","extra":"{\"equipId\":\"863559032010085\",\"localDateTime\":\"2018-05-28 17:53:00\",\"alarmtype\":null,\"msgType\":4,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":\"咯哦\",\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-05-28 09:53:00\",\"onlinestatus\":null,\"lat\":null,\"direction\":null}"}
+2018-05-28 17:53:43.102 [DubboServerHandler-172.18.11.168:7401-thread-11] INFO  log_log - 融云 消息推送成功,code:200---userName:www@qq.com---msg:{"operation":"863559032010085","extra":"{\"equipId\":\"863559032010085\",\"localDateTime\":\"2018-05-28 17:53:00\",\"alarmtype\":null,\"msgType\":4,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":\"咯哦\",\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-05-28 09:53:00\",\"onlinestatus\":null,\"lat\":null,\"direction\":null}"}
+2018-05-28 18:02:14.748 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 18:02:24.322 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 18:18:59.985 [main] INFO  log_log - ----------DataApplication Main----------
+2018-05-28 18:19:08.997 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-05-28 18:21:14.509 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - IosMsgPushHandler initPushData start push IOS msg:3703002703|1|6|null|null|5|28800|2018-05-28 18:21:14__msgType:1__userName:tangrui@castelbds.com
+2018-05-28 18:21:14.510 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - pushDataToIosServer:3703002703|1|6|null|null|5|28800|2018-05-28 18:21:14      certificatePath:D:\Tracker\HTDZProject\htdz-services\htdz-task\target\classes\certificate\liteguardian\develope\3_0.p12       certificatePassword:123
+2018-05-28 18:21:15.794 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - ===============end push ios msg successCount============:1

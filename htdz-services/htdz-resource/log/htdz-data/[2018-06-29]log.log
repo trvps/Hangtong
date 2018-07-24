@@ -1,0 +1,35 @@
+2018-06-29 15:12:19.926 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-29 15:14:08.106 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-29 15:14:59.534 [main] INFO  log_log - ----------PushTest----------
+2018-06-29 15:15:01.569 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-29 15:15:16.920 [main] INFO  log_log - ----------PushTest----------
+2018-06-29 15:15:22.783 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-29 15:15:38.600 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-06-29 15:15:38.603 [main] INFO  log_log - Content-Length: 41
+2018-06-29 15:15:38.603 [main] INFO  log_log - Date: Fri, 29 Jun 2018 07:15:36 GMT
+2018-06-29 15:15:38.603 [main] INFO  log_log - transferURL result: {"code":1,"data":null,"msg":"exception!"}
+2018-06-29 15:16:23.387 [main] INFO  log_log - ----------PushTest----------
+2018-06-29 15:16:24.897 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-29 15:16:54.049 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-06-29 15:16:54.051 [main] INFO  log_log - Content-Length: 41
+2018-06-29 15:16:54.051 [main] INFO  log_log - Date: Fri, 29 Jun 2018 07:16:53 GMT
+2018-06-29 15:16:54.051 [main] INFO  log_log - transferURL result: {"code":1,"data":null,"msg":"exception!"}
+2018-06-29 15:18:36.000 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-29 15:18:53.017 [main] INFO  log_log - ----------PushTest----------
+2018-06-29 15:18:53.030 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-29 15:18:55.626 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-06-29 15:18:55.628 [main] INFO  log_log - Content-Length: 281
+2018-06-29 15:18:55.628 [main] INFO  log_log - Date: Fri, 29 Jun 2018 07:18:55 GMT
+2018-06-29 15:18:55.628 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:/data\\DevicePhoto\\201806290718546654.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:7600/image/DevicePhoto/201806290718546654.png","urlThumbnail":"http://218.17.161.66:7600/image/thumbnail/201806290718558919.png"}],"msg":null}
+2018-06-29 15:23:33.093 [main] INFO  log_log - ----------PushTest----------
+2018-06-29 15:23:33.105 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-29 15:23:39.273 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-06-29 15:23:39.276 [main] INFO  log_log - Content-Length: 279
+2018-06-29 15:23:39.276 [main] INFO  log_log - Date: Fri, 29 Jun 2018 07:21:29 GMT
+2018-06-29 15:23:39.276 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/DevicePhoto/201806290721262312.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806290721262312.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806290721288568.png"}],"msg":null}
+2018-06-29 15:26:20.115 [main] INFO  log_log - ----------PushTest----------
+2018-06-29 15:26:20.128 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-29 15:26:20.976 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-06-29 15:26:20.978 [main] INFO  log_log - Content-Length: 279
+2018-06-29 15:26:20.978 [main] INFO  log_log - Date: Fri, 29 Jun 2018 07:24:11 GMT
+2018-06-29 15:26:20.978 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/DevicePhoto/201806290724112483.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/DevicePhoto/201806290724112483.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806290724116279.png"}],"msg":null}

@@ -1,0 +1,253 @@
+2018-05-21 09:12:30.559 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 09:12:38.931 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 09:19:00.247 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 09:19:24.291 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 09:19:32.396 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 09:20:00.001 [pool-1-thread-1] INFO  log_log - 正在停止111}设备监听服务
+2018-05-21 09:53:37.741 [main] INFO  log_log - ----------PushTest----------
+2018-05-21 09:54:29.472 [main] INFO  log_log - ----------PushTest----------
+2018-05-21 09:54:48.345 [main] INFO  log_log - ----------PushTest----------
+2018-05-21 10:44:10.852 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 10:44:23.283 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 10:45:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:46:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:47:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:48:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:49:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:49:05.443 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@7f97ed5d, method=getRemind, headers={content-length=157, accept-language=zh-CN,zh;q=0.9, postman-token=e6b6d6c0-cac3-ff57-5bef-e198c6c6f82f, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 10:50:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:51:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:52:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:53:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:54:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:55:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:55:12.519 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@7e9da675, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=10d2054b-6f54-5526-2ac3-c64271ecb2c1, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 10:56:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:56:52.569 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1c22976a, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=10d2054b-6f54-5526-2ac3-c64271ecb2c1, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 10:57:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:58:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 10:59:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:00:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:01:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:02:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:03:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:04:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:05:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:06:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:07:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:08:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:09:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:10:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:11:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:12:14.529 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 11:12:23.293 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 11:12:51.660 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1828de6e, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=44b2f5d1-c082-4d00-975e-76b6da9805ad, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 11:12:55.861 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@684aa197, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=6ca787f9-5b38-3896-177e-71fcdac13b70, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 11:13:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:13:39.875 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1970203c, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=6ca787f9-5b38-3896-177e-71fcdac13b70, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 11:14:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:14:35.853 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@4ac076cf, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=6ca787f9-5b38-3896-177e-71fcdac13b70, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 11:15:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:15:19.878 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1df6a192, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=6ca787f9-5b38-3896-177e-71fcdac13b70, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 11:16:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:17:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:18:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:19:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:20:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:21:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:22:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:23:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:24:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:25:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:26:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:27:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:28:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:29:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:30:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:31:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:32:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:33:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:34:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:35:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:36:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:37:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 11:38:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:50:01.128 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 13:50:25.070 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 13:50:34.974 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@734d5066, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=2a7a825c-8197-3119-0c1d-b62e5cf3d32b, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 13:51:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:51:56.358 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@3ed92bd1, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=70d8679a-eea6-72c5-231e-03661acec5b6, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 13:52:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:52:48.189 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 13:52:57.271 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 13:53:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:53:14.494 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@641f056b, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=05f8273d-88ef-1326-b1cc-e983ad64e37e, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 13:54:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:55:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:55:13.457 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@f5d996b, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=278d52cb-7a5d-73ca-dd81-6fb34364c8f7, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 13:55:25.902 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@f148db, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=174218fc-e711-55e6-3273-555ee7f75736, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 13:55:40.744 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@3d810370, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=12859284-f7ba-c9aa-68ea-17ebcf574a4d, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 13:56:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:57:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:57:12.926 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@7dd1a909, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=c64a2055-5499-b453-7ec9-ee56daa4f153, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 13:58:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:59:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 13:59:48.952 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@16d5f429, method=getRemind, headers={content-length=199, accept-language=zh-CN,zh;q=0.9, postman-token=22c3c16e-beea-2376-65cf-1e570a35aea7, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:00:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:01:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:26:14.099 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 14:26:24.106 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 14:26:50.781 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@7e36d608, method=setStep, headers={content-length=282, accept-language=zh-CN,zh;q=0.9, postman-token=7bf927e8-9b4d-9800-8547-f19037f3a42a, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:27:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:27:32.763 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@6a2bbd7, method=setStep, headers={content-length=282, accept-language=zh-CN,zh;q=0.9, postman-token=102273c7-5d3d-3ad9-f28d-614d02a01f5d, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:28:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:28:08.217 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@7405a048, method=setStep, headers={content-length=318, accept-language=zh-CN,zh;q=0.9, postman-token=fbb3cce8-149a-e4e8-7927-d2b6200b5472, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:29:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:29:06.922 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@3ced6f61, method=setStep, headers={content-length=324, accept-language=zh-CN,zh;q=0.9, postman-token=ddaa9483-590e-529e-b5ce-041c03042699, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:29:48.629 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@24610ffb, method=setStep, headers={content-length=330, accept-language=zh-CN,zh;q=0.9, postman-token=e7206634-f056-6e5f-3aaf-59b051f0db0a, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:30:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:31:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:31:16.191 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@6394f459, method=setStep, headers={content-length=324, accept-language=zh-CN,zh;q=0.9, postman-token=dcf9c9e0-bd73-92e5-a57b-d6ab5f045ad7, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:32:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:33:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:33:40.027 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@385c74ab, method=setStep, headers={content-length=324, accept-language=zh-CN,zh;q=0.9, postman-token=0e769925-fd1f-51e1-2188-0d00e0e73e10, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 14:34:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:35:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:36:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:37:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:38:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:39:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:40:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:41:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:42:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:43:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:44:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:45:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:46:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:47:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:48:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:49:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:50:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:51:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:52:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:53:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:54:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:55:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:56:00.064 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:57:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:58:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 14:59:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:00:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:01:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:02:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:03:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:04:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:05:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:06:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:07:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:08:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:09:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:10:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:11:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:12:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:12:54.586 [DubboServerHandler-172.18.11.168:7401-thread-9] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@753c4ae, method=getStep, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=516268a5-91a6-49f6-9e17-cdb749e398cc, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:13:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:13:24.341 [DubboServerHandler-172.18.11.168:7401-thread-10] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@6bda4f0a, method=getStep, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=955354e5-1578-56fd-8d19-ad5ff9176b33, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:14:05.725 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 15:14:14.425 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 15:14:27.438 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1ad1cd91, method=getStep, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=433bc689-0609-fdf4-3292-a8316b6da393, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:15:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:16:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:17:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:18:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:19:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:20:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:21:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:22:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:23:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:24:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:25:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:36:46.556 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 15:36:56.538 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 15:37:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:37:21.311 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@57075e12, method=getStep, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=0c64d37c-dfa9-7f8d-714c-398d1ea0c150, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:38:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:38:23.735 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@5e987efc, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=3353b689-0271-0513-4832-4b1112d3295c, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:38:41.228 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@7e5ef250, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=11c6eee6-e3a7-ebfb-75d8-2fca336894c8, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:39:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:39:21.222 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@2e67db65, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=46e818c0-972b-24e8-1532-119eb73219fc, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:39:46.730 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@66d65646, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=d6775470-f1fd-1a0f-ae2d-e3b43253c4de, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:39:52.222 [DubboServerHandler-172.18.11.168:7401-thread-7] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@6e524825, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=971b2d0c-7cfe-6011-2d74-d30e15473f9f, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:40:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:40:36.261 [DubboServerHandler-172.18.11.168:7401-thread-8] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@116a1345, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=971b2d0c-7cfe-6011-2d74-d30e15473f9f, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:41:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:41:23.241 [DubboServerHandler-172.18.11.168:7401-thread-9] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@66d6312f, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=b7f8bfd2-8b09-4af0-b9c4-86e94095c8f6, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:41:29.728 [DubboServerHandler-172.18.11.168:7401-thread-10] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@615fd4bc, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=0ea1b531-bd21-3d6a-2e19-9ef6140043bf, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:41:31.817 [DubboServerHandler-172.18.11.168:7401-thread-11] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1230f249, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=c01fcab4-309d-620a-9ea5-d874f6223528, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:42:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:43:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:44:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:45:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:46:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:47:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:48:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:48:42.002 [DubboServerHandler-172.18.11.168:7401-thread-12] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1405ddf4, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=05188774-8bf8-6a2a-2ed7-bc56c7842207, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:48:47.952 [DubboServerHandler-172.18.11.168:7401-thread-13] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@56dac549, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=b2b453e3-3eec-3b71-6926-43cefe3b1614, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:49:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:50:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:51:05.559 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 15:51:14.687 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 15:51:38.656 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@38a6c8d4, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=0e3b0d18-29ac-5ce6-8486-7751cd29111c, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 15:52:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:53:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:54:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:55:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:56:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:57:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:58:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 15:59:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:00:02.054 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 16:00:11.068 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 16:00:18.954 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@d96f568, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=aeaa8bd2-6f22-7f3b-ef5c-5d4fdf5965f9, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:01:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:01:47.842 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 16:01:56.875 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 16:02:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:02:27.134 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@591116c0, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=59c0cbbf-0382-bad5-22f3-33f68361b84b, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:03:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:04:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:05:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:06:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:07:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:08:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:09:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:10:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:11:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:12:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:13:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:14:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:15:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:16:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:16:30.816 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 16:16:39.954 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 16:16:54.216 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@292c534e, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=dfd62893-2742-b952-299d-303c9d003507, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:17:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:18:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:18:40.795 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@54eb0358, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=4fbf4ed9-1ef2-2455-a302-d74b747e38c9, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:19:00.001 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:20:00.003 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:21:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:22:00.002 [pool-1-thread-1] INFO  log_log - litefamily minuteSchedule
+2018-05-21 16:22:32.614 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 16:22:41.405 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 16:22:51.902 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@ab53180, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=b5d03a9e-3662-5e53-77ad-47ef97941533, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:23:50.384 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 16:23:58.990 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 16:24:09.777 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@be3a65b, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=1e49abf0-7466-5d92-7a26-50afa220107f, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:25:14.942 [DubboServerHandler-172.18.11.168:7401-thread-3] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@1b624bb3, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=517b478d-44ea-103f-b623-cc2b0013ed5b, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:26:18.387 [DubboServerHandler-172.18.11.168:7401-thread-4] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@98a39f0, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=91e39a43-8ecf-3a88-669e-12ae04759f8d, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:27:58.399 [DubboServerHandler-172.18.11.168:7401-thread-5] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@75e1409d, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=91e39a43-8ecf-3a88-669e-12ae04759f8d, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:29:38.401 [DubboServerHandler-172.18.11.168:7401-thread-6] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@a540916, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=91e39a43-8ecf-3a88-669e-12ae04759f8d, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}
+2018-05-21 16:34:22.883 [main] INFO  log_log - ----------LitefamilyApplication Main----------
+2018-05-21 16:34:33.564 [main] INFO  log_log - ----------容器初始化完成----------
+2018-05-21 16:35:25.510 [DubboServerHandler-172.18.11.168:7401-thread-2] INFO  log_log - hanleHttpRequest ri=com.htdz.def.data.RouteInfo@51b41360, method=getRemind, headers={content-length=85, accept-language=zh-CN,zh;q=0.9, postman-token=9fde8a93-4473-121d-bcd7-edef469e0cba, x-lantern-version=4.6.14, origin=chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop, proxy-connection=keep-alive, host=172.18.11.168:8050, content-type=application/x-www-form-urlencoded, cache-control=no-cache, accept-encoding=gzip, deflate, user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36, accept=*/*}

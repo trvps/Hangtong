@@ -1,0 +1,231 @@
+2018-06-11 15:05:56.152 [main] INFO  log_log - ----------DataApplication Main----------
+2018-06-11 15:13:30.947 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:06:37__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:13:34.464 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:06:37      certificatePath:java.io.BufferedInputStream@5ec6a1b6       certificatePassword:123
+2018-06-11 15:13:36.518 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:13:41.625 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:06:47__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:13:41.655 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:06:47      certificatePath:java.io.BufferedInputStream@1c459c28       certificatePassword:123
+2018-06-11 15:13:42.390 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:13:47.496 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:27__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:13:47.531 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:27      certificatePath:java.io.BufferedInputStream@35555145       certificatePassword:123
+2018-06-11 15:13:48.308 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:13:53.402 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:37__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:13:53.430 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:37      certificatePath:java.io.BufferedInputStream@2411b935       certificatePassword:123
+2018-06-11 15:13:54.178 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:13:59.251 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:47__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:13:59.282 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:47      certificatePath:java.io.BufferedInputStream@4e79c25       certificatePassword:123
+2018-06-11 15:14:00.031 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:14:05.095 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:57__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:14:05.123 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:07:57      certificatePath:java.io.BufferedInputStream@4c164f81       certificatePassword:123
+2018-06-11 15:14:05.843 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:14:10.915 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:08:07__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:14:10.945 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:08:07      certificatePath:java.io.BufferedInputStream@17a77a7e       certificatePassword:123
+2018-06-11 15:14:11.653 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:17:05.926 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:16:31__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:17:11.039 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:16:31      certificatePath:java.io.BufferedInputStream@5534e6f1       certificatePassword:123
+2018-06-11 15:17:12.307 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:19:52.057 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:16:41__msgType:1__userName:liyinjie@126.com
+2018-06-11 15:19:52.367 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-11 23:16:41      certificatePath:java.io.BufferedInputStream@6f428e6e       certificatePassword:123
+2018-06-11 15:19:53.257 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 15:22:16.835 [main] INFO  log_log - isNotity=true
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=true
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=false
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=false
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=false
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=true
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=true
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=true
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=true
+2018-06-11 15:22:16.836 [main] INFO  log_log - isNotity=true
+2018-06-11 15:23:40.513 [main] INFO  log_log - isNotity=true
+2018-06-11 15:23:40.514 [main] INFO  log_log - isNotity=true
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=false
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=false
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=false
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=true
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=true
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=true
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=true
+2018-06-11 15:23:40.515 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.438 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.438 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=false
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=false
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=false
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity=true
+2018-06-11 15:26:25.439 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:29:00.926 [main] INFO  log_log - --------
+2018-06-11 15:29:26.663 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:31:22.466 [main] INFO  log_log - --------
+2018-06-11 15:31:24.702 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:31:33.437 [main] INFO  log_log - --------
+2018-06-11 15:31:40.717 [main] INFO  log_log - --------
+2018-06-11 15:31:40.717 [main] INFO  log_log - --------
+2018-06-11 15:31:40.717 [main] INFO  log_log - --------
+2018-06-11 15:31:40.717 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:31:40.717 [main] INFO  log_log - --------
+2018-06-11 15:31:40.717 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:31:40.717 [main] INFO  log_log - --------
+2018-06-11 15:31:40.717 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:31:40.717 [main] INFO  log_log - --------
+2018-06-11 15:31:40.717 [main] INFO  log_log - isNotity1111=true
+2018-06-11 15:31:40.718 [main] INFO  log_log - --------
+2018-06-11 15:31:40.718 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:07:39.274 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:07:47.576 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:07:47.583 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:07:47.583 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:07:47.583 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:07:47.583 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:07:47.583 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:07:47.583 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:07:47.583 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:07:47.583 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:07:47.584 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:07:47.584 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:07:47.584 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:07:47.584 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:07:47.584 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:07:47.584 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:07:47.584 [main] INFO  log_log - isNotity1111=true
+2018-06-11 16:10:57.686 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:10:57.689 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:10:57.690 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:10:57.690 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:10:57.690 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:13:47.610 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=true
+2018-06-11 16:13:47.611 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=true
+2018-06-11 16:13:47.611 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=false
+2018-06-11 16:13:47.611 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:13:47.611 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=false
+2018-06-11 16:13:47.612 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=false
+2018-06-11 16:13:47.612 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=true
+2018-06-11 16:13:47.612 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:13:47.612 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=true
+2018-06-11 16:13:47.612 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=true
+2018-06-11 16:13:47.612 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=true
+2018-06-11 16:13:47.612 [main] INFO  log_log - areaInfo.getIsOut()=1outSide=true
+2018-06-11 16:18:12.671 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:18:13.074 [main] INFO  log_log - 推送消息：8003057196|1|29|116.39379595635783|39.91290469437674|5|28800|2018-06-12 00:18:42__msgType:1__userName:liyinjie@126.com
+2018-06-11 16:18:13.125 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.39379595635783|39.91290469437674|5|28800|2018-06-12 00:18:42      certificatePath:java.io.BufferedInputStream@6785df10       certificatePassword:123
+2018-06-11 16:18:14.348 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 16:18:19.387 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:18:19.421 [main] INFO  log_log - 推送消息：8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-12 00:19:12__msgType:1__userName:liyinjie@126.com
+2018-06-11 16:18:19.459 [main] INFO  log_log - pushDataToIosServer:8003057196|1|29|116.3806892454|39.9145659412|5|28800|2018-06-12 00:19:12      certificatePath:java.io.BufferedInputStream@4a5fab78       certificatePassword:123
+2018-06-11 16:18:20.314 [main] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-11 16:20:11.984 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:20:11.984 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:20:11.985 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=false
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:20:11.985 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:20:11.985 [main] INFO  log_log - areaInfo.getIsOut()=0outSide=true
+2018-06-11 16:24:07.986 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：true
+2018-06-11 16:24:07.987 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:24:07.987 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false_是否推送：true
+2018-06-11 16:24:07.988 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false_是否推送：false
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false_是否推送：false
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：true
+2018-06-11 16:24:07.988 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:07.988 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:55.805 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:true_是否推送：false
+2018-06-11 16:24:55.805 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:24:55.807 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:55.807 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:false_是否推送：false
+2018-06-11 16:24:55.807 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:24:55.810 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false_是否推送：false
+2018-06-11 16:24:55.810 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false_是否推送：false
+2018-06-11 16:24:55.810 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:true_是否推送：false
+2018-06-11 16:24:55.810 [main] INFO  log_log - isNotitytrue
+2018-06-11 16:24:55.810 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:55.810 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:55.810 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:24:55.810 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.656 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.656 [main] INFO  log_log - _是否推送：true
+2018-06-11 16:27:03.657 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.658 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:03.658 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:false_是否推送：false
+2018-06-11 16:27:03.658 [main] INFO  log_log - _是否推送：true
+2018-06-11 16:27:03.659 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false_是否推送：false
+2018-06-11 16:27:03.659 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:03.659 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false_是否推送：false
+2018-06-11 16:27:03.659 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - _是否推送：true
+2018-06-11 16:27:03.660 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true_是否推送：false
+2018-06-11 16:27:03.660 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:37.366 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:true
+2018-06-11 16:27:37.367 [main] INFO  log_log - _是否推送：true
+2018-06-11 16:27:37.367 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true
+2018-06-11 16:27:37.367 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:37.367 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:false
+2018-06-11 16:27:37.367 [main] INFO  log_log - _是否推送：true
+2018-06-11 16:27:37.367 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false
+2018-06-11 16:27:37.368 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:37.368 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:false
+2018-06-11 16:27:37.368 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:37.368 [main] INFO  log_log - 8003057196 上一次是否越界:false_当前是否越界:true
+2018-06-11 16:27:37.368 [main] INFO  log_log - _是否推送：true
+2018-06-11 16:27:37.368 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true
+2018-06-11 16:27:37.368 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:37.368 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true
+2018-06-11 16:27:37.368 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:37.368 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true
+2018-06-11 16:27:37.368 [main] INFO  log_log - _是否推送：false
+2018-06-11 16:27:37.368 [main] INFO  log_log - 8003057196 上一次是否越界:true_当前是否越界:true
+2018-06-11 16:27:37.368 [main] INFO  log_log - _是否推送：false
+2018-06-11 17:31:52.735 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:false_��ǰ�Ƿ�Խ��:true
+2018-06-11 17:31:52.840 [main] INFO  log_log - _�Ƿ����ͣ�true
+2018-06-11 17:31:52.844 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:true_��ǰ�Ƿ�Խ��:true
+2018-06-11 17:31:52.844 [main] INFO  log_log - _�Ƿ����ͣ�false
+2018-06-11 17:31:52.844 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:true_��ǰ�Ƿ�Խ��:false
+2018-06-11 17:31:52.844 [main] INFO  log_log - _�Ƿ����ͣ�true
+2018-06-11 17:31:52.844 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:false_��ǰ�Ƿ�Խ��:false
+2018-06-11 17:31:52.844 [main] INFO  log_log - _�Ƿ����ͣ�false
+2018-06-11 17:31:52.844 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:false_��ǰ�Ƿ�Խ��:false
+2018-06-11 17:31:52.844 [main] INFO  log_log - _�Ƿ����ͣ�false
+2018-06-11 17:31:52.844 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:false_��ǰ�Ƿ�Խ��:true
+2018-06-11 17:31:52.844 [main] INFO  log_log - _�Ƿ����ͣ�true
+2018-06-11 17:31:52.844 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:true_��ǰ�Ƿ�Խ��:true
+2018-06-11 17:31:52.844 [main] INFO  log_log - _�Ƿ����ͣ�false
+2018-06-11 17:31:52.845 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:true_��ǰ�Ƿ�Խ��:true
+2018-06-11 17:31:52.845 [main] INFO  log_log - _�Ƿ����ͣ�false
+2018-06-11 17:31:52.845 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:true_��ǰ�Ƿ�Խ��:true
+2018-06-11 17:31:52.845 [main] INFO  log_log - _�Ƿ����ͣ�false
+2018-06-11 17:31:52.845 [main] INFO  log_log - 8003057196 ��һ���Ƿ�Խ��:true_��ǰ�Ƿ�Խ��:true
+2018-06-11 17:31:52.845 [main] INFO  log_log - _�Ƿ����ͣ�false

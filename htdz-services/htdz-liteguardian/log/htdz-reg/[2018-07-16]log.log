@@ -1,0 +1,46 @@
+2018-07-16 13:54:01.266 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-16 13:54:34.869 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-16 13:57:23.120 [DubboServerHandler-172.18.11.168:7105-thread-2] INFO  log_log - hanleRegService method getDeviceSteps
+2018-07-16 13:57:32.522 [DubboServerHandler-172.18.11.168:7105-thread-3] INFO  log_log - hanleRegService method getDeviceSteps
+2018-07-16 13:57:36.716 [DubboServerHandler-172.18.11.168:7105-thread-4] INFO  log_log - hanleRegService method getDeviceMonitoringPhone
+2018-07-16 13:57:50.516 [DubboServerHandler-172.18.11.168:7105-thread-5] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 13:57:51.959 [DubboServerHandler-172.18.11.168:7105-thread-6] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 13:57:52.149 [DubboServerHandler-172.18.11.168:7105-thread-7] INFO  log_log - hanleRegService method userLoginCN
+2018-07-16 13:58:27.371 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-16 13:58:37.925 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-16 13:58:48.444 [DubboServerHandler-172.18.11.168:7105-thread-2] INFO  log_log - hanleRegService method userLoginCN
+2018-07-16 13:58:49.787 [DubboServerHandler-172.18.11.168:7105-thread-3] INFO  log_log - hanleRegService method saveusertoken
+2018-07-16 13:58:49.848 [DubboServerHandler-172.18.11.168:7105-thread-4] INFO  log_log - hanleRegService method getAdvertising
+2018-07-16 13:58:51.927 [DubboServerHandler-172.18.11.168:7105-thread-5] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-16 13:58:52.746 [DubboServerHandler-172.18.11.168:7105-thread-6] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-16 13:58:52.822 [DubboServerHandler-172.18.11.168:7105-thread-7] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 13:58:52.987 [DubboServerHandler-172.18.11.168:7105-thread-8] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 13:58:55.867 [DubboServerHandler-172.18.11.168:7105-thread-9] INFO  log_log - hanleRegService method getAroundStore
+2018-07-16 13:59:26.119 [DubboServerHandler-172.18.11.168:7105-thread-10] INFO  log_log - hanleRegService method userLoginCN
+2018-07-16 13:59:33.433 [DubboServerHandler-172.18.11.168:7105-thread-11] INFO  log_log - hanleRegService method saveusertoken
+2018-07-16 13:59:33.467 [DubboServerHandler-172.18.11.168:7105-thread-12] INFO  log_log - hanleRegService method getAdvertising
+2018-07-16 13:59:35.164 [DubboServerHandler-172.18.11.168:7105-thread-13] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-16 13:59:36.100 [DubboServerHandler-172.18.11.168:7105-thread-14] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-16 13:59:36.331 [DubboServerHandler-172.18.11.168:7105-thread-15] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 13:59:36.511 [DubboServerHandler-172.18.11.168:7105-thread-16] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 13:59:43.925 [DubboServerHandler-172.18.11.168:7105-thread-17] INFO  log_log - hanleRegService method getAroundStore
+2018-07-16 14:00:06.812 [DubboServerHandler-172.18.11.168:7105-thread-18] INFO  log_log - hanleRegService method userLoginCN
+2018-07-16 14:00:07.226 [DubboServerHandler-172.18.11.168:7105-thread-19] INFO  log_log - hanleRegService method saveusertoken
+2018-07-16 14:00:07.263 [DubboServerHandler-172.18.11.168:7105-thread-20] INFO  log_log - hanleRegService method getAdvertising
+2018-07-16 14:00:08.683 [DubboServerHandler-172.18.11.168:7105-thread-21] INFO  log_log - hanleRegService method getDeviceAtHomePage
+2018-07-16 14:00:09.652 [DubboServerHandler-172.18.11.168:7105-thread-22] INFO  log_log - hanleRegService method getSystemNotice
+2018-07-16 14:00:09.665 [DubboServerHandler-172.18.11.168:7105-thread-23] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 14:00:09.807 [DubboServerHandler-172.18.11.168:7105-thread-24] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 14:00:12.878 [DubboServerHandler-172.18.11.168:7105-thread-25] INFO  log_log - hanleRegService method getAroundStore
+2018-07-16 14:00:32.878 [DubboServerHandler-172.18.11.168:7105-thread-26] INFO  log_log - hanleRegService method getAroundStore
+2018-07-16 14:05:29.089 [main] INFO  log_log - ----------LiteguardianApplication Main----------
+2018-07-16 14:05:39.632 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-16 14:05:46.968 [DubboServerHandler-172.18.11.168:7105-thread-2] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 14:05:46.968 [DubboServerHandler-172.18.11.168:7105-thread-3] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 14:05:47.199 [DubboServerHandler-172.18.11.168:7105-thread-4] INFO  log_log - hanleRegService method userLoginCN
+2018-07-16 14:05:47.203 [DubboServerHandler-172.18.11.168:7105-thread-5] INFO  log_log - hanleRegService method userLoginCN
+2018-07-16 14:05:48.250 [DubboServerHandler-172.18.11.168:7105-thread-7] INFO  log_log - hanleRegService method saveusertoken
+2018-07-16 14:05:48.250 [DubboServerHandler-172.18.11.168:7105-thread-6] INFO  log_log - hanleRegService method saveusertoken
+2018-07-16 14:05:49.574 [DubboServerHandler-172.18.11.168:7105-thread-8] INFO  log_log - hanleRegService method getCurrentGPS
+2018-07-16 14:05:51.015 [DubboServerHandler-172.18.11.168:7105-thread-9] INFO  log_log - hanleRegService method getGoodsInfo
+2018-07-16 14:05:52.676 [DubboServerHandler-172.18.11.168:7105-thread-10] INFO  log_log - hanleRegService method getAroundStore

@@ -1,0 +1,27 @@
+2018-06-11 16:49:18.798 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-11 16:50:31.854 [main] INFO  log_log - ----------PushTest----------
+2018-06-11 16:50:31.867 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-11 16:50:35.208 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-11 16:50:35.210 [main] INFO  log_log - Content-Length: 542
+2018-06-11 16:50:35.212 [main] INFO  log_log - Date: Mon, 11 Jun 2018 08:50:35 GMT
+2018-06-11 16:50:35.212 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\DevicePhoto\\20180611085033324.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/**/DevicePhoto/20180611085033324.png","urlThumbnail":"http://218.17.161.66:10230/image/**/thumbnail/2018061108503356.png"},{"newfilepath":"F:\\data\\DevicePhoto\\201806110850347473.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/**/DevicePhoto/201806110850347473.png","urlThumbnail":"http://218.17.161.66:10230/image/**/thumbnail/201806110850356313.png"}],"msg":null}
+2018-06-11 17:01:49.938 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-11 17:02:50.969 [main] INFO  log_log - ----------PushTest----------
+2018-06-11 17:02:50.980 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-11 17:02:55.338 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-11 17:02:55.340 [main] INFO  log_log - Content-Length: 520
+2018-06-11 17:02:55.343 [main] INFO  log_log - Date: Mon, 11 Jun 2018 09:02:15 GMT
+2018-06-11 17:02:55.343 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/DevicePhoto/201806110902136384.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:7600/image/DevicePhoto/201806110902136384.png","urlThumbnail":"http://218.17.161.66:7600/image/thumbnail/201806110902143728.png"},{"newfilepath":"/data/DevicePhoto/201806110902151273.png","orgfilename":"789456.png","url":"http://218.17.161.66:7600/image/DevicePhoto/201806110902151273.png","urlThumbnail":"http://218.17.161.66:7600/image/thumbnail/201806110902159567.png"}],"msg":null}
+2018-06-11 17:25:36.014 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-11 17:25:42.885 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-11 17:26:19.887 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-11 17:26:26.354 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-11 17:27:05.568 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-11 17:27:11.428 [main] INFO  log_log - -----ResourceApplicationConfig----------
+2018-06-11 17:32:03.668 [main] INFO  log_log - -----ResourceApplicationConfig----------
+2018-06-11 17:45:52.592 [main] INFO  log_log - ----------PushTest----------
+2018-06-11 17:45:52.602 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-11 17:45:58.656 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-11 17:45:58.657 [main] INFO  log_log - Content-Length: 277
+2018-06-11 17:45:58.659 [main] INFO  log_log - Date: Mon, 11 Jun 2018 09:45:18 GMT
+2018-06-11 17:45:58.659 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/DevicePhoto/201806110945159892.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:7600/image/DevicePhoto/201806110945159892.png","urlThumbnail":"http://218.17.161.66:7600/image/thumbnail/201806110945189151.png"}],"msg":null}

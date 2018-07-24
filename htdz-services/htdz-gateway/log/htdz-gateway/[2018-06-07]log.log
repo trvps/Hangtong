@@ -1,0 +1,1877 @@
+2018-06-07 14:43:05.230 [main] INFO  log_log - ----------GatewayApplication Main----------
+2018-06-07 14:43:37.026 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-07 14:43:39.938 [main] INFO  log_log - ----------容器初始化完成----------
+2018-06-07 14:43:39.938 [main] INFO  log_log - startDeviceServer......
+2018-06-07 14:43:39.940 [main] INFO  log_log - HT770设备监听服务启动 172.18.11.170:39101
+2018-06-07 14:43:39.952 [main] INFO  log_log - HT772设备监听服务启动 172.18.11.170:8101
+2018-06-07 14:43:40.241 [pool-1-thread-1] INFO  log_log - HT770服务优雅退出，释放线程池资源 172.18.11.170:39101
+2018-06-07 14:43:40.246 [pool-2-thread-1] INFO  log_log - HT772服务优雅退出，释放线程池资源 172.18.11.170:8101
+2018-06-07 14:47:19.239 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=tangrui@castelbds.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 58848
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 71
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 91dbe620-f7ae-dc77-5b26-d812454451cc
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=tangrui%40castelbds.com
+2018-06-07 14:47:22.383 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"},{"page_code":10,"page_code_index":4,"image_url":"http://218.17.161.66:10230/image/upload/img/20180606/4D2149516BE1D8637DDA36966503841F_1528273882613.jpg","ad_url":""}],"alert_mode":2,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"q5NsU+4Dkcl1CL6L9JDTISKyQ/oroYJYPv248A8F3KmoERqb37myiMY3LKj7folSeAQiz7v5oO8gvNpG30NfswMexvJYqNUfkFZBHjhUCVw=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3925334060","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2032-07-17 15:59:59","expired_time_de":"2019-06-06 17:40:11","gps_interval":null,"head_portrait":null,"isExistGroup":"3925334060","is_gps":0,"nickname":"HT-771","one_month_expired":"false","product_type":22,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"61916003","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2019-06-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"HT-770-1","one_month_expired":"false","product_type":19,"protocol_type":5,"ranges":5,"super_user":"aaaa@126.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":1,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003055982","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-09-11 06:35:44","gps_interval":null,"head_portrait":"/image/HeadPortrait/201805041612418684.png","isExistGroup":"8003055982","is_gps":0,"nickname":"HT-772","one_month_expired":"false","product_type":23,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003083830","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2018-08-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"8003083830","is_gps":0,"nickname":"HT-770HK","one_month_expired":"false","product_type":21,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"603140000276","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-12-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"MPIP-620-1","one_month_expired":"false","product_type":18,"protocol_type":0,"ranges":4,"super_user":"bbbb@163.com","timezone":28800,"tracker_sim":""}],"is_email_verify":1,"nickname":"我们","portrait":"/image/HeadPortrait/201805110408055981.png","timezone_check":0,"timezone_id":70},"what":""}
+2018-06-07 14:51:04.782 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=tangrui@castelbds.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 59114
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 71
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 07ee8cdf-ec82-e00c-c25e-621a548fd3fa
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=tangrui%40castelbds.com
+2018-06-07 14:51:05.224 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"},{"page_code":10,"page_code_index":4,"image_url":"http://218.17.161.66:10230/image/upload/img/20180606/4D2149516BE1D8637DDA36966503841F_1528273882613.jpg","ad_url":""}],"alert_mode":2,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"q5NsU+4Dkcl1CL6L9JDTISKyQ/oroYJYPv248A8F3KmoERqb37myiMY3LKj7folSeAQiz7v5oO8gvNpG30NfswMexvJYqNUfkFZBHjhUCVw=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3925334060","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2032-07-17 15:59:59","expired_time_de":"2019-06-06 17:40:11","gps_interval":null,"head_portrait":null,"isExistGroup":"3925334060","is_gps":0,"nickname":"HT-771","one_month_expired":"false","product_type":22,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"61916003","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2019-06-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"HT-770-1","one_month_expired":"false","product_type":19,"protocol_type":5,"ranges":5,"super_user":"aaaa@126.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":1,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003055982","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-09-11 06:35:44","gps_interval":null,"head_portrait":"/image/HeadPortrait/201805041612418684.png","isExistGroup":"8003055982","is_gps":0,"nickname":"HT-772","one_month_expired":"false","product_type":23,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003083830","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2018-08-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"8003083830","is_gps":0,"nickname":"HT-770HK","one_month_expired":"false","product_type":21,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"603140000276","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-12-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"MPIP-620-1","one_month_expired":"false","product_type":18,"protocol_type":0,"ranges":4,"super_user":"bbbb@163.com","timezone":28800,"tracker_sim":""}],"is_email_verify":1,"nickname":"我们","portrait":"/image/HeadPortrait/201805110408055981.png","timezone_check":0,"timezone_id":70},"what":""}
+2018-06-07 14:51:17.097 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=tangrui@castelbds.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 59128
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 71
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 7f805d66-4056-6c38-14b9-50fd17df17de
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=tangrui%40castelbds.com
+2018-06-07 14:51:53.276 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"},{"page_code":10,"page_code_index":4,"image_url":"http://218.17.161.66:10230/image/upload/img/20180606/4D2149516BE1D8637DDA36966503841F_1528273882613.jpg","ad_url":""}],"alert_mode":2,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"q5NsU+4Dkcl1CL6L9JDTISKyQ/oroYJYPv248A8F3KmoERqb37myiMY3LKj7folSeAQiz7v5oO8gvNpG30NfswMexvJYqNUfkFZBHjhUCVw=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3925334060","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2032-07-17 15:59:59","expired_time_de":"2019-06-06 17:40:11","gps_interval":null,"head_portrait":null,"isExistGroup":"3925334060","is_gps":0,"nickname":"HT-771","one_month_expired":"false","product_type":22,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"61916003","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2019-06-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"HT-770-1","one_month_expired":"false","product_type":19,"protocol_type":5,"ranges":5,"super_user":"aaaa@126.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":1,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003055982","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-09-11 06:35:44","gps_interval":null,"head_portrait":"/image/HeadPortrait/201805041612418684.png","isExistGroup":"8003055982","is_gps":0,"nickname":"HT-772","one_month_expired":"false","product_type":23,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003083830","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2018-08-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"8003083830","is_gps":0,"nickname":"HT-770HK","one_month_expired":"false","product_type":21,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"603140000276","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-12-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"MPIP-620-1","one_month_expired":"false","product_type":18,"protocol_type":0,"ranges":4,"super_user":"bbbb@163.com","timezone":28800,"tracker_sim":""}],"is_email_verify":1,"nickname":"我们","portrait":"/image/HeadPortrait/201805110408055981.png","timezone_check":0,"timezone_id":70},"what":""}
+2018-06-07 14:52:37.135 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 59184
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 536072e6-7174-b335-d959-20055485a904
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 14:55:34.815 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 59307
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 14:55:34.827 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 14:55:41.446 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"300","ret":null,"what":"无此设备"}
+2018-06-07 15:01:55.945 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 59571
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 4cef7a4e-824d-33cb-649a-a1f428ebaad1
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:03:00.802 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 59617
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:03:00.815 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:03:00.819 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"300","ret":null,"what":"无此设备"}
+2018-06-07 15:03:11.311 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 59628
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 3f6b3bd5-405a-a2cf-fa91-61db0fcb7b66
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:03:15.585 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 59638
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:03:15.597 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:03:19.516 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"300","ret":null,"what":"无此设备"}
+2018-06-07 15:14:29.570 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 60129
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 80c15547-e3b6-f683-c833-82d1b9e36c0e
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:14:29.592 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 60132
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:14:29.603 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:14:29.606 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"300","ret":null,"what":"无此设备"}
+2018-06-07 15:14:32.613 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 60135
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 71474385-2f2e-9a5b-126e-2493f341591e
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:15:12.813 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 60164
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:15:12.830 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:15:12.836 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"300","ret":null,"what":"无此设备"}
+2018-06-07 15:18:35.733 [http-nio-8050-exec-6] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 60292
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 89af8d78-f282-cd63-cc67-a1c2b7b85407
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:18:40.075 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 60295
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:18:40.094 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:18:40.097 [http-nio-8050-exec-6] INFO  log_log - 发送中转响应--------------------------
+  {"code":"300","ret":null,"what":"无此设备"}
+2018-06-07 15:32:54.935 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: function=getServerConnInfoByUser&username=tangrui@castelbds.com
+remote ip: 172.18.11.186
+remote port: 47696
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 65
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getServerConnInfoByUser&username=tangrui%40castelbds.com
+2018-06-07 15:32:56.705 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"name":"tangrui@castelbds.com","conn_country":"CN","connid":5,"conn_name":"218.17.161.66","conn_dns":"218.17.161.66","conn_port":10230,"conn_country_des":"中国内地"},"what":""}
+2018-06-07 15:32:56.990 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&isCustomizedApp=4&password=12345678&username=tangrui@castelbds.com
+remote ip: 172.18.11.186
+remote port: 35095
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 89
+accept-encoding: gzip, deflate
+ 
+ 
+  isCustomizedApp=4&password=12345678&function=userLoginCN&username=tangrui%40castelbds.com
+2018-06-07 15:32:59.910 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":10,"page_code_index":3,"image_url":"http://218.17.161.66:10230/image/upload/img/20180413/7ABFA508EA85222E384B12AF1DA4ACBA_1523585965554.png","ad_url":"https://www.hao123.com"}],"alert_mode":2,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"q5NsU+4Dkcl1CL6L9JDTISKyQ/oroYJYPv248A8F3KmoERqb37myiMY3LKj7folSeAQiz7v5oO8gvNpG30NfswMexvJYqNUfkFZBHjhUCVw=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3925334060","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2032-07-17 15:59:59","expired_time_de":"2019-06-06 17:40:11","gps_interval":null,"head_portrait":null,"isExistGroup":"3925334060","is_gps":0,"nickname":"HT-771","one_month_expired":"false","product_type":22,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"61916003","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2019-06-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"HT-770-1","one_month_expired":"false","product_type":19,"protocol_type":5,"ranges":5,"super_user":"aaaa@126.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":1,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003055982","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-09-11 06:35:44","gps_interval":null,"head_portrait":"/image/HeadPortrait/201805041612418684.png","isExistGroup":"8003055982","is_gps":0,"nickname":"HT-772","one_month_expired":"false","product_type":23,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003083830","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2018-08-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"8003083830","is_gps":0,"nickname":"HT-770HK","one_month_expired":"false","product_type":21,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"603140000276","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-12-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"MPIP-620-1","one_month_expired":"false","product_type":18,"protocol_type":0,"ranges":4,"super_user":"bbbb@163.com","timezone":28800,"tracker_sim":""}],"is_email_verify":1,"nickname":"我们","portrait":"/image/HeadPortrait/201805110408055981.png","timezone_check":0,"timezone_id":70},"what":""}
+2018-06-07 15:33:00.112 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=saveusertoken&token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1
+remote ip: 172.18.11.186
+remote port: 38453
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 93
+accept-encoding: gzip, deflate
+ 
+ 
+  function=saveusertoken&token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1
+2018-06-07 15:33:00.126 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getAdvertising&page_code=10
+remote ip: 172.18.11.186
+remote port: 35429
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 36
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getAdvertising&page_code=10
+2018-06-07 15:33:00.183 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"map":[{"page_code_index":3,"image_url":"http://218.17.161.66:10230/image/upload/img/20180413/7ABFA508EA85222E384B12AF1DA4ACBA_1523585965554.png","ad_url":"https://www.hao123.com","end_time":"2019-04-30 11:00:20"}]},"what":""}
+2018-06-07 15:33:00.210 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":"","what":"保存token成功"}
+2018-06-07 15:33:06.178 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDeviceAtHomePage&username=tangrui@castelbds.com
+remote ip: 172.18.11.186
+remote port: 45140
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 61
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getDeviceAtHomePage&username=tangrui%40castelbds.com
+2018-06-07 15:33:06.203 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"map":[{"device_sn":"8003055982","ranges":5,"product_type":23,"lat":22.5477154,"lng":113.9378447,"online":0,"head_portrait":"http://172.18.11.168:8051/image/HeadPortrait/201805041612418684.png"},{"device_sn":"3925334060","ranges":5,"product_type":22,"lat":22.54792,"lng":113.9368583,"online":1,"head_portrait":null}]},"what":null}
+2018-06-07 15:33:06.751 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 60912
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 6164ce66-47c0-6738-1b5b-fc1246aea6da
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:33:06.757 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"2","ret":null,"what":"账号已在其它设备登录"}
+2018-06-07 15:33:54.713 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 60953
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:33:54.739 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:33:57.162 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 60958
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 10460ffb-6425-c5d2-0b8e-009079e746df
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:35:14.525 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"2","ret":null,"what":"账号已在其它设备登录"}
+2018-06-07 15:35:15.126 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 61002
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:35:15.142 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:35:21.469 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getSystemNotice
+remote ip: 172.18.11.186
+remote port: 39208
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 24
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getSystemNotice
+2018-06-07 15:35:21.494 [http-nio-8050-exec-6] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: deviceSn=61916003&endTime=2018-06-07 15:35:03&function=getCurrentGPS
+remote ip: 172.18.11.186
+remote port: 48464
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 74
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getCurrentGPS&endTime=2018-06-07+15%3A35%3A03&deviceSn=61916003
+2018-06-07 15:35:21.776 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: deviceSn=61916003&endTime=2018-06-07 15:35:03&function=getCurrentGPS
+remote ip: 172.18.11.186
+remote port: 40458
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 74
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getCurrentGPS&endTime=2018-06-07+15%3A35%3A03&deviceSn=61916003
+2018-06-07 15:35:26.481 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"content":"<p>俄43 把4343433434343而二恶</p>\r\n","code":"1266993604"},"what":""}
+2018-06-07 15:35:27.033 [http-nio-8050-exec-6] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0"}
+2018-06-07 15:35:27.304 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0"}
+2018-06-07 15:35:36.998 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 61024
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 0ba00d8a-6968-cf46-badf-71100e4f4c59
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:37:52.153 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 61192
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A187B699A08F0CD16E3D35A76BC6C088
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 36fe7281-f41e-a2de-7aef-4b686f71bdef
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:38:05.848 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 15:38:08.335 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 61204
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:38:08.390 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 15:38:19.064 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 61215
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=ECCB57AE9EDAEA51F2B4A05766B5ACB0
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 2429d3a5-3a2e-7743-300a-8b4242e5fb4c
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 15:38:19.074 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 15:38:26.267 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 61222
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 15:38:26.280 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:42:37.760 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 63552
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=ECCB57AE9EDAEA51F2B4A05766B5ACB0
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 2c8b8685-21d7-9667-83e7-1ff1fba83cb7
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:42:37.831 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:42:48.183 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 63566
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:42:48.194 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:43:03.516 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 63577
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: bc0f9304-5f99-52a7-a815-5a20e031acf7
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:43:53.811 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:43:54.411 [http-nio-8050-exec-6] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 63621
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:43:54.422 [http-nio-8050-exec-6] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:43:57.134 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 63624
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: dcaf6af7-fbc8-76fb-d9b7-d1275bb8018f
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:44:08.530 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:44:09.216 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 63637
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:44:09.231 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:45:43.945 [http-nio-8050-exec-4] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 63671
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: d4fe2f86-a43b-4570-4d78-66de86b548e9
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          
+2018-06-07 16:45:50.495 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 63671
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 260f9b8f-1262-aa02-b725-e7d7f1dceab4
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:46:15.634 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:46:15.677 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 63723
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:46:15.690 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:46:40.419 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 63745
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: e2a556f6-2888-95b7-1de7-1d647920a26f
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:50:36.691 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:50:40.433 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 63903
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:50:40.453 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:50:51.193 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 63912
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 31459c2e-1b5e-2264-470e-4b27e80dab4c
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:51:04.013 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:51:19.469 [http-nio-8050-exec-8] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 63933
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:51:19.480 [http-nio-8050-exec-8] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:55:41.375 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 64116
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 07350773-7911-31a5-a449-7dbe9bf3f4e9
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:55:57.298 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:55:57.549 [http-nio-8050-exec-6] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 64127
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:55:57.560 [http-nio-8050-exec-6] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 16:56:50.520 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 64171
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 32ffa423-4fe4-832d-245d-98b6fc11a95c
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 16:58:42.368 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 16:58:42.823 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 64485
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 16:58:42.838 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:00:57.555 [http-nio-8050-exec-9] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 64491
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 2b6ac36f-cc73-ab7e-c5d1-303854eb0bea
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          
+2018-06-07 17:01:01.801 [http-nio-8050-exec-8] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 64864
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 83641901-fd47-5b43-864c-782d459cd7d9
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          
+2018-06-07 17:12:48.027 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&username=tangrui@castelbds.com&password=12345678
+remote ip: 172.18.11.168
+remote port: 65411
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 71
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 22fd0836-fdc3-77b9-b147-74f639d86681
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  password=12345678&function=userLoginCN&username=tangrui%40castelbds.com
+2018-06-07 17:13:30.869 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":1,"page_code_index":1,"image_url":"http://218.17.161.66:10230/image/upload/img/20180502/E50AF5DE2313949DAA5255675448A85E_1525245152433.png","ad_url":"www.qq.com"},{"page_code":10,"page_code_index":4,"image_url":"http://218.17.161.66:10230/image/upload/img/20180606/4D2149516BE1D8637DDA36966503841F_1528273882613.jpg","ad_url":""}],"alert_mode":2,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"q5NsU+4Dkcl1CL6L9JDTISKyQ/oroYJYPv248A8F3KmoERqb37myiMY3LKj7folSeAQiz7v5oO8gvNpG30NfswMexvJYqNUfkFZBHjhUCVw=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3925334060","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2032-07-17 15:59:59","expired_time_de":"2019-06-06 17:40:11","gps_interval":null,"head_portrait":null,"isExistGroup":"3925334060","is_gps":0,"nickname":"HT-771","one_month_expired":"false","product_type":22,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"61916003","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2019-06-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"HT-770-1","one_month_expired":"false","product_type":19,"protocol_type":5,"ranges":5,"super_user":"aaaa@126.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":1,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003055982","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-09-11 06:35:44","gps_interval":null,"head_portrait":"/image/HeadPortrait/201805041612418684.png","isExistGroup":"8003055982","is_gps":0,"nickname":"HT-772","one_month_expired":"false","product_type":23,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003083830","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2018-08-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"8003083830","is_gps":0,"nickname":"HT-770HK","one_month_expired":"false","product_type":21,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"603140000276","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-12-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"MPIP-620-1","one_month_expired":"false","product_type":18,"protocol_type":0,"ranges":4,"super_user":"bbbb@163.com","timezone":28800,"tracker_sim":""}],"is_email_verify":1,"nickname":"我们","portrait":"/image/HeadPortrait/201805110408055981.png","timezone_check":0,"timezone_id":70},"what":""}
+2018-06-07 17:13:49.010 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: deviceSn=61916003&endTime=2018-06-07 17:13:30&function=getCurrentGPS
+remote ip: 172.18.11.186
+remote port: 33118
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 74
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getCurrentGPS&endTime=2018-06-07+17%3A13%3A30&deviceSn=61916003
+2018-06-07 17:14:08.173 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:14:12.701 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: deviceSn=61916003&endTime=2018-06-07 17:13:54&function=getCurrentGPS
+remote ip: 172.18.11.186
+remote port: 35102
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=4A0E529A13A0F20B8A5FAA1423681072
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 74
+accept-encoding: gzip, deflate
+ 
+ 
+  function=getCurrentGPS&endTime=2018-06-07+17%3A13%3A54&deviceSn=61916003
+2018-06-07 17:14:16.409 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:14:16.512 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=userLoginCN&isCustomizedApp=4&password=12345678&username=tangrui@castelbds.com
+remote ip: 172.18.11.186
+remote port: 37719
+host: 172.18.11.168:8050
+content-type: application/x-www-form-urlencoded;charset=utf8
+cookie: JSESSIONID=9C8966D7E8FAC857601213FFD19DE2C2
+connection: keep-alive
+accept: */*
+user-agent: LiteGuardian/3.1.50 (iPhone; iOS 11.3.1; Scale/2.00)
+accept-language: zh-cn
+content-length: 89
+accept-encoding: gzip, deflate
+ 
+ 
+  isCustomizedApp=4&password=12345678&function=userLoginCN&username=tangrui%40castelbds.com
+2018-06-07 17:14:41.994 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":{"advertising":[{"page_code":10,"page_code_index":3,"image_url":"http://218.17.161.66:10230/image/upload/img/20180413/7ABFA508EA85222E384B12AF1DA4ACBA_1523585965554.png","ad_url":"https://www.hao123.com"}],"alert_mode":2,"chatProductType":"15,19,22,23,24,25,26,29","chat_token":"q5NsU+4Dkcl1CL6L9JDTISKyQ/oroYJYPv248A8F3KmoERqb37myiMY3LKj7folSeAQiz7v5oO8gvNpG30NfswMexvJYqNUfkFZBHjhUCVw=","device_list":[{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"3925334060","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2032-07-17 15:59:59","expired_time_de":"2019-06-06 17:40:11","gps_interval":null,"head_portrait":null,"isExistGroup":"3925334060","is_gps":0,"nickname":"HT-771","one_month_expired":"false","product_type":22,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"61916003","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2019-06-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"HT-770-1","one_month_expired":"false","product_type":19,"protocol_type":5,"ranges":5,"super_user":"aaaa@126.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":1,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003055982","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-09-11 06:35:44","gps_interval":null,"head_portrait":"/image/HeadPortrait/201805041612418684.png","isExistGroup":"8003055982","is_gps":0,"nickname":"HT-772","one_month_expired":"false","product_type":23,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":10230,"defensive":0,"device_sn":"8003083830","disable":0,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2018-11-27 15:59:59","expired_time_de":"2018-08-16 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":"8003083830","is_gps":0,"nickname":"HT-770HK","one_month_expired":"false","product_type":21,"protocol_type":5,"ranges":5,"super_user":"tangrui@castelbds.com","timezone":28800,"tracker_sim":""},{"around_ranges":"0","bt_enable":0,"cdt_enable":0,"conn_name":"218.17.161.66","conn_port":8080,"defensive":0,"device_sn":"603140000276","disable":null,"expiredTime":"false","expiredTimeDe":"false","expired_time":"2019-03-31 15:59:59","expired_time_de":"2018-12-31 15:59:59","gps_interval":null,"head_portrait":null,"isExistGroup":null,"is_gps":0,"nickname":"MPIP-620-1","one_month_expired":"false","product_type":18,"protocol_type":0,"ranges":4,"super_user":"bbbb@163.com","timezone":28800,"tracker_sim":""}],"is_email_verify":1,"nickname":"我们","portrait":"/image/HeadPortrait/201805110408055981.png","timezone_check":0,"timezone_id":70},"what":""}
+2018-06-07 17:14:50.465 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 65506
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 1f6e246f-8e64-bb08-fd23-a6eebe1e5e3e
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:15:40.604 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"2","ret":null,"what":"账号已在其它设备登录"}
+2018-06-07 17:15:42.921 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1046
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:15:42.939 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:15:50.358 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1054
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: b7b3e531-c6eb-5663-ac60-9bbaa0b175e7
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:15:50.957 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"2","ret":null,"what":"账号已在其它设备登录"}
+2018-06-07 17:15:50.975 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1057
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:15:51.013 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:16:06.382 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1070
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 6f1c5175-b1a1-27ef-a5f1-d67e6b58a149
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:22:30.892 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"2","ret":null,"what":"账号已在其它设备登录"}
+2018-06-07 17:22:33.211 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1346
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:22:33.225 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:22:46.530 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1352
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 9c6f7dce-2176-f408-37e0-5ab87ffc819d
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:22:47.083 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1339
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 69ec4b46-e433-405d-011c-e735ee4fd870
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:23:45.900 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"2","ret":null,"what":"账号已在其它设备登录"}
+2018-06-07 17:23:46.112 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1409
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:23:46.123 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:23:46.980 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"2","ret":null,"what":"账号已在其它设备登录"}
+2018-06-07 17:23:47.194 [http-nio-8050-exec-6] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1409
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:23:47.256 [http-nio-8050-exec-6] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:24:43.982 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1446
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=062F33BFA508D45207BDE5CE0F82064F
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: bbdd43bc-ce31-6e0d-7c42-85a8e8d9faaf
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:24:51.273 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:24:53.251 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1464
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:24:53.356 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:24:55.970 [http-nio-8050-exec-4] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1446
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=CBDE1C873703CF34E0BAC739420EE95C
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: bdf208e5-3517-75a6-8e03-9f54578f8634
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:25:08.699 [http-nio-8050-exec-4] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:25:12.986 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1484
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:25:12.996 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:25:16.261 [http-nio-8050-exec-1] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1446
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=CBDE1C873703CF34E0BAC739420EE95C
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 5263575d-46c3-c834-0126-acd7db3456b0
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:25:44.325 [http-nio-8050-exec-1] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:25:44.549 [http-nio-8050-exec-9] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1513
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:25:44.561 [http-nio-8050-exec-9] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:26:09.178 [http-nio-8050-exec-10] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1540
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=CBDE1C873703CF34E0BAC739420EE95C
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: b027333e-a619-0b30-ec79-c91b6b83c3fb
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:26:24.807 [http-nio-8050-exec-10] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:26:25.621 [http-nio-8050-exec-2] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1557
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:26:25.675 [http-nio-8050-exec-2] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:27:05.195 [http-nio-8050-exec-7] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 1589
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A35D310CE135DDCE4511C72D1F72CB37
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: c4762dc3-30f2-7aec-ecb3-c79427563ed8
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:27:06.583 [http-nio-8050-exec-7] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:27:07.243 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 1608
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:27:07.420 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:34:54.547 [http-nio-8050-exec-6] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 1625
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 6315974e-a61c-cdba-d7c9-7c0a9b33a026
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          
+2018-06-07 17:34:57.546 [http-nio-8050-exec-3] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 2103
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: f77380fc-fef6-81a6-2782-a21999bd1eeb
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          
+2018-06-07 17:39:35.133 [main] INFO  log_log - ----------GatewayApplication Main----------
+2018-06-07 17:39:45.279 [main] INFO  log_log - -----GatewayApplicationConfig----------
+2018-06-07 17:39:46.408 [main] INFO  log_log - ----------容器初始化完成----------
+2018-06-07 17:39:46.408 [main] INFO  log_log - startDeviceServer......
+2018-06-07 17:39:46.409 [main] INFO  log_log - HT770设备监听服务启动 172.18.11.170:39101
+2018-06-07 17:39:46.412 [main] INFO  log_log - HT772设备监听服务启动 172.18.11.170:8101
+2018-06-07 17:39:46.715 [pool-2-thread-1] INFO  log_log - HT772服务优雅退出，释放线程池资源 172.18.11.170:8101
+2018-06-07 17:39:46.737 [pool-1-thread-1] INFO  log_log - HT770服务优雅退出，释放线程池资源 172.18.11.170:39101
+2018-06-07 17:40:15.213 [http-nio-8050-exec-3] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/WebApi2d/WebAPIVersion3
+request path: /WebApi2d/WebAPIVersion3
+request params: function=getDevicePhoto&deviceSn=1111111
+remote ip: 172.18.11.168
+remote port: 2372
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 40
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+cookie: JSESSIONID=A35D310CE135DDCE4511C72D1F72CB37
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 96269c62-33f8-563f-6f67-818a202e0c59
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+  function=getDevicePhoto&deviceSn=1111111
+2018-06-07 17:40:23.038 [http-nio-8050-exec-3] INFO  log_log - 发送中转响应--------------------------
+  {"code":"1","ret":null,"what":"请先登录"}
+2018-06-07 17:40:26.015 [http-nio-8050-exec-5] INFO  log_log - 收到中转请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/SyncData/RemotingAPI
+request path: /SyncData/RemotingAPI
+request params: remoteServerRequest=true&deviceSn=1111111&function=getdeviceserverandusername
+remote ip: 172.18.11.168
+remote port: 2399
+accept-charset: utf-8
+content-type: application/x-www-form-urlencoded;charset=UTF-8
+cache-control: no-cache
+pragma: no-cache
+user-agent: Java/1.7.0_79
+host: 172.18.11.168:8050
+accept: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+connection: keep-alive
+content-length: 77
+ 
+ 
+  function=getdeviceserverandusername&remoteServerRequest=true&deviceSn=1111111
+2018-06-07 17:40:26.073 [http-nio-8050-exec-5] INFO  log_log - 发送中转响应--------------------------
+  {"code":"0","ret":null,"what":""}
+2018-06-07 17:41:19.222 [http-nio-8050-exec-1] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 2372
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 95dc2362-afa3-d0bc-fcc9-82608e6f842d
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          
+2018-06-07 17:41:20.498 [http-nio-8050-exec-9] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 2395
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 846d7535-3a2f-d6cf-6c4c-f33eaa6e0780
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          
+2018-06-07 17:41:20.923 [http-nio-8050-exec-6] INFO  log_log - 收到请求--------------------------
+  http method: POST
+request url: http://172.18.11.168:8050/service/litefamily/setGps
+request path: /service/litefamily/setGps
+request params: did=27817&deviceSn=863559032010085&collectDatetime=2018-05-22 23:37:38&lat=22.6445664&lng=114.0409256&speed=5&direction=130&gpsFlag=0&lbsWifiRange=0
+remote ip: 172.18.11.168
+remote port: 2448
+host: 172.18.11.168:8050
+user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+content-length: 152
+accept: */*
+accept-encoding: gzip, deflate
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+content-type: application/x-www-form-urlencoded
+origin: chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+postman-token: 95dc2362-afa3-d0bc-fcc9-82608e6f842d
+proxy-connection: keep-alive
+x-lantern-version: 4.7.3
+ 
+ 
+                                                                                                                                                          

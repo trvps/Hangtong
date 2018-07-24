@@ -1,0 +1,42 @@
+2018-07-16 13:56:47.347 [main] INFO  log_log - ----------RegApplication Main----------
+2018-07-16 13:57:00.046 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-16 13:58:48.973 [DubboServerHandler-172.18.11.168:7101-thread-3] INFO  log_log - hanleRegService method=updateIsCustomizedApp, params={isCustomizedApp=4, function=updateIsCustomizedApp, username=274077005@qq.com}, headers={}
+2018-07-16 13:58:49.479 [DubboServerHandler-172.18.11.168:7101-thread-4] INFO  log_log - hanleRegService method=getDeviceInfoCN, params={function=getDeviceInfoCN, username=274077005@qq.com}, headers={}
+2018-07-16 13:58:49.621 [DubboServerHandler-172.18.11.168:7101-thread-5] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=}, headers={}
+2018-07-16 13:58:49.789 [DubboServerHandler-172.18.11.168:7101-thread-6] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1}, headers={}
+2018-07-16 13:58:52.825 [DubboServerHandler-172.18.11.168:7101-thread-7] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 13:58:52.990 [DubboServerHandler-172.18.11.168:7101-thread-8] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 13:58:55.869 [DubboServerHandler-172.18.11.168:7101-thread-9] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 13:59:26.293 [DubboServerHandler-172.18.11.168:7101-thread-10] INFO  log_log - hanleRegService method=updateIsCustomizedApp, params={isCustomizedApp=4, function=updateIsCustomizedApp, username=274077005@qq.com}, headers={}
+2018-07-16 13:59:26.320 [DubboServerHandler-172.18.11.168:7101-thread-11] INFO  log_log - hanleRegService method=getDeviceInfoCN, params={function=getDeviceInfoCN, username=274077005@qq.com}, headers={}
+2018-07-16 13:59:26.377 [DubboServerHandler-172.18.11.168:7101-thread-12] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=}, headers={}
+2018-07-16 13:59:33.435 [DubboServerHandler-172.18.11.168:7101-thread-13] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1}, headers={}
+2018-07-16 13:59:37.792 [DubboServerHandler-172.18.11.168:7101-thread-14] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 13:59:39.050 [DubboServerHandler-172.18.11.168:7101-thread-15] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 13:59:43.926 [DubboServerHandler-172.18.11.168:7101-thread-16] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 14:00:07.003 [DubboServerHandler-172.18.11.168:7101-thread-17] INFO  log_log - hanleRegService method=updateIsCustomizedApp, params={isCustomizedApp=4, function=updateIsCustomizedApp, username=274077005@qq.com}, headers={}
+2018-07-16 14:00:07.039 [DubboServerHandler-172.18.11.168:7101-thread-18] INFO  log_log - hanleRegService method=getDeviceInfoCN, params={function=getDeviceInfoCN, username=274077005@qq.com}, headers={}
+2018-07-16 14:00:07.105 [DubboServerHandler-172.18.11.168:7101-thread-19] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=}, headers={}
+2018-07-16 14:00:07.229 [DubboServerHandler-172.18.11.168:7101-thread-20] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1}, headers={}
+2018-07-16 14:00:09.670 [DubboServerHandler-172.18.11.168:7101-thread-21] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 14:00:09.813 [DubboServerHandler-172.18.11.168:7101-thread-22] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 14:00:29.629 [DubboServerHandler-172.18.11.168:7101-thread-23] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 14:00:43.173 [DubboServerHandler-172.18.11.168:7101-thread-24] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 14:05:47.790 [DubboServerHandler-172.18.11.168:7101-thread-28] INFO  log_log - hanleRegService method=updateIsCustomizedApp, params={isCustomizedApp=4, function=updateIsCustomizedApp, username=274077005@qq.com}, headers={}
+2018-07-16 14:05:47.844 [DubboServerHandler-172.18.11.168:7101-thread-29] INFO  log_log - hanleRegService method=updateIsCustomizedApp, params={isCustomizedApp=4, function=updateIsCustomizedApp, username=274077005@qq.com}, headers={}
+2018-07-16 14:05:47.896 [DubboServerHandler-172.18.11.168:7101-thread-30] INFO  log_log - hanleRegService method=getDeviceInfoCN, params={function=getDeviceInfoCN, username=274077005@qq.com}, headers={}
+2018-07-16 14:05:47.960 [DubboServerHandler-172.18.11.168:7101-thread-31] INFO  log_log - hanleRegService method=getDeviceInfoCN, params={function=getDeviceInfoCN, username=274077005@qq.com}, headers={}
+2018-07-16 14:05:47.983 [DubboServerHandler-172.18.11.168:7101-thread-32] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=}, headers={}
+2018-07-16 14:05:48.004 [DubboServerHandler-172.18.11.168:7101-thread-33] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=}, headers={}
+2018-07-16 14:05:48.251 [DubboServerHandler-172.18.11.168:7101-thread-34] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1}, headers={}
+2018-07-16 14:05:48.251 [DubboServerHandler-172.18.11.168:7101-thread-35] INFO  log_log - hanleRegService method=saveUserToken, params={versions=3, function=saveUserToken, username=274077005@qq.com, token=47d6a01c39cac5f06fe6262f6533b3207a19f8e81e91ab481db2f9137a24fce1}, headers={}
+2018-07-16 14:05:49.577 [DubboServerHandler-172.18.11.168:7101-thread-36] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 14:05:52.680 [DubboServerHandler-172.18.11.168:7101-thread-37] INFO  log_log - hanleRegService method=getdeviceserverandusername, params={function=getdeviceserverandusername, deviceSn=866237030050679}, headers={}
+2018-07-16 17:52:12.603 [main] INFO  log_log - ----------RegApplication Main----------
+2018-07-16 17:52:42.057 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-16 17:55:20.328 [main] INFO  log_log - ----------RegApplication Main----------
+2018-07-16 17:55:30.673 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-16 17:56:54.998 [main] INFO  log_log - ----------RegApplication Main----------
+2018-07-16 17:57:06.951 [main] INFO  log_log - ----------容器初始化完成----------
+2018-07-16 18:00:30.706 [main] INFO  log_log - ----------RegApplication Main----------
+2018-07-16 18:00:41.376 [main] INFO  log_log - ----------容器初始化完成----------

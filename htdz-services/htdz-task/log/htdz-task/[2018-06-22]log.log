@@ -1,0 +1,31 @@
+2018-06-22 17:16:50.513 [main] INFO  log_log - ----------DataApplication Main----------
+2018-06-22 17:36:03.600 [main] INFO  log_log - ----------DataApplication Main----------
+2018-06-22 17:36:13.132 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-06-22 17:57:31.767 [main] INFO  log_log - ----------DataApplication Main----------
+2018-06-22 17:57:40.391 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-06-22 17:58:12.800 [http-nio-10002-exec-2] INFO  log_log - 发送消息成功：设备号=
+2018-06-22 18:00:06.490 [http-nio-10002-exec-3] INFO  log_log - 发送消息成功：设备号=
+2018-06-22 18:00:06.689 [http-nio-10002-exec-4] INFO  log_log - 发送消息成功：设备号=
+2018-06-22 18:03:12.799 [main] INFO  log_log - ----------DataApplication Main----------
+2018-06-22 18:03:21.504 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-06-22 18:04:28.586 [http-nio-10002-exec-3] INFO  log_log - 发送消息成功：设备号=
+2018-06-22 18:05:49.365 [main] INFO  log_log - ----------TaskApplication Main----------
+2018-06-22 18:05:58.182 [main] INFO  log_log - ----------容器初始化完成----初始化 围栏分析线程----------
+2018-06-22 18:06:04.235 [http-nio-10002-exec-2] INFO  log_log - pushTest start
+2018-06-22 18:06:04.897 [http-nio-10002-exec-2] INFO  log_log - 推送消息：{"alarmtype":6,"datetime":"2018-06-22 10:06:04","did":null,"direction":null,"equipId":"8003055982","lat":null,"lng":null,"msgType":1,"onlinestatus":null,"ranges":5,"rcvTime":null,"speed":null,"title":null}__msgType:1__userName:tangrui@castelbds.com
+2018-06-22 18:06:05.857 [http-nio-10002-exec-2] INFO  log_log - 融云 消息推送成功,code:200---userName:tangrui@castelbds.com---msg:{"operation":"8003055982","extra":"{\"equipId\":\"8003055982\",\"localDateTime\":\"2018-06-22 18:06:04\",\"alarmtype\":6,\"msgType\":1,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":null,\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-06-22 10:06:04\",\"onlinestatus\":null,\"did\":null,\"lat\":null,\"direction\":null}"}
+2018-06-22 18:13:25.955 [http-nio-10002-exec-3] INFO  log_log - pushTest start
+2018-06-22 18:13:25.982 [http-nio-10002-exec-3] INFO  log_log - 推送消息：{"alarmtype":6,"datetime":"2018-06-22 10:13:25","did":null,"direction":null,"equipId":"8003055982","lat":null,"lng":null,"msgType":1,"onlinestatus":null,"ranges":5,"rcvTime":null,"speed":null,"title":null}__msgType:1__userName:tangrui@castelbds.com
+2018-06-22 18:13:26.108 [http-nio-10002-exec-3] INFO  log_log - 融云 消息推送成功,code:200---userName:tangrui@castelbds.com---msg:{"operation":"8003055982","extra":"{\"equipId\":\"8003055982\",\"localDateTime\":\"2018-06-22 18:13:25\",\"alarmtype\":6,\"msgType\":1,\"lng\":null,\"ranges\":5,\"timezone\":28800,\"title\":null,\"rcvTime\":null,\"speed\":null,\"datetime\":\"2018-06-22 10:13:25\",\"onlinestatus\":null,\"did\":null,\"lat\":null,\"direction\":null}"}
+2018-06-22 18:14:07.566 [http-nio-10002-exec-4] INFO  log_log - pushTest start
+2018-06-22 18:14:07.571 [http-nio-10002-exec-4] INFO  log_log - 推送消息：866237030050679|1|6|null|null|5|-12600|2018-06-22 06:44:07__msgType:1__userName:274077005@qq.com
+2018-06-22 18:14:07.599 [http-nio-10002-exec-4] INFO  log_log - pushDataToIosServer:866237030050679|1|6|null|null|5|-12600|2018-06-22 06:44:07      certificatePath:java.io.BufferedInputStream@61b7bdf1       certificatePassword:123
+2018-06-22 18:14:08.926 [http-nio-10002-exec-4] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-22 18:14:19.494 [http-nio-10002-exec-6] INFO  log_log - pushTest start
+2018-06-22 18:14:19.499 [http-nio-10002-exec-6] INFO  log_log - 推送消息：866237030050679|1|6|null|null|5|-12600|2018-06-22 06:44:19__msgType:1__userName:274077005@qq.com
+2018-06-22 18:14:19.523 [http-nio-10002-exec-6] INFO  log_log - pushDataToIosServer:866237030050679|1|6|null|null|5|-12600|2018-06-22 06:44:19      certificatePath:java.io.BufferedInputStream@265a2af8       certificatePassword:123
+2018-06-22 18:14:20.400 [http-nio-10002-exec-6] INFO  log_log - ===============end push ios msg successCount============:1
+2018-06-22 18:14:31.041 [http-nio-10002-exec-9] INFO  log_log - pushTest start
+2018-06-22 18:14:31.048 [http-nio-10002-exec-9] INFO  log_log - 推送消息：866237030050679|1|6|null|null|5|-12600|2018-06-22 06:44:31__msgType:1__userName:274077005@qq.com
+2018-06-22 18:14:31.074 [http-nio-10002-exec-9] INFO  log_log - pushDataToIosServer:866237030050679|1|6|null|null|5|-12600|2018-06-22 06:44:31      certificatePath:java.io.BufferedInputStream@3988a391       certificatePassword:123
+2018-06-22 18:14:31.973 [http-nio-10002-exec-9] INFO  log_log - ===============end push ios msg successCount============:1

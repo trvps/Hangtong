@@ -1,0 +1,5 @@
+2018-04-25 16:40:57.123 [main] INFO  log_log - ----------DeviceApplication Main----------
+2018-04-25 16:41:04.861 [main] INFO  log_log - ----------容器初始化完成----------
+2018-04-25 16:44:18.306 [DubboServerHandler-172.18.11.168:7301-thread-2] INFO  log_log - Device Dial OK device1 internal-127.0.0.1-33018-0-270
+2018-04-25 16:54:03.738 [DubboServerHandler-172.18.11.168:7301-thread-3] INFO  log_log - Device Dial OK device1 internal-127.0.0.1-33875-1-3889
+2018-04-25 17:20:21.608 [DubboServerHandler-172.18.11.168:7301-thread-7] INFO  log_log - Device Dial OK device1 internal-127.0.0.1-36284-0-8100

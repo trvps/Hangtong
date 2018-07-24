@@ -1,0 +1,251 @@
+2018-06-06 10:03:14.901 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 10:03:57.039 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 10:03:57.083 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 10:04:02.940 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 10:04:02.942 [main] INFO  log_log - Content-Length: 41
+2018-06-06 10:04:02.944 [main] INFO  log_log - Date: Wed, 06 Jun 2018 02:04:02 GMT
+2018-06-06 10:04:02.944 [main] INFO  log_log - transferURL result: {"code":1,"data":null,"msg":"exception!"}
+2018-06-06 10:04:10.619 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 10:04:10.632 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 10:05:20.044 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 10:05:20.045 [main] INFO  log_log - Content-Length: 41
+2018-06-06 10:05:20.047 [main] INFO  log_log - Date: Wed, 06 Jun 2018 02:05:19 GMT
+2018-06-06 10:05:20.047 [main] INFO  log_log - transferURL result: {"code":1,"data":null,"msg":"exception!"}
+2018-06-06 10:05:48.704 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 10:05:48.713 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 10:06:25.265 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 10:06:25.267 [main] INFO  log_log - Content-Length: 41
+2018-06-06 10:06:25.269 [main] INFO  log_log - Date: Wed, 06 Jun 2018 02:06:25 GMT
+2018-06-06 10:06:25.270 [main] INFO  log_log - transferURL result: {"code":1,"data":null,"msg":"exception!"}
+2018-06-06 10:09:33.203 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 10:09:33.213 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 10:09:34.685 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 10:09:34.687 [main] INFO  log_log - Content-Length: 109
+2018-06-06 10:09:34.688 [main] INFO  log_log - Date: Wed, 06 Jun 2018 02:09:34 GMT
+2018-06-06 10:09:34.689 [main] INFO  log_log - transferURL result: {"code":0,"data":{"url":["http://218.17.161.66:10230/image/UserPortrait/201806060209336522.png"]},"msg":null}
+2018-06-06 11:02:59.222 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 11:03:46.062 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 11:04:02.298 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:04:02.307 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:04:59.313 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 11:04:59.315 [main] INFO  log_log - Content-Length: 109
+2018-06-06 11:04:59.316 [main] INFO  log_log - Date: Wed, 06 Jun 2018 03:04:59 GMT
+2018-06-06 11:04:59.316 [main] INFO  log_log - transferURL result: {"code":0,"data":{"url":["http://218.17.161.66:10230/image/UserPortrait/201806060304086773.png"]},"msg":null}
+2018-06-06 11:07:36.874 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:07:36.884 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:08:23.065 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 11:08:23.066 [main] INFO  log_log - Content-Length: 181
+2018-06-06 11:08:23.068 [main] INFO  log_log - Date: Wed, 06 Jun 2018 03:08:23 GMT
+2018-06-06 11:08:23.068 [main] INFO  log_log - transferURL result: {"code":0,"data":{"urlThumbnail":["http://218.17.161.66:10230/image/thumbnail/201806060307597334.png"],"url":["http://218.17.161.66:10230/image/201806060307434313.png"]},"msg":null}
+2018-06-06 11:15:34.524 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 11:15:53.572 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:15:53.585 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:16:23.935 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 11:16:23.937 [main] INFO  log_log - Content-Length: 41
+2018-06-06 11:16:23.938 [main] INFO  log_log - Date: Wed, 06 Jun 2018 03:16:23 GMT
+2018-06-06 11:16:23.938 [main] INFO  log_log - transferURL result: {"code":1,"data":null,"msg":"exception!"}
+2018-06-06 11:17:45.118 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:17:45.128 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:18:14.546 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:18:14.559 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:18:30.813 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:18:35.606 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:19:15.849 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:19:17.710 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:19:28.673 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 11:19:28.674 [main] INFO  log_log - Content-Length: 191
+2018-06-06 11:19:28.676 [main] INFO  log_log - Date: Wed, 06 Jun 2018 03:19:28 GMT
+2018-06-06 11:19:28.676 [main] INFO  log_log - transferURL result: {"code":0,"data":{"urlThumbnail":["http://218.17.161.66:10230/image/thumbnail/201806060319277755.png"],"url":["http://218.17.161.66:10230/image/thumbnail/201806060319253490.png"]},"msg":null}
+2018-06-06 11:20:29.809 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:20:29.822 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:20:30.774 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 11:20:30.776 [main] INFO  log_log - Content-Length: 327
+2018-06-06 11:20:30.777 [main] INFO  log_log - Date: Wed, 06 Jun 2018 03:20:30 GMT
+2018-06-06 11:20:30.778 [main] INFO  log_log - transferURL result: {"code":0,"data":{"urlThumbnail":["http://218.17.161.66:10230/image/thumbnail/201806060320302279.png","http://218.17.161.66:10230/image/thumbnail/201806060320302416.png"],"url":["http://218.17.161.66:10230/image/thumbnail/201806060320304372.png","http://218.17.161.66:10230/image/thumbnail/201806060320304174.png"]},"msg":null}
+2018-06-06 11:20:56.247 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:21:04.785 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:21:32.696 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 11:21:32.697 [main] INFO  log_log - Content-Length: 327
+2018-06-06 11:21:32.700 [main] INFO  log_log - Date: Wed, 06 Jun 2018 03:21:32 GMT
+2018-06-06 11:21:32.700 [main] INFO  log_log - transferURL result: {"code":0,"data":{"urlThumbnail":["http://218.17.161.66:10230/image/thumbnail/201806060321164797.png","http://218.17.161.66:10230/image/thumbnail/201806060321166413.png"],"url":["http://218.17.161.66:10230/image/thumbnail/201806060321141191.png","http://218.17.161.66:10230/image/thumbnail/201806060321161009.png"]},"msg":null}
+2018-06-06 11:21:45.035 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 11:21:48.076 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 11:22:06.412 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 11:22:06.414 [main] INFO  log_log - Content-Length: 327
+2018-06-06 11:22:06.416 [main] INFO  log_log - Date: Wed, 06 Jun 2018 03:22:06 GMT
+2018-06-06 11:22:06.416 [main] INFO  log_log - transferURL result: {"code":0,"data":{"urlThumbnail":["http://218.17.161.66:10230/image/thumbnail/201806060321518350.png","http://218.17.161.66:10230/image/thumbnail/201806060321519026.png"],"url":["http://218.17.161.66:10230/image/thumbnail/201806060321515707.png","http://218.17.161.66:10230/image/thumbnail/201806060321513461.png"]},"msg":null}
+2018-06-06 11:43:05.502 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 12:10:01.055 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 13:54:38.660 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 14:04:20.081 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 14:30:07.259 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 14:40:50.037 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 14:40:50.051 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 14:40:52.440 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 14:40:52.441 [main] INFO  log_log - Content-Length: 327
+2018-06-06 14:40:52.443 [main] INFO  log_log - Date: Wed, 06 Jun 2018 06:40:52 GMT
+2018-06-06 14:40:52.443 [main] INFO  log_log - transferURL result: {"code":0,"data":{"urlThumbnail":["http://218.17.161.66:10230/image/thumbnail/201806060640522547.png","http://218.17.161.66:10230/image/thumbnail/201806060640527487.png"],"url":["http://218.17.161.66:10230/image/thumbnail/201806060640513972.png","http://218.17.161.66:10230/image/thumbnail/201806060640527826.png"]},"msg":null}
+2018-06-06 15:27:07.761 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 15:28:00.405 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:28:00.415 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:30:38.632 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:30:38.633 [main] INFO  log_log - Content-Length: 404
+2018-06-06 15:30:38.635 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:30:38 GMT
+2018-06-06 15:30:38.635 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060728372276.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060728372276.png","urlThumbnail":null},{"newfilepath":"F:\\data\\thumbnail\\201806060729563390.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060729563390.png","urlThumbnail":null}],"msg":null}
+2018-06-06 15:34:53.466 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:34:55.956 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:36:59.538 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:36:59.540 [main] INFO  log_log - Content-Length: 530
+2018-06-06 15:36:59.542 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:36:59 GMT
+2018-06-06 15:36:59.542 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060735007918.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060735007918.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060735021098.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060735495791.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060735495791.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060736465278.png"}],"msg":null}
+2018-06-06 15:37:07.003 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:37:09.732 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:40:08.937 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:40:08.938 [main] INFO  log_log - Content-Length: 530
+2018-06-06 15:40:08.940 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:40:08 GMT
+2018-06-06 15:40:08.940 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060737297388.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060737297388.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060737305115.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060739502322.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060739502322.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060740073405.png"}],"msg":null}
+2018-06-06 15:42:29.330 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 15:42:58.364 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:42:58.374 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:43:04.911 [http-nio-7600-exec-1] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 15:43:09.430 [http-nio-7600-exec-1] INFO  log_log - mf.getName=789456.png
+2018-06-06 15:43:31.129 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:43:31.130 [main] INFO  log_log - Content-Length: 31
+2018-06-06 15:43:31.132 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:43:31 GMT
+2018-06-06 15:43:31.132 [main] INFO  log_log - transferURL result: {"code":0,"data":[],"msg":null}
+2018-06-06 15:44:22.108 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 15:44:43.098 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:44:48.278 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:44:53.813 [http-nio-7600-exec-1] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 15:45:14.965 [http-nio-7600-exec-1] INFO  log_log - mf.getName=789456.png
+2018-06-06 15:46:15.020 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:46:15.021 [main] INFO  log_log - Content-Length: 529
+2018-06-06 15:46:15.023 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:46:15 GMT
+2018-06-06 15:46:15.023 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060744555329.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060744555329.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/20180606074508781.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060746039881.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060746039881.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060746144173.png"}],"msg":null}
+2018-06-06 15:46:20.080 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:46:20.090 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:46:24.519 [http-nio-7600-exec-3] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 15:46:31.691 [http-nio-7600-exec-3] INFO  log_log - mf.getName=789456.png
+2018-06-06 15:46:45.389 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:46:45.391 [main] INFO  log_log - Content-Length: 528
+2018-06-06 15:46:45.394 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:46:45 GMT
+2018-06-06 15:46:45.394 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060746262607.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060746262607.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/20180606074631191.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060746382781.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060746382781.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/20180606074640255.png"}],"msg":null}
+2018-06-06 15:46:49.511 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:46:49.521 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:46:52.704 [http-nio-7600-exec-6] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 15:47:02.991 [http-nio-7600-exec-6] INFO  log_log - mf.getName=789456.png
+2018-06-06 15:47:28.109 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:47:28.110 [main] INFO  log_log - Content-Length: 530
+2018-06-06 15:47:28.114 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:47:28 GMT
+2018-06-06 15:47:28.115 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060746543892.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060746543892.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060747024248.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060747078131.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060747078131.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060747239243.png"}],"msg":null}
+2018-06-06 15:48:49.750 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:48:49.760 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:48:53.538 [http-nio-7600-exec-4] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@434f21f
+2018-06-06 15:49:05.908 [http-nio-7600-exec-4] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@31ccd422
+2018-06-06 15:49:19.812 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:49:19.814 [main] INFO  log_log - Content-Length: 530
+2018-06-06 15:49:19.816 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:49:19 GMT
+2018-06-06 15:49:19.816 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060748533070.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060748533070.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060749055188.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060749059947.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060749059947.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060749186481.png"}],"msg":null}
+2018-06-06 15:51:18.613 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 15:51:37.441 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:51:40.029 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:51:45.301 [http-nio-7600-exec-2] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@47c945b0
+2018-06-06 15:51:52.225 [http-nio-7600-exec-2] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@148227be
+2018-06-06 15:52:31.755 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:52:31.756 [main] INFO  log_log - Content-Length: 530
+2018-06-06 15:52:31.758 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:52:31 GMT
+2018-06-06 15:52:31.758 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060751469792.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060751469792.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060751527300.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060751523779.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060751523779.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060751579469.png"}],"msg":null}
+2018-06-06 15:53:29.589 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 15:55:00.597 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 15:55:26.946 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:55:26.956 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 15:55:31.913 [http-nio-7600-exec-3] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@121e8f26
+2018-06-06 15:55:42.196 [http-nio-7600-exec-3] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@7ea64167
+2018-06-06 15:56:07.945 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 15:56:07.946 [main] INFO  log_log - Content-Length: 528
+2018-06-06 15:56:07.948 [main] INFO  log_log - Date: Wed, 06 Jun 2018 07:56:07 GMT
+2018-06-06 15:56:07.948 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060755332687.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060755332687.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/2018060607554099.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060755439073.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060755439073.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060755509707.png"}],"msg":null}
+2018-06-06 15:59:54.610 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 15:59:56.608 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:00:23.945 [http-nio-7600-exec-2] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@61b748d2
+2018-06-06 16:02:28.153 [http-nio-7600-exec-2] INFO  log_log - mf.getName=org.springframework.web.multipart.support.StandardMultipartHttpServletRequest$StandardMultipartFile@1c6860be
+2018-06-06 16:02:28.586 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:02:28.588 [main] INFO  log_log - Content-Length: 530
+2018-06-06 16:02:28.589 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:02:28 GMT
+2018-06-06 16:02:28.589 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060800232111.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060800232111.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060800283526.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060802281332.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060802281332.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060802282106.png"}],"msg":null}
+2018-06-06 16:03:15.369 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:03:15.379 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:03:22.536 [http-nio-7600-exec-10] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 16:03:37.864 [http-nio-7600-exec-10] INFO  log_log - mf.getName=789456.png
+2018-06-06 16:08:09.684 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:08:09.685 [main] INFO  log_log - Content-Length: 530
+2018-06-06 16:08:09.687 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:08:09 GMT
+2018-06-06 16:08:09.687 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060803235642.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060803235642.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060803252778.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060808078552.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060808078552.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060808088732.png"}],"msg":null}
+2018-06-06 16:08:43.851 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 16:09:14.423 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:09:14.433 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:09:20.586 [http-nio-7600-exec-2] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:09:24.295 [http-nio-7600-exec-2] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 16:09:29.879 [http-nio-7600-exec-2] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:09:31.435 [http-nio-7600-exec-2] INFO  log_log - mf.getName=789456.png
+2018-06-06 16:20:10.320 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:20:10.323 [main] INFO  log_log - Content-Length: 530
+2018-06-06 16:20:10.325 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:20:10 GMT
+2018-06-06 16:20:10.325 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060809262765.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060809262765.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060809298197.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060809435919.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060809435919.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060820061481.png"}],"msg":null}
+2018-06-06 16:29:55.593 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 16:30:07.566 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:30:07.577 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:30:10.810 [http-nio-7600-exec-2] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:30:11.995 [http-nio-7600-exec-2] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 16:30:20.400 [http-nio-7600-exec-2] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:30:24.760 [http-nio-7600-exec-2] INFO  log_log - mf.getName=789456.png
+2018-06-06 16:30:34.890 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:30:34.892 [main] INFO  log_log - Content-Length: 526
+2018-06-06 16:30:34.894 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:30:34 GMT
+2018-06-06 16:30:34.894 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060830131239.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060830131239.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060830173745.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060830267401.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060830267401.png","urlThumbnail":"http://218.17.161.66:10230/image/thumbnail/201806060830331470.png"}],"msg":null}
+2018-06-06 16:31:59.596 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:31:59.606 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:32:04.968 [http-nio-7600-exec-10] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:32:07.449 [http-nio-7600-exec-10] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 16:32:33.038 [http-nio-7600-exec-10] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:32:34.677 [http-nio-7600-exec-10] INFO  log_log - mf.getName=789456.png
+2018-06-06 16:33:57.356 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 16:34:31.998 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:34:32.008 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:34:34.434 [http-nio-7600-exec-2] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:34:34.435 [http-nio-7600-exec-2] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 16:34:34.972 [http-nio-7600-exec-2] INFO  log_log - ------------------------------------------------------
+2018-06-06 16:34:34.972 [http-nio-7600-exec-2] INFO  log_log - mf.getName=789456.png
+2018-06-06 16:34:35.144 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:34:35.146 [main] INFO  log_log - Content-Length: 530
+2018-06-06 16:34:35.148 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:34:35 GMT
+2018-06-06 16:34:35.148 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060834349789.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060834349789.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060834348456.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060834346010.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060834346010.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060834358388.png"}],"msg":null}
+2018-06-06 16:50:54.174 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 16:51:22.445 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:51:22.454 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:51:42.260 [http-nio-7600-exec-1] INFO  log_log - mf.getName=1525246425.png
+2018-06-06 16:51:47.387 [http-nio-7600-exec-1] INFO  log_log - mf.getName=789456.png
+2018-06-06 16:51:48.243 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:51:48.245 [main] INFO  log_log - Content-Length: 530
+2018-06-06 16:51:48.246 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:51:48 GMT
+2018-06-06 16:51:48.246 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060851448524.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060851448524.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060851454667.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060851478923.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060851478923.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060851475080.png"}],"msg":null}
+2018-06-06 16:58:41.397 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-06-06 16:59:14.855 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:59:14.867 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:59:16.739 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:59:16.741 [main] INFO  log_log - Content-Length: 530
+2018-06-06 16:59:16.742 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:59:16 GMT
+2018-06-06 16:59:16.742 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060859153843.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060859153843.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060859166985.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060859169585.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060859169585.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060859163621.png"}],"msg":null}
+2018-06-06 16:59:28.052 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 16:59:28.062 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 16:59:28.914 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 16:59:28.916 [main] INFO  log_log - Content-Length: 528
+2018-06-06 16:59:28.917 [main] INFO  log_log - Date: Wed, 06 Jun 2018 08:59:28 GMT
+2018-06-06 16:59:28.918 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\20180606085928142.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/20180606085928142.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060859284235.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060859281539.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060859281539.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060859288069.png"}],"msg":null}
+2018-06-06 17:00:52.246 [main] INFO  log_log - ----------PushTest----------
+2018-06-06 17:00:52.255 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-06-06 17:00:53.133 [main] INFO  log_log - Content-Type: text/plain;charset=UTF-8
+2018-06-06 17:00:53.135 [main] INFO  log_log - Content-Length: 529
+2018-06-06 17:00:53.137 [main] INFO  log_log - Date: Wed, 06 Jun 2018 09:00:53 GMT
+2018-06-06 17:00:53.137 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:\\data\\thumbnail\\201806060900523873.png","orgfilename":"1525246425.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060900523873.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/201806060900522361.png"},{"newfilepath":"F:\\data\\thumbnail\\201806060900534818.png","orgfilename":"789456.png","url":"http://218.17.161.66:10230/image/thumbnail/201806060900534818.png","urlThumbnail":"http://218.17.161.66:10230/image/DevicePhoto/20180606090053193.png"}],"msg":null}
+2018-06-06 17:09:32.640 [main] INFO  log_log - ----------ResourceApplication Main----------

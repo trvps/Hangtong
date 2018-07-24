@@ -1,0 +1,47 @@
+2018-07-02 10:53:46.797 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-07-02 11:09:56.806 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-07-02 11:11:27.133 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:12:32.262 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:14:01.536 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:14:01.550 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:14:02.643 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-02 11:14:02.645 [main] INFO  log_log - Content-Length: 192
+2018-07-02 11:14:02.645 [main] INFO  log_log - Date: Mon, 02 Jul 2018 03:11:38 GMT
+2018-07-02 11:14:02.645 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/201807020311384810.apk","orgfilename":"1525246425.apk","url":"http://218.17.161.66:10230/image/201807020311384810.apk","urlThumbnail":null}],"msg":null}
+2018-07-02 11:15:22.344 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:15:22.357 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:15:40.046 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:15:40.059 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:15:41.821 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-02 11:15:41.822 [main] INFO  log_log - Content-Length: 217
+2018-07-02 11:15:41.823 [main] INFO  log_log - Date: Mon, 02 Jul 2018 03:15:41 GMT
+2018-07-02 11:15:41.823 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:/data\\AndriodAPK\\201807020315418046.apk","orgfilename":"1525246425.apk","url":"http://218.17.161.66:7600/image/AndriodAPK/201807020315418046.apk","urlThumbnail":null}],"msg":null}
+2018-07-02 11:16:27.389 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:16:31.537 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:16:47.926 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-02 11:16:47.928 [main] INFO  log_log - Content-Length: 217
+2018-07-02 11:16:47.928 [main] INFO  log_log - Date: Mon, 02 Jul 2018 03:16:47 GMT
+2018-07-02 11:16:47.929 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:/data\\AndriodAPK\\201807020316425998.apk","orgfilename":"1525246425.apk","url":"http://218.17.161.66:7600/image/AndriodAPK/201807020316425998.apk","urlThumbnail":null}],"msg":null}
+2018-07-02 11:17:55.894 [main] INFO  log_log - ----------ResourceApplication Main----------
+2018-07-02 11:18:17.453 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:18:17.465 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:18:19.071 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-02 11:18:19.073 [main] INFO  log_log - Content-Length: 201
+2018-07-02 11:18:19.073 [main] INFO  log_log - Date: Mon, 02 Jul 2018 03:18:19 GMT
+2018-07-02 11:18:19.073 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:/data\\AndriodAPK\\1525246425.apk","orgfilename":"1525246425.apk","url":"http://218.17.161.66:7600/image/AndriodAPK/1525246425.apk","urlThumbnail":null}],"msg":null}
+2018-07-02 11:20:26.165 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:20:26.177 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:20:26.942 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-02 11:20:26.943 [main] INFO  log_log - Content-Length: 201
+2018-07-02 11:20:26.944 [main] INFO  log_log - Date: Mon, 02 Jul 2018 03:20:26 GMT
+2018-07-02 11:20:26.944 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"F:/data\\AndriodAPK\\1525246425.apk","orgfilename":"1525246425.apk","url":"http://218.17.161.66:7600/image/AndriodAPK/1525246425.apk","urlThumbnail":null}],"msg":null}
+2018-07-02 11:45:48.543 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:46:16.872 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:46:35.514 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:46:35.526 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:54:12.653 [main] INFO  log_log - ----------PushTest----------
+2018-07-02 11:54:12.666 [main] INFO  log_log - 发送请求-----------------------------------------
+2018-07-02 11:54:15.675 [main] INFO  log_log - Content-Type: text/plain;charset=ISO-8859-1
+2018-07-02 11:54:15.677 [main] INFO  log_log - Content-Length: 198
+2018-07-02 11:54:15.677 [main] INFO  log_log - Date: Mon, 02 Jul 2018 03:51:51 GMT
+2018-07-02 11:54:15.677 [main] INFO  log_log - transferURL result: {"code":0,"data":[{"newfilepath":"/data/AndriodAPK/1525246425.apk","orgfilename":"1525246425.apk","url":"http://218.17.161.66:10230/image/AndriodAPK/1525246425.apk","urlThumbnail":null}],"msg":null}
